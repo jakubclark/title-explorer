@@ -132,7 +132,7 @@ class MovieScraper:
             movies.append(title)
         return movies
 
-    async def get_movie(self, id: str):
+    async def get_title(self, id: str):
         log.debug(f'Scraping for id="{id}"')
         url = f'{title_url}{id}'
         async with self._session.get(url) as response:
@@ -144,6 +144,7 @@ class MovieScraper:
 
         title = soup.find('h1').contents[0].strip()
         rating = soup.find('div', class_='ratingValue').text.strip()
+        rating = float(rating.split('/')[0])
         runtime = soup.find('time').text.strip()
         runtime_mins = Utils.to_minutes(runtime)
 

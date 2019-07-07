@@ -3,6 +3,7 @@ import re
 from aiohttp import web
 
 from .__version__ import __version__
+from .graph import insert_to_db
 from .json_serializer import dumps
 
 routes = web.RouteTableDef()
@@ -29,7 +30,8 @@ async def search(request):
     elif 'id' in params:
         # Search by ID
         id_ = params['id']
-        res = await scraper.get_movie(id_)
+        res = await scraper.get_title(id_)
+        await insert_to_db(request.app, res.copy())
         status = 200
     else:
         res = {

@@ -3,13 +3,18 @@ import asyncio
 import aiotask_context as context
 from aiohttp import ClientSession, web
 
+from neo4j import GraphDatabase
+
+from .config import Config
 from .middleware import exception_filter, request_id_middleware
 from .routes import setup_routes
 from .scraper import MovieScraper
 
 
-async def inject_movie_scraper(app):
+async def inject_dependencies(app):
+    config = app['config']
     app['movie_scraper'] = MovieScraper(ClientSession())
+    app['neo4j_driver'] = GraphDatabase.driver(config.neo4j_host, auth=config.neo4j_auth)
 
 
 def init_app():
@@ -20,8 +25,8 @@ def init_app():
         request_id_middleware,
         exception_filter
     ])
-
-    app.on_startup.append(inject_movie_scraper)
+    app['config'] = Config()
+    app.on_startup.append(inject_dependencies)
 
     setup_routes(app)
     return app
