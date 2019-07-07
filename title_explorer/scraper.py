@@ -36,7 +36,13 @@ class Utils:
             # This is a tv show
             live_time = re.search(r'\(\d*–(\d*| )?\)', release_date)[0]
             live_time = re.sub('[()]', '', live_time)
-            parts = live_time.split('–')
+            try:
+                parts = live_time.split('–')
+            except ValueError:
+                log.exception(f'Could not split live_time. live_time={live_time}')
+                return {
+                    'release_date': 'None'
+                }
             start = parts[0]
             end = parts[1]
 
@@ -46,7 +52,13 @@ class Utils:
             }
         else:
             release_date = re.sub(r'\(.*\)$', '', release_date).strip()
-            day, month, year = release_date.split(' ')
+            try:
+                day, month, year = release_date.split(' ')
+            except ValueError:
+                log.exception(f'Could not split date. release_date={release_date}')
+                return {
+                    'release_date': 'None'
+                }
             day = int(day)
             year = int(year)
             release_date = date(year, month_to_num[month], day)
@@ -162,6 +174,15 @@ class MovieScraper:
 
         story_line = soup.find('div', class_='summary_text').text.strip()
 
+        txt_blocks = soup.find_all('div', class_='txt-block')
+        for block in txt_blocks:
+            h4 = block.find('h4', class_='inline')
+            if h4 and h4.text.strip() == 'Production Co:':
+                production_company = block.find('a').text.strip()
+                break
+        else:
+            production_company = None
+
         res = {
             'title': title,
             'rating': rating,
@@ -174,6 +195,23 @@ class MovieScraper:
             'writers': writers,
             'stars': stars,
             'story_line': story_line,
+            'production_company': production_company
         }
 
         return res
+
+    async def get_top_results(self):
+        async with self._session.get('https://www.imdb.com/chart/top') as response:
+            txt = await response.text()
+
+        soup = BeautifulSoup(txt)
+        top_250_list = soup.find('tbody', class_='lister-list')
+
+        results = []
+
+        for tr in top_250_list.find_all('tr'):
+            title_col = tr.find('td', class_='titleColumn').find('a')
+            movie_id = re.search(r'/title/[a-z0-9]*/', title_col['href'])[0].strip().split('/')[2]
+            results.append(await self.get_title(movie_id))
+
+        return results

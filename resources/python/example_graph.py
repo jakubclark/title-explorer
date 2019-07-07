@@ -31,13 +31,20 @@ ids = [
 ]
 
 
+async def fetch(session, url, id):
+    async with session.get(url, params={'id': id}) as response:
+        return await response.text()
+
+
 async def main():
     async with aiohttp.ClientSession() as session:
+        tasks = []
         for id in ids:
-            url = 'http://localhost:8080/api/search'
-            async with session.get(url, params={'id': id}) as response:
-                txt = await response.text()
-                print(txt)
+            url = 'http://localhost:8080/api/search?'
+            tasks.append(fetch(session, url, id))
+        results = await asyncio.gather(*tasks)
+        for res in results:
+            print(res)
 
 
 if __name__ == '__main__':

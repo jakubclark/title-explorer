@@ -1,0 +1,18 @@
+version: '3'
+services:
+  title_explorer:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - "neo4j"
+    environment:
+      NEO4J_HOST: "bolt://neo4j:7687"
+    entrypoint: "pipenv run python -m title_explorer"
+  neo4j:
+    image: "neo4j:3.5.3"
+    ports:
+      - "7687:7687"
+      - "7474:7474"
+    environment:
+      NEO4J_AUTH: "neo4j/pass"

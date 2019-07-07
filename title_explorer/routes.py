@@ -1,3 +1,4 @@
+import asyncio
 import re
 
 from aiohttp import web
@@ -5,6 +6,7 @@ from aiohttp import web
 from .__version__ import __version__
 from .graph import insert_to_db
 from .json_serializer import dumps
+from .logger import log
 
 routes = web.RouteTableDef()
 
@@ -31,7 +33,8 @@ async def search(request):
         # Search by ID
         id_ = params['id']
         res = await scraper.get_title(id_)
-        await insert_to_db(request.app, res.copy())
+        future = insert_to_db(request.app, res.copy())
+        asyncio.ensure_future(future)
         status = 200
     else:
         res = {
@@ -43,8 +46,19 @@ async def search(request):
     return web.json_response(res, status=status, dumps=dumps)
 
 
+@routes.get('/api/top')
+async def get_top_titles(request):
+    log.debug('Fetching top IMDb results')
+    scraper = request.app['movie_scraper']
+    results = await scraper.get_top_results()
+    for res in results:
+        future = insert_to_db(request.app, res.copy())
+        asyncio.ensure_future(future)
+    return web.json_response(results, dumps=dumps)
+
+
 @routes.get('/api/version')
 async def version(request):
     return web.json_response({
         'version': __version__
-    })
+    }, dumps=dumps)

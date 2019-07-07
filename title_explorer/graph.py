@@ -37,6 +37,7 @@ def create_title_node(tx, title_object):
         else:
             release_date = release_date['release_date']
     story_line = title_object['story_line']
+    production_company = title_object['production_company']
 
     log.debug(f'Creating Title="{title}"')
 
@@ -47,10 +48,11 @@ def create_title_node(tx, title_object):
            'runtime_mins: $runtime_mins, '
            'genres: $genres, '
            'release_date: $release_date, '
-           'story_line: $story_line })',
+           'story_line: $story_line, '
+           'production_company: $production_company})',
            title=title, rating=rating, runtime=runtime,
            runtime_mins=runtime_mins, genres=genres, release_date=release_date,
-           story_line=story_line)
+           story_line=story_line, production_company=production_company)
 
 
 def connect_title_to_person(tx, title, person, rel_type):
@@ -107,7 +109,7 @@ def connect_nodes(tx, out_label, out_id_field, out_id_value, in_label, in_id_fie
     tx.run(stmt)
 
 
-def make_connections(sess, result, field,  rel_type):
+def make_connections(sess, result, field, rel_type):
     """
     For every person in result[`field`], create a Person node if it doesn't exist,
     and create an edge from result['title'] to `person` with a `rel_type` relationship
@@ -134,6 +136,6 @@ async def insert_to_db(app, result):
         sess.write_transaction(create_title_node, result)
 
         make_connections(sess, result, 'creators', 'created')
-        make_connections(sess, result, 'directors',  'directed')
+        make_connections(sess, result, 'directors', 'directed')
         make_connections(sess, result, 'writers', 'wrote')
         make_connections(sess, result, 'stars', 'starred_in')
