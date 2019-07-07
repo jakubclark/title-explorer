@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+autopep8 = "*"
+pytest = "*"
+isort = "*"
+
+[packages]
+aiohttp = "==3.5.4"
+beautifulsoup4 = "==4.7.1"
+click = "==7.0"
+aiotask-context = "==0.6.0"
+
+[requires]
+python_version = "3.6"
