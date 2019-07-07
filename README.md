@@ -35,10 +35,10 @@ Use `neo4j` as the username and `pass` as the password, and run the cypher query
 
 * `MATCH (n1)-[r]->(n2) RETURN r, n1, n2`
 
-This example ia bit overloaded, as each relationship occurs in both direction:
+The relationships are from `Person` to `Title`:
 
-* "Star A" -> `stars_in` -> "Movie A"
-* "Movie A" -> `starred_by` -> "Star A"
+* `Paul Rudd` stars_in `Ant-Man`
+* `Joe Russo` directed `Avengers: Infinity War`
 
 # Goals
 

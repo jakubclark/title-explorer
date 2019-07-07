@@ -71,7 +71,7 @@ def connect_person_to_title(tx, title, person, rel_type):
     Create an edge from Person `person` to Title `title` with a `rel_type` relationship
     """
     log.debug(
-        f'Creating edge from Person="{person}"" to Title="{title}" with rel_type="{rel_type}"')
+        f'Creating edge from Person="{person}" to Title="{title}" with rel_type="{rel_type}"')
     stmt = (f'MATCH (title:Title),(person:Person)\n'
             f'WHERE title.title = \'{title}\' AND person.name = \'{person}\'\n'
             f'CREATE (person)-[r:{rel_type}]->(title)'
@@ -107,7 +107,7 @@ def connect_nodes(tx, out_label, out_id_field, out_id_value, in_label, in_id_fie
     tx.run(stmt)
 
 
-def make_connections(sess, result, field, title_to_person, person_to_title):
+def make_connections(sess, result, field,  rel_type):
     """
     For every person in result[`field`], create a Person node if it doesn't exist,
     and create an edge from result['title'] to `person` with a `rel_type` relationship
@@ -115,8 +115,7 @@ def make_connections(sess, result, field, title_to_person, person_to_title):
     title = result['title']
     for person in result[field]:
         sess.write_transaction(create_person_node, person)
-        sess.write_transaction(connect_title_to_person, title, person, title_to_person)
-        sess.write_transaction(connect_person_to_title, title, person, person_to_title)
+        sess.write_transaction(connect_person_to_title, title, person, rel_type)
 
 
 async def insert_to_db(app, result):
@@ -134,7 +133,7 @@ async def insert_to_db(app, result):
 
         sess.write_transaction(create_title_node, result)
 
-        make_connections(sess, result, 'creators', 'created_by', 'created')
-        make_connections(sess, result, 'directors', 'directed_by', 'created')
-        make_connections(sess, result, 'writers', 'written_by', 'wrote')
-        make_connections(sess, result, 'stars', 'starred_by', 'starred_in')
+        make_connections(sess, result, 'creators', 'created')
+        make_connections(sess, result, 'directors',  'directed')
+        make_connections(sess, result, 'writers', 'wrote')
+        make_connections(sess, result, 'stars', 'starred_in')
