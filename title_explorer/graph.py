@@ -14,6 +14,24 @@ def check_exists(tx, label, id_field='name', id_value=''):
     return num > 0
 
 
+def check_rel_exists(tx, node1_type, node1_id_field, node1_id_value,
+                     node2_type, node2_id_field, node2_id_value,
+                     rel_type):
+    """
+    Check if there is an edge with from `node1` to `node2`, with a `rel_type` relationship
+    """
+    log.debug(f'Checking if there is an edge from {node1_type} with {node1_id_field}="{node1_id_value}" to'
+              f'{node2_type} with {node2_id_field}="{node2_id_value}"')
+    stmt = (f'MATCH (n1:{node1_type})-[r:{rel_type}]->(n2:{node2_type})\n'
+            f'WHERE n1.{node1_id_field} = \'{node1_id_value}\' AND n2.{node2_id_field} = \'{node2_id_value}\'\n'
+            f'RETURN n1, r, 2')
+    res = tx.run(stmt)
+    num = 0
+    for _ in res:
+        num += 1
+    return num > 0
+
+
 def create_person_node(tx, name: str):
     exists = check_exists(tx, 'Person', 'name', name)
     if exists:
@@ -38,6 +56,8 @@ def create_title_node(tx, title_object):
             release_date = release_date['release_date']
     story_line = title_object['story_line']
     production_company = title_object['production_company']
+    id = title_object['id']
+    type = title_object['type']
 
     log.debug(f'Creating Title="{title}"')
 
@@ -49,33 +69,27 @@ def create_title_node(tx, title_object):
            'genres: $genres, '
            'release_date: $release_date, '
            'story_line: $story_line, '
-           'production_company: $production_company})',
-           title=title, rating=rating, runtime=runtime,
-           runtime_mins=runtime_mins, genres=genres, release_date=release_date,
-           story_line=story_line, production_company=production_company)
+           'production_company: $production_company, '
+           'id: $id, '
+           'type: $type})',
+           title=title, rating=rating, runtime=runtime, runtime_mins=runtime_mins,
+           genres=genres, release_date=release_date, story_line=story_line,
+           production_company=production_company, id=id, type=type)
 
 
-def connect_title_to_person(tx, title, person, rel_type):
-    """
-    Create an edge from `title` to person `person` of type `person_type` with a `rel_type relationship
-    """
-    log.debug(
-        f'Creating edge from Title="{title}" to Person="{person}" with rel_type="{rel_type}"')
-    stmt = (f'MATCH (title:Title),(person:Person)\n'
-            f'WHERE title.title = \'{title}\' AND person.name = \'{person}\'\n'
-            f'CREATE (title)-[r:{rel_type}]->(person)'
-            )
-    tx.run(stmt)
-
-
-def connect_person_to_title(tx, title, person, rel_type):
+def connect_person_to_title(tx, title_id, person_name, rel_type):
     """
     Create an edge from Person `person` to Title `title` with a `rel_type` relationship
     """
+    exists = check_rel_exists(tx, 'Person', 'name', person_name, 'Title', 'id', title_id, rel_type)
+    if exists:
+        log.debug(f'Not creating edge from Person="{person_name}" to Title="{title_id}" with rel_type="{rel_type}".'
+                  f'Already exists')
+        return
     log.debug(
-        f'Creating edge from Person="{person}" to Title="{title}" with rel_type="{rel_type}"')
+        f'Creating edge from Person="{person_name}" to Title="{title_id}" with rel_type="{rel_type}"')
     stmt = (f'MATCH (title:Title),(person:Person)\n'
-            f'WHERE title.title = \'{title}\' AND person.name = \'{person}\'\n'
+            f'WHERE title.id = \'{title_id}\' AND person.name = \'{person_name}\'\n'
             f'CREATE (person)-[r:{rel_type}]->(title)'
             )
     tx.run(stmt)
@@ -114,10 +128,10 @@ def make_connections(sess, result, field, rel_type):
     For every person in result[`field`], create a Person node if it doesn't exist,
     and create an edge from result['title'] to `person` with a `rel_type` relationship
     """
-    title = result['title']
+    title_id = result['id']
     for person in result[field]:
         sess.write_transaction(create_person_node, person)
-        sess.write_transaction(connect_person_to_title, title, person, rel_type)
+        sess.write_transaction(connect_person_to_title, title_id, person, rel_type)
 
 
 async def insert_to_db(app, result):
@@ -126,14 +140,12 @@ async def insert_to_db(app, result):
     with driver.session() as sess:
         # Create a node for the title
         title = result['title']
+        title_id = result['id']
 
-        exists = sess.read_transaction(check_exists, 'Title', 'title', title)
-        if exists:
-            log.debug(
-                f'Title Node with title={title} already exists. Not Creating it.')
-            return
-
-        sess.write_transaction(create_title_node, result)
+        exists = sess.read_transaction(check_exists, 'Title', 'id', title_id)
+        if not exists:
+            sess.write_transaction(create_title_node, result)
+        log.debug(f'Title Node with title={title} already exists. Not Creating it.')
 
         make_connections(sess, result, 'creators', 'created')
         make_connections(sess, result, 'directors', 'directed')
