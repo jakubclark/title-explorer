@@ -12,7 +12,6 @@ from .scraper import MovieScraper
 
 async def inject_dependencies(app):
     config = app['config']
-    await asyncio.sleep(10)
     app['movie_scraper'] = MovieScraper(ClientSession())
     app['neo4j_driver'] = GraphDatabase.driver(config.neo4j_host, auth=config.neo4j_auth)
 

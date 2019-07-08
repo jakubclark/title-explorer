@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0d65688bff32830a16479875cfd31537241cf5a8d6c35caa7e4418eb00d13745"
+            "sha256": "ac9a40304756d2a7f2d86098bf33515b4046d0c2c0de1077a1d1b04db565135c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -103,6 +103,14 @@
             "markers": "python_version < '3.7'",
             "version": "==1.1.0"
         },
+        "jsonschema": {
+            "hashes": [
+                "sha256:0c0a81564f181de3212efa2d17de1910f8732fa1b71c42266d983cd74304e20d",
+                "sha256:a5f6559964a3851f59040d3b961de5e68e70971afb88ba519d27e6a039efff1a"
+            ],
+            "index": "pypi",
+            "version": "==3.0.1"
+        },
         "multidict": {
             "hashes": [
                 "sha256:024b8129695a952ebd93373e45b5d341dbb87c17ce49637b34000093f243dd4f",
@@ -155,6 +163,12 @@
                 "sha256:4e0477ba0f24e004de2fa79a3236de2bd941f20de0b5db8d976c52a86d7363eb"
             ],
             "version": "==1.7.4"
+        },
+        "pyrsistent": {
+            "hashes": [
+                "sha256:50cffebc87ca91b9d4be2dcc2e479272bcb466b5a0487b6c271f7ddea6917e14"
+            ],
+            "version": "==0.15.3"
         },
         "pytz": {
             "hashes": [
@@ -343,10 +357,10 @@
         },
         "zipp": {
             "hashes": [
-                "sha256:8c1019c6aad13642199fbe458275ad6a84907634cc9f0989877ccc4a2840139d",
-                "sha256:ca943a7e809cc12257001ccfb99e3563da9af99d52f261725e96dfe0f9275bc3"
+                "sha256:4970c3758f4e89a7857a973b1e2a5d75bcdc47794442f2e2dd4fe8e0466e809a",
+                "sha256:8a5712cfd3bb4248015eb3b0b3c54a5f6ee3f2425963ef2a0125b8bc40aafaec"
             ],
-            "version": "==0.5.1"
+            "version": "==0.5.2"
         }
     }
 }
