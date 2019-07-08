@@ -1,0 +1,7147 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "rating": 9.3,
+    "runtime": "2h 22min",
+    "runtime_mins": 142,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1995-03-02"
+    },
+    "creators": [],
+    "directors": [
+      "Frank Darabont"
+    ],
+    "writers": [
+      "Stephen King",
+      "Frank Darabont"
+    ],
+    "stars": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "story_line": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "production_company": "Castle Rock Entertainment"
+  },
+  {
+    "title": "The Godfather",
+    "rating": 9.2,
+    "runtime": "2h 55min",
+    "runtime_mins": 175,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1972-09-28"
+    },
+    "creators": [],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "writers": [
+      "Mario Puzo",
+      "Francis Ford Coppola",
+      "1 more credit"
+    ],
+    "stars": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "story_line": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "The Godfather: Part II",
+    "rating": 9.0,
+    "runtime": "3h 22min",
+    "runtime_mins": 202,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1975-07-17"
+    },
+    "creators": [],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "writers": [
+      "Francis Ford Coppola",
+      "Mario Puzo",
+      "1 more credit"
+    ],
+    "stars": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "story_line": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "The Dark Knight",
+    "rating": 9.0,
+    "runtime": "2h 32min",
+    "runtime_mins": 152,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2008-07-24"
+    },
+    "creators": [],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Jonathan Nolan",
+      "Christopher Nolan"
+    ],
+    "stars": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "story_line": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "12 Angry Men",
+    "rating": 8.9,
+    "runtime": "1h 36min",
+    "runtime_mins": 96,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1957-04-10"
+    },
+    "creators": [],
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "writers": [
+      "Reginald Rose",
+      "Reginald Rose"
+    ],
+    "stars": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "story_line": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+    "production_company": "Orion-Nova Productions"
+  },
+  {
+    "title": "Schindler's List",
+    "rating": 8.9,
+    "runtime": "3h 15min",
+    "runtime_mins": 195,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1994-03-03"
+    },
+    "creators": [],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Thomas Keneally",
+      "Steven Zaillian"
+    ],
+    "stars": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "story_line": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "production_company": "Universal Pictures"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "rating": 8.9,
+    "runtime": "3h 21min",
+    "runtime_mins": 201,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "2003-12-17"
+    },
+    "creators": [],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "J.R.R. Tolkien",
+      "Fran Walsh"
+    ],
+    "stars": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "story_line": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "production_company": "New Line Cinema"
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating": 8.9,
+    "runtime": "2h 34min",
+    "runtime_mins": 154,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1994-12-01"
+    },
+    "creators": [],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "writers": [
+      "Quentin Tarantino",
+      "Roger Avary",
+      "1 more credit"
+    ],
+    "stars": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "story_line": "The lives of two mob hitmen, a boxer, a gangster & his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "production_company": "Miramax"
+  },
+  {
+    "title": "Il buono, il brutto, il cattivo",
+    "rating": 8.8,
+    "runtime": "2h 41min",
+    "runtime_mins": 161,
+    "genres": [
+      "Western"
+    ],
+    "release_date": {
+      "release_date": "1968-02-08"
+    },
+    "creators": [],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "writers": [
+      "Luciano Vincenzoni",
+      "Sergio Leone"
+    ],
+    "stars": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "story_line": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "production_company": "Produzioni Europee Associate (PEA)"
+  },
+  {
+    "title": "Fight Club",
+    "rating": 8.8,
+    "runtime": "2h 19min",
+    "runtime_mins": 139,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1999-11-04"
+    },
+    "creators": [],
+    "directors": [
+      "David Fincher"
+    ],
+    "writers": [
+      "Chuck Palahniuk",
+      "Jim Uhls"
+    ],
+    "stars": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Meat Loaf"
+    ],
+    "story_line": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "production_company": "Fox 2000 Pictures"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": 8.8,
+    "runtime": "2h 58min",
+    "runtime_mins": 178,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "2001-12-19"
+    },
+    "creators": [],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "J.R.R. Tolkien",
+      "Fran Walsh"
+    ],
+    "stars": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "story_line": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "production_company": "New Line Cinema"
+  },
+  {
+    "title": "Forrest Gump",
+    "rating": 8.8,
+    "runtime": "2h 22min",
+    "runtime_mins": 142,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1994-09-22"
+    },
+    "creators": [],
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "writers": [
+      "Winston Groom",
+      "Eric Roth"
+    ],
+    "stars": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "story_line": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "Inception",
+    "rating": 8.8,
+    "runtime": "2h 28min",
+    "runtime_mins": 148,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2010-07-16"
+    },
+    "creators": [],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Christopher Nolan"
+    ],
+    "stars": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "story_line": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "rating": 8.7,
+    "runtime": "2h 4min",
+    "runtime_mins": 124,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1980-12-18"
+    },
+    "creators": [],
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "writers": [
+      "Leigh Brackett",
+      "Lawrence Kasdan",
+      "1 more credit"
+    ],
+    "stars": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "story_line": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+    "production_company": "Lucasfilm"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "rating": 8.7,
+    "runtime": "2h 59min",
+    "runtime_mins": 179,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "2002-12-18"
+    },
+    "creators": [],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "J.R.R. Tolkien",
+      "Fran Walsh"
+    ],
+    "stars": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "story_line": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "production_company": "New Line Cinema"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "rating": 8.7,
+    "runtime": "2h 13min",
+    "runtime_mins": 133,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1976-04-15"
+    },
+    "creators": [],
+    "directors": [
+      "Milos Forman"
+    ],
+    "writers": [
+      "Lawrence Hauben",
+      "Bo Goldman"
+    ],
+    "stars": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Will Sampson"
+    ],
+    "story_line": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+    "production_company": "Fantasy Films"
+  },
+  {
+    "title": "Goodfellas",
+    "rating": 8.7,
+    "runtime": "2h 26min",
+    "runtime_mins": 146,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1990-11-02"
+    },
+    "creators": [],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Nicholas Pileggi",
+      "Nicholas Pileggi",
+      "1 more credit"
+    ],
+    "stars": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "story_line": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "The Matrix",
+    "rating": 8.7,
+    "runtime": "2h 16min",
+    "runtime_mins": 136,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1999-06-17"
+    },
+    "creators": [],
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "writers": [
+      "Lilly Wachowski",
+      "Lana Wachowski"
+    ],
+    "stars": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "story_line": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Shichinin no samurai",
+    "rating": 8.7,
+    "runtime": "3h 27min",
+    "runtime_mins": 207,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1954-04-26"
+    },
+    "creators": [],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "writers": [
+      "Akira Kurosawa",
+      "Shinobu Hashimoto",
+      "1 more credit"
+    ],
+    "stars": [
+      "Toshir\u00f4 Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "story_line": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "production_company": "Toho Company"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "rating": 8.7,
+    "runtime": "3h 1min",
+    "runtime_mins": 181,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2019-04-24"
+    },
+    "creators": [],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus",
+      "Stephen McFeely"
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "story_line": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "production_company": "Marvel Studios"
+  },
+  {
+    "title": "Seven",
+    "rating": 8.6,
+    "runtime": "2h 7min",
+    "runtime_mins": 127,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "1995-11-09"
+    },
+    "creators": [],
+    "directors": [
+      "David Fincher"
+    ],
+    "writers": [
+      "Andrew Kevin Walker"
+    ],
+    "stars": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "story_line": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "production_company": "Cecchi Gori Pictures"
+  },
+  {
+    "title": "Cidade de Deus",
+    "rating": 8.6,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2003-02-06"
+    },
+    "creators": [],
+    "directors": [
+      "Fernando Meirelles",
+      "K\u00e1tia Lund"
+    ],
+    "writers": [
+      "Paulo Lins",
+      "Br\u00e1ulio Mantovani"
+    ],
+    "stars": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "story_line": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "production_company": "O2 Filmes"
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "rating": 8.6,
+    "runtime": "2h 1min",
+    "runtime_mins": 121,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1977-12-15"
+    },
+    "creators": [],
+    "directors": [
+      "George Lucas"
+    ],
+    "writers": [
+      "George Lucas"
+    ],
+    "stars": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "story_line": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "production_company": "Lucasfilm"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "rating": 8.6,
+    "runtime": "1h 58min",
+    "runtime_mins": 118,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1991-04-12"
+    },
+    "creators": [],
+    "directors": [
+      "Jonathan Demme"
+    ],
+    "writers": [
+      "Thomas Harris",
+      "Ted Tally"
+    ],
+    "stars": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Lawrence A. Bonney"
+    ],
+    "story_line": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "production_company": "Strong Heart/Demme Production"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "rating": 8.6,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1951-06-07"
+    },
+    "creators": [],
+    "directors": [
+      "Frank Capra"
+    ],
+    "writers": [
+      "Frances Goodrich",
+      "Albert Hackett"
+    ],
+    "stars": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore"
+    ],
+    "story_line": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "production_company": "Liberty Films (II)"
+  },
+  {
+    "title": "La vita \u00e8 bella",
+    "rating": 8.6,
+    "runtime": "1h 56min",
+    "runtime_mins": 116,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1998-12-03"
+    },
+    "creators": [],
+    "directors": [
+      "Roberto Benigni"
+    ],
+    "writers": [
+      "Vincenzo Cerami",
+      "Roberto Benigni"
+    ],
+    "stars": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "story_line": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "production_company": "Melampo Cinematografica"
+  },
+  {
+    "title": "De reis van Chihiro",
+    "rating": 8.6,
+    "runtime": "2h 5min",
+    "runtime_mins": 125,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "2003-04-24"
+    },
+    "creators": [],
+    "directors": [
+      "Hayao Miyazaki",
+      "Kirk Wise"
+    ],
+    "writers": [
+      "Hayao Miyazaki"
+    ],
+    "stars": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino"
+    ],
+    "story_line": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "production_company": "Tokuma Shoten"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "rating": 8.6,
+    "runtime": "2h 49min",
+    "runtime_mins": 169,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1998-09-17"
+    },
+    "creators": [],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Robert Rodat"
+    ],
+    "stars": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "story_line": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "production_company": "DreamWorks"
+  },
+  {
+    "title": "The Usual Suspects",
+    "rating": 8.6,
+    "runtime": "1h 46min",
+    "runtime_mins": 106,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1996-02-01"
+    },
+    "creators": [],
+    "directors": [
+      "Bryan Singer"
+    ],
+    "writers": [
+      "Christopher McQuarrie"
+    ],
+    "stars": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "story_line": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "production_company": "PolyGram Filmed Entertainment"
+  },
+  {
+    "title": "L\u00e9on",
+    "rating": 8.6,
+    "runtime": "1h 50min",
+    "runtime_mins": 110,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1995-02-23"
+    },
+    "creators": [],
+    "directors": [
+      "Luc Besson"
+    ],
+    "writers": [
+      "Luc Besson"
+    ],
+    "stars": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "story_line": "Mathilda, a 12-year-old girl, is reluctantly taken in by L\u00e9on, a professional assassin, after her family is murdered. L\u00e9on and Mathilda form an unusual relationship, as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade.",
+    "production_company": "Gaumont"
+  },
+  {
+    "title": "The Green Mile",
+    "rating": 8.6,
+    "runtime": "3h 9min",
+    "runtime_mins": 189,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "2000-03-09"
+    },
+    "creators": [],
+    "directors": [
+      "Frank Darabont"
+    ],
+    "writers": [
+      "Stephen King",
+      "Frank Darabont"
+    ],
+    "stars": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "story_line": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "production_company": "Castle Rock Entertainment"
+  },
+  {
+    "title": "Interstellar",
+    "rating": 8.6,
+    "runtime": "2h 49min",
+    "runtime_mins": 169,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2014-11-06"
+    },
+    "creators": [],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Jonathan Nolan",
+      "Christopher Nolan"
+    ],
+    "stars": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "story_line": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "Psycho",
+    "rating": 8.5,
+    "runtime": "1h 49min",
+    "runtime_mins": 109,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1960-12-23"
+    },
+    "creators": [],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "writers": [
+      "Joseph Stefano",
+      "Robert Bloch"
+    ],
+    "stars": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "story_line": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "production_company": "Shamley Productions"
+  },
+  {
+    "title": "American History X",
+    "rating": 8.5,
+    "runtime": "1h 59min",
+    "runtime_mins": 119,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1999-05-12"
+    },
+    "creators": [],
+    "directors": [
+      "Tony Kaye"
+    ],
+    "writers": [
+      "David McKenna"
+    ],
+    "stars": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo"
+    ],
+    "story_line": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "production_company": "New Line Cinema"
+  },
+  {
+    "title": "City Lights",
+    "rating": 8.5,
+    "runtime": "1h 27min",
+    "runtime_mins": 87,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1931-05-01"
+    },
+    "creators": [],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "writers": [
+      "Charles Chaplin"
+    ],
+    "stars": [
+      "Charles Chaplin",
+      "Virginia Cherrill",
+      "Florence Lee"
+    ],
+    "story_line": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "production_company": "Charles Chaplin Productions"
+  },
+  {
+    "title": "Casablanca",
+    "rating": 8.5,
+    "runtime": "1h 42min",
+    "runtime_mins": 102,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1947-04-04"
+    },
+    "creators": [],
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "writers": [
+      "Julius J. Epstein",
+      "Philip G. Epstein"
+    ],
+    "stars": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid"
+    ],
+    "story_line": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "rating": 8.5,
+    "runtime": "2h 45min",
+    "runtime_mins": 165,
+    "genres": [
+      "Western"
+    ],
+    "release_date": {
+      "release_date": "1969-10-16"
+    },
+    "creators": [],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "writers": [
+      "Sergio Donati",
+      "Sergio Leone"
+    ],
+    "stars": [
+      "Henry Fonda",
+      "Charles Bronson",
+      "Claudia Cardinale"
+    ],
+    "story_line": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "production_company": "Rafran Cinematografica"
+  },
+  {
+    "title": "The Pianist",
+    "rating": 8.5,
+    "runtime": "2h 30min",
+    "runtime_mins": 150,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "release_date": {
+      "release_date": "2002-11-28"
+    },
+    "creators": [],
+    "directors": [
+      "Roman Polanski"
+    ],
+    "writers": [
+      "Ronald Harwood",
+      "Wladyslaw Szpilman"
+    ],
+    "stars": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "story_line": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "production_company": "R.P. Productions"
+  },
+  {
+    "title": "Modern Times",
+    "rating": 8.5,
+    "runtime": "1h 27min",
+    "runtime_mins": 87,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "1936-03-27"
+    },
+    "creators": [],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "writers": [
+      "Charles Chaplin"
+    ],
+    "stars": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman"
+    ],
+    "story_line": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "production_company": "Charles Chaplin Productions"
+  },
+  {
+    "title": "The Intouchables",
+    "rating": 8.5,
+    "runtime": "1h 52min",
+    "runtime_mins": 112,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2012-03-22"
+    },
+    "creators": [],
+    "directors": [
+      "Olivier Nakache",
+      "\u00c9ric Toledano"
+    ],
+    "writers": [
+      "Olivier Nakache",
+      "Philippe Pozzo di Borgo",
+      "1 more credit"
+    ],
+    "stars": [
+      "Fran\u00e7ois Cluzet",
+      "Omar Sy",
+      "Anne Le Ny"
+    ],
+    "story_line": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "production_company": "Quad Productions"
+  },
+  {
+    "title": "The Departed",
+    "rating": 8.5,
+    "runtime": "2h 31min",
+    "runtime_mins": 151,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2006-11-09"
+    },
+    "creators": [],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "William Monahan",
+      "Alan Mak",
+      "1 more credit"
+    ],
+    "stars": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "story_line": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Back to the Future",
+    "rating": 8.5,
+    "runtime": "1h 56min",
+    "runtime_mins": 116,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1985-12-12"
+    },
+    "creators": [],
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "writers": [
+      "Robert Zemeckis",
+      "Bob Gale"
+    ],
+    "stars": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "story_line": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "production_company": "Universal Pictures"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "rating": 8.5,
+    "runtime": "2h 17min",
+    "runtime_mins": 137,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1991-09-27"
+    },
+    "creators": [],
+    "directors": [
+      "James Cameron"
+    ],
+    "writers": [
+      "James Cameron",
+      "William Wisher"
+    ],
+    "stars": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "story_line": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+    "production_company": "Carolco Pictures"
+  },
+  {
+    "title": "The Lion King",
+    "rating": 8.5,
+    "runtime": "1h 28min",
+    "runtime_mins": 88,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1994-11-24"
+    },
+    "creators": [],
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "writers": [
+      "Irene Mecchi",
+      "Jonathan Roberts"
+    ],
+    "stars": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "story_line": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+    "production_company": "Walt Disney Pictures"
+  },
+  {
+    "title": "Whiplash",
+    "rating": 8.5,
+    "runtime": "1h 46min",
+    "runtime_mins": 106,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": {
+      "release_date": "2014-11-13"
+    },
+    "creators": [],
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "writers": [
+      "Damien Chazelle"
+    ],
+    "stars": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "story_line": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "production_company": "Bold Films"
+  },
+  {
+    "title": "Rear Window",
+    "rating": 8.5,
+    "runtime": "1h 52min",
+    "runtime_mins": 112,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1955-05-06"
+    },
+    "creators": [],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "writers": [
+      "John Michael Hayes",
+      "Cornell Woolrich"
+    ],
+    "stars": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey"
+    ],
+    "story_line": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "production_company": "Alfred J. Hitchcock Productions"
+  },
+  {
+    "title": "Gladiator",
+    "rating": 8.5,
+    "runtime": "2h 35min",
+    "runtime_mins": 155,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2000-05-18"
+    },
+    "creators": [],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "writers": [
+      "David Franzoni",
+      "David Franzoni"
+    ],
+    "stars": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "story_line": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "production_company": "DreamWorks"
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "rating": 8.5,
+    "runtime": "1h 55min",
+    "runtime_mins": 115,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "release_date": "1981-08-13"
+    },
+    "creators": [],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Lawrence Kasdan",
+      "George Lucas",
+      "1 more credit"
+    ],
+    "stars": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "story_line": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "The Prestige",
+    "rating": 8.5,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2007-02-08"
+    },
+    "creators": [],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Jonathan Nolan",
+      "Christopher Nolan",
+      "1 more credit"
+    ],
+    "stars": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "story_line": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "production_company": "Touchstone Pictures"
+  },
+  {
+    "title": "Apocalypse Now",
+    "rating": 8.5,
+    "runtime": "2h 27min",
+    "runtime_mins": 147,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1979-11-01"
+    },
+    "creators": [],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "writers": [
+      "John Milius",
+      "Francis Ford Coppola",
+      "1 more credit"
+    ],
+    "stars": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "story_line": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "production_company": "Zoetrope Studios"
+  },
+  {
+    "title": "Memento",
+    "rating": 8.5,
+    "runtime": "1h 53min",
+    "runtime_mins": 113,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2001-03-08"
+    },
+    "creators": [],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Christopher Nolan",
+      "Jonathan Nolan"
+    ],
+    "stars": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "story_line": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "production_company": "Newmarket Capital Group"
+  },
+  {
+    "title": "Alien",
+    "rating": 8.5,
+    "runtime": "1h 57min",
+    "runtime_mins": 117,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1979-10-25"
+    },
+    "creators": [],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "writers": [
+      "Dan O'Bannon",
+      "Ronald Shusett",
+      "1 more credit"
+    ],
+    "stars": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "story_line": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.",
+    "production_company": "Brandywine Productions"
+  },
+  {
+    "title": "Hotaru no haka",
+    "rating": 8.5,
+    "runtime": "1h 29min",
+    "runtime_mins": 89,
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1988-04-16"
+    },
+    "creators": [],
+    "directors": [
+      "Isao Takahata"
+    ],
+    "writers": [
+      "Akiyuki Nosaka",
+      "Isao Takahata"
+    ],
+    "stars": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi"
+    ],
+    "story_line": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "production_company": "Shinchosha Company"
+  },
+  {
+    "title": "Nuovo Cinema Paradiso",
+    "rating": 8.5,
+    "runtime": "2h 35min",
+    "runtime_mins": 155,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1990-04-13"
+    },
+    "creators": [],
+    "directors": [
+      "Giuseppe Tornatore"
+    ],
+    "writers": [
+      "Giuseppe Tornatore",
+      "Giuseppe Tornatore"
+    ],
+    "stars": [
+      "Philippe Noiret",
+      "Enzo Cannavale",
+      "Antonella Attili"
+    ],
+    "story_line": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "production_company": "Cristaldifilm"
+  },
+  {
+    "title": "De dictator",
+    "rating": 8.5,
+    "runtime": "2h 5min",
+    "runtime_mins": 125,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1947-08-01"
+    },
+    "creators": [],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "writers": [
+      "Charles Chaplin"
+    ],
+    "stars": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Jack Oakie"
+    ],
+    "story_line": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "production_company": "Charles Chaplin Productions"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "rating": 8.5,
+    "runtime": "1h 57min",
+    "runtime_mins": 117,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "release_date": "2018-12-20"
+    },
+    "creators": [],
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "1 more credit"
+    ],
+    "writers": [
+      "Phil Lord",
+      "Rodney Rothman",
+      "1 more credit"
+    ],
+    "stars": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld"
+    ],
+    "story_line": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+    "production_company": "Sony Pictures Entertainment (SPE)"
+  },
+  {
+    "title": "Sunset Blvd.",
+    "rating": 8.4,
+    "runtime": "1h 50min",
+    "runtime_mins": 110,
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "release_date": {
+      "release_date": "1950-09-29"
+    },
+    "creators": [],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "writers": [
+      "Charles Brackett",
+      "Billy Wilder",
+      "1 more credit"
+    ],
+    "stars": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim"
+    ],
+    "story_line": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "Das Leben der Anderen",
+    "rating": 8.4,
+    "runtime": "2h 17min",
+    "runtime_mins": 137,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2007-03-01"
+    },
+    "creators": [],
+    "directors": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "writers": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "stars": [
+      "Ulrich M\u00fche",
+      "Martina Gedeck",
+      "Sebastian Koch"
+    ],
+    "story_line": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+    "production_company": "Wiedemann & Berg Filmproduktion"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "rating": 8.4,
+    "runtime": "1h 35min",
+    "runtime_mins": 95,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "1964-01-29"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stanley Kubrick",
+      "Terry Southern"
+    ],
+    "stars": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden"
+    ],
+    "story_line": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+    "production_company": "Columbia Pictures"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "rating": 8.5,
+    "runtime": "2h 29min",
+    "runtime_mins": 149,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2018-04-25"
+    },
+    "creators": [],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus",
+      "Stephen McFeely"
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "story_line": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "production_company": "Marvel Studios"
+  },
+  {
+    "title": "Paths of Glory",
+    "rating": 8.4,
+    "runtime": "1h 28min",
+    "runtime_mins": 88,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "None"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stanley Kubrick",
+      "Calder Willingham"
+    ],
+    "stars": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou"
+    ],
+    "story_line": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "production_company": "Bryna Productions"
+  },
+  {
+    "title": "Django Unchained",
+    "rating": 8.4,
+    "runtime": "2h 45min",
+    "runtime_mins": 165,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "release_date": {
+      "release_date": "2013-01-17"
+    },
+    "creators": [],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "writers": [
+      "Quentin Tarantino"
+    ],
+    "stars": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "story_line": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "production_company": "The Weinstein Company"
+  },
+  {
+    "title": "The Shining",
+    "rating": 8.4,
+    "runtime": "2h 26min",
+    "runtime_mins": 146,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "release_date": {
+      "release_date": "1980-10-30"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stephen King",
+      "Stanley Kubrick",
+      "1 more credit"
+    ],
+    "stars": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "story_line": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "WALL\u00b7E",
+    "rating": 8.4,
+    "runtime": "1h 38min",
+    "runtime_mins": 98,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "2008-07-30"
+    },
+    "creators": [],
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "writers": [
+      "Andrew Stanton",
+      "Pete Docter"
+    ],
+    "stars": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "story_line": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "production_company": "FortyFour Studios"
+  },
+  {
+    "title": "Mononoke-hime",
+    "rating": 8.4,
+    "runtime": "2h 14min",
+    "runtime_mins": 134,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1997-07-12"
+    },
+    "creators": [],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki",
+      "Neil Gaiman"
+    ],
+    "stars": [
+      "Y\u00f4ji Matsuda",
+      "Yuriko Ishida",
+      "Y\u00fbko Tanaka"
+    ],
+    "story_line": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "production_company": "DENTSU Music And Entertainment"
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "rating": 8.4,
+    "runtime": "1h 56min",
+    "runtime_mins": 116,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "1958-02-06"
+    },
+    "creators": [],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "writers": [
+      "Agatha Christie",
+      "Billy Wilder"
+    ],
+    "stars": [
+      "Tyrone Power",
+      "Marlene Dietrich",
+      "Charles Laughton"
+    ],
+    "story_line": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "production_company": "Edward Small Productions"
+  },
+  {
+    "title": "Oldeuboi",
+    "rating": 8.4,
+    "runtime": "2h",
+    "runtime_mins": 120,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "2004-11-11"
+    },
+    "creators": [],
+    "directors": [
+      "Chan-wook Park"
+    ],
+    "writers": [
+      "Garon Tsuchiya",
+      "Nobuaki Minegishi"
+    ],
+    "stars": [
+      "Min-sik Choi",
+      "Ji-tae Yu",
+      "Hye-jeong Kang"
+    ],
+    "story_line": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "production_company": "CJ Entertainment"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "rating": 8.4,
+    "runtime": "2h 44min",
+    "runtime_mins": 164,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2012-07-20"
+    },
+    "creators": [],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Jonathan Nolan",
+      "Christopher Nolan"
+    ],
+    "stars": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway"
+    ],
+    "story_line": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Aliens",
+    "rating": 8.4,
+    "runtime": "2h 17min",
+    "runtime_mins": 137,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1986-10-09"
+    },
+    "creators": [],
+    "directors": [
+      "James Cameron"
+    ],
+    "writers": [
+      "James Cameron",
+      "David Giler"
+    ],
+    "stars": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn"
+    ],
+    "story_line": "Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?",
+    "production_company": "Twentieth Century Fox"
+  },
+  {
+    "title": "American Beauty",
+    "rating": 8.4,
+    "runtime": "2h 2min",
+    "runtime_mins": 122,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2000-01-20"
+    },
+    "creators": [],
+    "directors": [
+      "Sam Mendes"
+    ],
+    "writers": [
+      "Alan Ball"
+    ],
+    "stars": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch"
+    ],
+    "story_line": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "production_company": "DreamWorks"
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "rating": 8.4,
+    "runtime": "3h 49min",
+    "runtime_mins": 229,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1984-09-27"
+    },
+    "creators": [],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "writers": [
+      "Harry Grey",
+      "Leonardo Benvenuti"
+    ],
+    "stars": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern"
+    ],
+    "story_line": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+    "production_company": "The Ladd Company"
+  },
+  {
+    "title": "Coco",
+    "rating": 8.4,
+    "runtime": "1h 45min",
+    "runtime_mins": 105,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2017-11-29"
+    },
+    "creators": [],
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "writers": [
+      "Lee Unkrich",
+      "Jason Katz"
+    ],
+    "stars": [
+      "Anthony Gonzalez",
+      "Gael Garc\u00eda Bernal",
+      "Benjamin Bratt"
+    ],
+    "story_line": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "production_company": "Walt Disney Pictures"
+  },
+  {
+    "title": "Das Boot",
+    "rating": 8.4,
+    "runtime": "2h 29min",
+    "runtime_mins": 149,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1982-04-01"
+    },
+    "creators": [],
+    "directors": [
+      "Wolfgang Petersen"
+    ],
+    "writers": [
+      "Wolfgang Petersen",
+      "Lothar G. Buchheim"
+    ],
+    "stars": [
+      "J\u00fcrgen Prochnow",
+      "Herbert Gr\u00f6nemeyer",
+      "Klaus Wennemann"
+    ],
+    "story_line": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "production_company": "Bavaria Film"
+  },
+  {
+    "title": "Citizen Kane",
+    "rating": 8.3,
+    "runtime": "1h 59min",
+    "runtime_mins": 119,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "1948-02-05"
+    },
+    "creators": [],
+    "directors": [
+      "Orson Welles"
+    ],
+    "writers": [
+      "Herman J. Mankiewicz",
+      "Orson Welles"
+    ],
+    "stars": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore"
+    ],
+    "story_line": "Following the death of publishing tycoon, Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+    "production_company": "RKO Radio Pictures"
+  },
+  {
+    "title": "Braveheart",
+    "rating": 8.4,
+    "runtime": "2h 58min",
+    "runtime_mins": 178,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1995-09-07"
+    },
+    "creators": [],
+    "directors": [
+      "Mel Gibson"
+    ],
+    "writers": [
+      "Randall Wallace"
+    ],
+    "stars": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan"
+    ],
+    "story_line": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+    "production_company": "Icon Entertainment International"
+  },
+  {
+    "title": "Vertigo",
+    "rating": 8.3,
+    "runtime": "2h 8min",
+    "runtime_mins": 128,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1959-02-03"
+    },
+    "creators": [],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "writers": [
+      "Alec Coppel",
+      "Samuel A. Taylor"
+    ],
+    "stars": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes"
+    ],
+    "story_line": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+    "production_company": "Alfred J. Hitchcock Productions"
+  },
+  {
+    "title": "Kimi no na wa.",
+    "rating": 8.4,
+    "runtime": "1h 46min",
+    "runtime_mins": 106,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "2017-11-02"
+    },
+    "creators": [],
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "writers": [
+      "Makoto Shinkai",
+      "Makoto Shinkai",
+      "1 more credit"
+    ],
+    "stars": [
+      "Ry\u00fbnosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ry\u00f4 Narita"
+    ],
+    "story_line": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "production_company": "Amuse"
+  },
+  {
+    "title": "North by Northwest",
+    "rating": 8.3,
+    "runtime": "2h 16min",
+    "runtime_mins": 136,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1959-12-18"
+    },
+    "creators": [],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "writers": [
+      "Ernest Lehman"
+    ],
+    "stars": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason"
+    ],
+    "story_line": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
+    "production_company": "Metro-Goldwyn-Mayer (MGM)"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "rating": 8.3,
+    "runtime": "1h 39min",
+    "runtime_mins": 99,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1993-08-05"
+    },
+    "creators": [],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "writers": [
+      "Quentin Tarantino",
+      "Quentin Tarantino",
+      "1 more credit"
+    ],
+    "stars": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen"
+    ],
+    "story_line": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "production_company": "Live Entertainment"
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "rating": 8.3,
+    "runtime": "2h 11min",
+    "runtime_mins": 131,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1983-10-13"
+    },
+    "creators": [],
+    "directors": [
+      "Richard Marquand"
+    ],
+    "writers": [
+      "Lawrence Kasdan",
+      "George Lucas",
+      "1 more credit"
+    ],
+    "stars": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "story_line": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+    "production_company": "Lucasfilm"
+  },
+  {
+    "title": "M - Eine Stadt sucht einen M\u00f6rder",
+    "rating": 8.3,
+    "runtime": "1h 57min",
+    "runtime_mins": 117,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1931-10-16"
+    },
+    "creators": [],
+    "directors": [
+      "Fritz Lang"
+    ],
+    "writers": [
+      "Thea von Harbou",
+      "Fritz Lang"
+    ],
+    "stars": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut"
+    ],
+    "story_line": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "production_company": "Nero-Film AG"
+  },
+  {
+    "title": "Amadeus",
+    "rating": 8.3,
+    "runtime": "2h 40min",
+    "runtime_mins": 160,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1984-10-11"
+    },
+    "creators": [],
+    "directors": [
+      "Milos Forman"
+    ],
+    "writers": [
+      "Peter Shaffer",
+      "Peter Shaffer"
+    ],
+    "stars": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge"
+    ],
+    "story_line": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+    "production_company": "AMLF"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "rating": 8.3,
+    "runtime": "1h 42min",
+    "runtime_mins": 102,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2001-09-13"
+    },
+    "creators": [],
+    "directors": [
+      "Darren Aronofsky"
+    ],
+    "writers": [
+      "Hubert Selby Jr.",
+      "Hubert Selby Jr.",
+      "1 more credit"
+    ],
+    "stars": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly"
+    ],
+    "story_line": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "production_company": "Artisan Entertainment"
+  },
+  {
+    "title": "Toy Story",
+    "rating": 8.3,
+    "runtime": "1h 21min",
+    "runtime_mins": 81,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "1996-04-04"
+    },
+    "creators": [],
+    "directors": [
+      "John Lasseter"
+    ],
+    "writers": [
+      "John Lasseter",
+      "Pete Docter"
+    ],
+    "stars": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "story_line": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "production_company": "Pixar Animation Studios"
+  },
+  {
+    "title": "3 Idiots",
+    "rating": 8.4,
+    "runtime": "2h 50min",
+    "runtime_mins": 170,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2009-12-24"
+    },
+    "creators": [],
+    "directors": [
+      "Rajkumar Hirani"
+    ],
+    "writers": [
+      "Rajkumar Hirani",
+      "Abhijat Joshi"
+    ],
+    "stars": [
+      "Aamir Khan",
+      "Madhavan",
+      "Mona Singh"
+    ],
+    "story_line": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "production_company": "Vinod Chopra Productions"
+  },
+  {
+    "title": "Dangal",
+    "rating": 8.5,
+    "runtime": "2h 41min",
+    "runtime_mins": 161,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2016-12-23"
+    },
+    "creators": [],
+    "directors": [
+      "Nitesh Tiwari"
+    ],
+    "writers": [
+      "Piyush Gupta",
+      "Shreyas Jain"
+    ],
+    "stars": [
+      "Aamir Khan",
+      "Sakshi Tanwar",
+      "Fatima Sana Shaikh"
+    ],
+    "story_line": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "production_company": "Aamir Khan Productions"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "rating": 8.3,
+    "runtime": "2h 29min",
+    "runtime_mins": 149,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1968-10-03"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stanley Kubrick",
+      "Arthur C. Clarke"
+    ],
+    "stars": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester"
+    ],
+    "story_line": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+    "production_company": "Metro-Goldwyn-Mayer (MGM)"
+  },
+  {
+    "title": "Taare Zameen Par",
+    "rating": 8.4,
+    "runtime": "2h 45min",
+    "runtime_mins": 165,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "2007-12-21"
+    },
+    "creators": [],
+    "directors": [
+      "Aamir Khan",
+      "Amole Gupte"
+    ],
+    "writers": [
+      "Amole Gupte",
+      "Amole Gupte"
+    ],
+    "stars": [
+      "Darsheel Safary",
+      "Aamir Khan",
+      "Tisca Chopra"
+    ],
+    "story_line": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "production_company": "Aamir Khan Productions"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "rating": 8.3,
+    "runtime": "1h 48min",
+    "runtime_mins": 108,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2004-09-16"
+    },
+    "creators": [],
+    "directors": [
+      "Michel Gondry"
+    ],
+    "writers": [
+      "Charlie Kaufman",
+      "Michel Gondry"
+    ],
+    "stars": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Tom Wilkinson"
+    ],
+    "story_line": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "production_company": "Focus Features"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "rating": 8.3,
+    "runtime": "3h 36min",
+    "runtime_mins": 216,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1963-07-18"
+    },
+    "creators": [],
+    "directors": [
+      "David Lean"
+    ],
+    "writers": [
+      "T.E. Lawrence",
+      "Robert Bolt",
+      "1 more credit"
+    ],
+    "stars": [
+      "Peter O'Toole",
+      "Alec Guinness",
+      "Anthony Quinn"
+    ],
+    "story_line": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+    "production_company": "Horizon Pictures (II)"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "rating": 8.3,
+    "runtime": "2h 16min",
+    "runtime_mins": 136,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1972-04-20"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stanley Kubrick",
+      "Anthony Burgess"
+    ],
+    "stars": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates"
+    ],
+    "story_line": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Singin' in the Rain",
+    "rating": 8.3,
+    "runtime": "1h 43min",
+    "runtime_mins": 103,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1952-12-11"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Donen",
+      "Gene Kelly"
+    ],
+    "writers": [
+      "Betty Comden",
+      "Adolph Green"
+    ],
+    "stars": [
+      "Gene Kelly",
+      "Donald O'Connor",
+      "Debbie Reynolds"
+    ],
+    "story_line": "A silent film production company and cast make a difficult transition to sound.",
+    "production_company": "Metro-Goldwyn-Mayer (MGM)"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "rating": 8.3,
+    "runtime": "2h 33min",
+    "runtime_mins": 153,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "2009-08-27"
+    },
+    "creators": [],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "writers": [
+      "Quentin Tarantino"
+    ],
+    "stars": [
+      "Brad Pitt",
+      "Diane Kruger",
+      "Eli Roth"
+    ],
+    "story_line": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "production_company": "Universal Pictures"
+  },
+  {
+    "title": "Am\u00e9lie",
+    "rating": 8.3,
+    "runtime": "2h 2min",
+    "runtime_mins": 122,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "2001-12-06"
+    },
+    "creators": [],
+    "directors": [
+      "Jean-Pierre Jeunet"
+    ],
+    "writers": [
+      "Guillaume Laurant",
+      "Jean-Pierre Jeunet",
+      "1 more credit"
+    ],
+    "stars": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus"
+    ],
+    "story_line": "Am\u00e9lie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "production_company": "Claudie Ossard Productions"
+  },
+  {
+    "title": "Double Indemnity",
+    "rating": 8.3,
+    "runtime": "1h 47min",
+    "runtime_mins": 107,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "release_date": {
+      "release_date": "None"
+    },
+    "creators": [],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "writers": [
+      "Billy Wilder",
+      "Raymond Chandler",
+      "1 more credit"
+    ],
+    "stars": [
+      "Fred MacMurray",
+      "Barbara Stanwyck",
+      "Edward G. Robinson"
+    ],
+    "story_line": "An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "Taxi Driver",
+    "rating": 8.3,
+    "runtime": "1h 54min",
+    "runtime_mins": 114,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1976-07-01"
+    },
+    "creators": [],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Paul Schrader"
+    ],
+    "stars": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "story_line": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+    "production_company": "Columbia Pictures"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "rating": 8.3,
+    "runtime": "1h 56min",
+    "runtime_mins": 116,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1987-10-29"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stanley Kubrick",
+      "Michael Herr"
+    ],
+    "stars": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D'Onofrio"
+    ],
+    "story_line": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "production_company": "Natant"
+  },
+  {
+    "title": "Good Will Hunting",
+    "rating": 8.3,
+    "runtime": "2h 6min",
+    "runtime_mins": 126,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1998-03-05"
+    },
+    "creators": [],
+    "directors": [
+      "Gus Van Sant"
+    ],
+    "writers": [
+      "Matt Damon",
+      "Ben Affleck"
+    ],
+    "stars": [
+      "Robin Williams",
+      "Matt Damon",
+      "Ben Affleck"
+    ],
+    "story_line": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "production_company": "Be Gentlemen Limited Partnership"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "rating": 8.3,
+    "runtime": "2h 9min",
+    "runtime_mins": 129,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1963-08-22"
+    },
+    "creators": [],
+    "directors": [
+      "Robert Mulligan"
+    ],
+    "writers": [
+      "Harper Lee",
+      "Horton Foote"
+    ],
+    "stars": [
+      "Gregory Peck",
+      "John Megna",
+      "Frank Overton"
+    ],
+    "story_line": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+    "production_company": "Universal International Pictures (UI)"
+  },
+  {
+    "title": "Ladri di biciclette",
+    "rating": 8.3,
+    "runtime": "1h 29min",
+    "runtime_mins": 89,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1948-11-24"
+    },
+    "creators": [],
+    "directors": [
+      "Vittorio De Sica"
+    ],
+    "writers": [
+      "Cesare Zavattini",
+      "Luigi Bartolini"
+    ],
+    "stars": [
+      "Lamberto Maggiorani",
+      "Enzo Staiola",
+      "Lianella Carell"
+    ],
+    "story_line": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",
+    "production_company": "Produzioni De Sica (PDS)"
+  },
+  {
+    "title": "The Kid",
+    "rating": 8.3,
+    "runtime": "1h 8min",
+    "runtime_mins": 68,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "1921-02-06"
+    },
+    "creators": [],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "writers": [
+      "Charles Chaplin"
+    ],
+    "stars": [
+      "Charles Chaplin",
+      "Edna Purviance",
+      "Jackie Coogan"
+    ],
+    "story_line": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+    "production_company": "Charles Chaplin Productions"
+  },
+  {
+    "title": "The Sting",
+    "rating": 8.3,
+    "runtime": "2h 9min",
+    "runtime_mins": 129,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1974-08-01"
+    },
+    "creators": [],
+    "directors": [
+      "George Roy Hill"
+    ],
+    "writers": [
+      "David S. Ward"
+    ],
+    "stars": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw"
+    ],
+    "story_line": "Two grifters team up to pull off the ultimate con.",
+    "production_company": "Zanuck/Brown Productions"
+  },
+  {
+    "title": "Toy Story 3",
+    "rating": 8.3,
+    "runtime": "1h 43min",
+    "runtime_mins": 103,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2010-06-23"
+    },
+    "creators": [],
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "writers": [
+      "John Lasseter",
+      "Andrew Stanton"
+    ],
+    "stars": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "story_line": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+    "production_company": "Walt Disney Pictures"
+  },
+  {
+    "title": "Jagten",
+    "rating": 8.3,
+    "runtime": "1h 55min",
+    "runtime_mins": 115,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2012-10-25"
+    },
+    "creators": [],
+    "directors": [
+      "Thomas Vinterberg"
+    ],
+    "writers": [
+      "Tobias Lindholm",
+      "Thomas Vinterberg"
+    ],
+    "stars": [
+      "Mads Mikkelsen",
+      "Thomas Bo Larsen",
+      "Annika Wedderkopp"
+    ],
+    "story_line": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    "production_company": "Danmarks Radio (DR)"
+  },
+  {
+    "title": "Snatch",
+    "rating": 8.3,
+    "runtime": "1h 44min",
+    "runtime_mins": 104,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": "2000-11-16"
+    },
+    "creators": [],
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "writers": [
+      "Guy Ritchie"
+    ],
+    "stars": [
+      "Jason Statham",
+      "Brad Pitt",
+      "Benicio Del Toro"
+    ],
+    "story_line": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "production_company": "Columbia Pictures"
+  },
+  {
+    "title": "Scarface",
+    "rating": 8.3,
+    "runtime": "2h 50min",
+    "runtime_mins": 170,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1984-04-05"
+    },
+    "creators": [],
+    "directors": [
+      "Brian De Palma"
+    ],
+    "writers": [
+      "Oliver Stone"
+    ],
+    "stars": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Steven Bauer"
+    ],
+    "story_line": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "production_company": "Universal Pictures"
+  },
+  {
+    "title": "Per qualche dollaro in pi\u00f9",
+    "rating": 8.3,
+    "runtime": "2h 12min",
+    "runtime_mins": 132,
+    "genres": [
+      "Western"
+    ],
+    "release_date": {
+      "release_date": "1966-03-25"
+    },
+    "creators": [],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "writers": [
+      "Sergio Leone",
+      "Fulvio Morsella"
+    ],
+    "stars": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Gian Maria Volont\u00e8"
+    ],
+    "story_line": "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+    "production_company": "Produzioni Europee Associate (PEA)"
+  },
+  {
+    "title": "The Apartment",
+    "rating": 8.3,
+    "runtime": "2h 5min",
+    "runtime_mins": 125,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1960-09-16"
+    },
+    "creators": [],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "writers": [
+      "Billy Wilder",
+      "I.A.L. Diamond"
+    ],
+    "stars": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray"
+    ],
+    "story_line": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+    "production_company": "The Mirisch Corporation"
+  },
+  {
+    "title": "Metropolis",
+    "rating": 8.3,
+    "runtime": "2h 33min",
+    "runtime_mins": 153,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1927-02-28"
+    },
+    "creators": [],
+    "directors": [
+      "Fritz Lang"
+    ],
+    "writers": [
+      "Thea von Harbou",
+      "Thea von Harbou"
+    ],
+    "stars": [
+      "Brigitte Helm",
+      "Alfred Abel",
+      "Gustav Fr\u00f6hlich"
+    ],
+    "story_line": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+    "production_company": "Universum Film (UFA)"
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "rating": 8.3,
+    "runtime": "1h 31min",
+    "runtime_mins": 91,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1976-01-22"
+    },
+    "creators": [],
+    "directors": [
+      "Terry Gilliam",
+      "Terry Jones"
+    ],
+    "writers": [
+      "Graham Chapman",
+      "John Cleese"
+    ],
+    "stars": [
+      "Graham Chapman",
+      "John Cleese",
+      "Eric Idle"
+    ],
+    "story_line": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+    "production_company": "Python (Monty) Pictures"
+  },
+  {
+    "title": "L.A. Confidential",
+    "rating": 8.3,
+    "runtime": "2h 18min",
+    "runtime_mins": 138,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "1997-11-20"
+    },
+    "creators": [],
+    "directors": [
+      "Curtis Hanson"
+    ],
+    "writers": [
+      "James Ellroy",
+      "Brian Helgeland",
+      "1 more credit"
+    ],
+    "stars": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce"
+    ],
+    "story_line": "As corruption grows in 1950s Los Angeles, three policemen -- one strait-laced, one brutal, and one sleazy -- investigate a series of murders with their own brand of justice.",
+    "production_company": "Regency Enterprises"
+  },
+  {
+    "title": "Jodaeiye Nader az Simin",
+    "rating": 8.3,
+    "runtime": "2h 3min",
+    "runtime_mins": 123,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2011-08-11"
+    },
+    "creators": [],
+    "directors": [
+      "Asghar Farhadi"
+    ],
+    "writers": [
+      "Asghar Farhadi"
+    ],
+    "stars": [
+      "Payman Maadi",
+      "Leila Hatami",
+      "Sareh Bayat"
+    ],
+    "story_line": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "production_company": "Asghar Farhadi Productions"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "rating": 8.2,
+    "runtime": "2h 7min",
+    "runtime_mins": 127,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "release_date": "1989-09-29"
+    },
+    "creators": [],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Jeffrey Boam",
+      "George Lucas"
+    ],
+    "stars": [
+      "Harrison Ford",
+      "Sean Connery",
+      "Alison Doody"
+    ],
+    "story_line": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "Up",
+    "rating": 8.2,
+    "runtime": "1h 36min",
+    "runtime_mins": 96,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2009-10-07"
+    },
+    "creators": [],
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "writers": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "stars": [
+      "Edward Asner",
+      "Jordan Nagai",
+      "John Ratzenberger"
+    ],
+    "story_line": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.",
+    "production_company": "Pixar Animation Studios"
+  },
+  {
+    "title": "Rash\u00f4mon",
+    "rating": 8.3,
+    "runtime": "1h 28min",
+    "runtime_mins": 88,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "1950-08-26"
+    },
+    "creators": [],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "writers": [
+      "Ry\u00fbnosuke Akutagawa",
+      "Akira Kurosawa",
+      "1 more credit"
+    ],
+    "stars": [
+      "Toshir\u00f4 Mifune",
+      "Machiko Ky\u00f4",
+      "Masayuki Mori"
+    ],
+    "story_line": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+    "production_company": "Daiei Motion Picture Company"
+  },
+  {
+    "title": "All About Eve",
+    "rating": 8.3,
+    "runtime": "2h 18min",
+    "runtime_mins": 138,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1950-10-27"
+    },
+    "creators": [],
+    "directors": [
+      "Joseph L. Mankiewicz"
+    ],
+    "writers": [
+      "Joseph L. Mankiewicz"
+    ],
+    "stars": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders"
+    ],
+    "story_line": "An ing\u00e9nue insinuates herself into the lives of an established but aging stage actress and her circle of theater friends.",
+    "production_company": "Twentieth Century Fox"
+  },
+  {
+    "title": "Batman Begins",
+    "rating": 8.2,
+    "runtime": "2h 20min",
+    "runtime_mins": 140,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "release_date": "2005-06-16"
+    },
+    "creators": [],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Bob Kane",
+      "David S. Goyer"
+    ],
+    "stars": [
+      "Christian Bale",
+      "Michael Caine",
+      "Ken Watanabe"
+    ],
+    "story_line": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Some Like It Hot",
+    "rating": 8.2,
+    "runtime": "2h 1min",
+    "runtime_mins": 121,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1959-04-14"
+    },
+    "creators": [],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "writers": [
+      "Billy Wilder",
+      "I.A.L. Diamond"
+    ],
+    "stars": [
+      "Marilyn Monroe",
+      "Tony Curtis",
+      "Jack Lemmon"
+    ],
+    "story_line": "When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "production_company": "Ashton Productions"
+  },
+  {
+    "title": "Y\u00f4jinb\u00f4",
+    "rating": 8.3,
+    "runtime": "1h 50min",
+    "runtime_mins": 110,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1961-04-25"
+    },
+    "creators": [],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "writers": [
+      "Akira Kurosawa",
+      "Akira Kurosawa",
+      "1 more credit"
+    ],
+    "stars": [
+      "Toshir\u00f4 Mifune",
+      "Eijir\u00f4 T\u00f4no",
+      "Tatsuya Nakadai"
+    ],
+    "story_line": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+    "production_company": "Kurosawa Production Co."
+  },
+  {
+    "title": "Der Untergang",
+    "rating": 8.2,
+    "runtime": "2h 36min",
+    "runtime_mins": 156,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2004-11-04"
+    },
+    "creators": [],
+    "directors": [
+      "Oliver Hirschbiegel"
+    ],
+    "writers": [
+      "Bernd Eichinger",
+      "Joachim Fest"
+    ],
+    "stars": [
+      "Bruno Ganz",
+      "Alexandra Maria Lara",
+      "Ulrich Matthes"
+    ],
+    "story_line": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+    "production_company": "Constantin Film"
+  },
+  {
+    "title": "Die Hard",
+    "rating": 8.2,
+    "runtime": "2h 12min",
+    "runtime_mins": 132,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1988-11-03"
+    },
+    "creators": [],
+    "directors": [
+      "John McTiernan"
+    ],
+    "writers": [
+      "Roderick Thorp",
+      "Jeb Stuart",
+      "1 more credit"
+    ],
+    "stars": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia"
+    ],
+    "story_line": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "production_company": "Twentieth Century Fox"
+  },
+  {
+    "title": "Unforgiven",
+    "rating": 8.2,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "release_date": {
+      "release_date": "1992-11-19"
+    },
+    "creators": [],
+    "directors": [
+      "Clint Eastwood"
+    ],
+    "writers": [
+      "David Webb Peoples"
+    ],
+    "stars": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman"
+    ],
+    "story_line": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Heat",
+    "rating": 8.2,
+    "runtime": "2h 50min",
+    "runtime_mins": 170,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1996-02-15"
+    },
+    "creators": [],
+    "directors": [
+      "Michael Mann"
+    ],
+    "writers": [
+      "Michael Mann"
+    ],
+    "stars": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer"
+    ],
+    "story_line": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Incendies",
+    "rating": 8.3,
+    "runtime": "2h 11min",
+    "runtime_mins": 131,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "2011-02-10"
+    },
+    "creators": [],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "writers": [
+      "Denis Villeneuve",
+      "Wajdi Mouawad"
+    ],
+    "stars": [
+      "Lubna Azabal",
+      "M\u00e9lissa D\u00e9sormeaux-Poulin",
+      "Maxim Gaudette"
+    ],
+    "story_line": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "production_company": "micro_scope"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "rating": 8.2,
+    "runtime": "2h 6min",
+    "runtime_mins": 126,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "release_date": {
+      "release_date": "1948-01-24"
+    },
+    "creators": [],
+    "directors": [
+      "John Huston"
+    ],
+    "writers": [
+      "John Huston",
+      "B. Traven"
+    ],
+    "stars": [
+      "Humphrey Bogart",
+      "Walter Huston",
+      "Tim Holt"
+    ],
+    "story_line": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Ikiru",
+    "rating": 8.3,
+    "runtime": "2h 23min",
+    "runtime_mins": 143,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1952-10-09"
+    },
+    "creators": [],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "writers": [
+      "Akira Kurosawa",
+      "Shinobu Hashimoto",
+      "1 more credit"
+    ],
+    "stars": [
+      "Takashi Shimura",
+      "Nobuo Kaneko",
+      "Shin'ichi Himori"
+    ],
+    "story_line": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+    "production_company": "Toho Company"
+  },
+  {
+    "title": "Green Book",
+    "rating": 8.2,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2019-01-31"
+    },
+    "creators": [],
+    "directors": [
+      "Peter Farrelly"
+    ],
+    "writers": [
+      "Nick Vallelonga",
+      "Brian Hayes Currie",
+      "1 more credit"
+    ],
+    "stars": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini"
+    ],
+    "story_line": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "production_company": "Participant Media"
+  },
+  {
+    "title": "Raging Bull",
+    "rating": 8.2,
+    "runtime": "2h 9min",
+    "runtime_mins": 129,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "release_date": {
+      "release_date": "1981-03-19"
+    },
+    "creators": [],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Jake LaMotta",
+      "Joseph Carter"
+    ],
+    "stars": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci"
+    ],
+    "story_line": "The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.",
+    "production_company": "Chartoff-Winkler Productions"
+  },
+  {
+    "title": "Toy Story 4",
+    "rating": 8.3,
+    "runtime": "1h 40min",
+    "runtime_mins": 100,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2019-06-26"
+    },
+    "creators": [],
+    "directors": [
+      "Josh Cooley"
+    ],
+    "writers": [
+      "John Lasseter",
+      "Andrew Stanton"
+    ],
+    "stars": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts"
+    ],
+    "story_line": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+    "production_company": "Pixar Animation Studios"
+  },
+  {
+    "title": "The Great Escape",
+    "rating": 8.2,
+    "runtime": "2h 52min",
+    "runtime_mins": 172,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1963-09-19"
+    },
+    "creators": [],
+    "directors": [
+      "John Sturges"
+    ],
+    "writers": [
+      "Paul Brickhill",
+      "James Clavell",
+      "1 more credit"
+    ],
+    "stars": [
+      "Steve McQueen",
+      "James Garner",
+      "Richard Attenborough"
+    ],
+    "story_line": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+    "production_company": "The Mirisch Company"
+  },
+  {
+    "title": "Bacheha-Ye aseman",
+    "rating": 8.3,
+    "runtime": "1h 29min",
+    "runtime_mins": 89,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "1999-10-16"
+    },
+    "creators": [],
+    "directors": [
+      "Majid Majidi"
+    ],
+    "writers": [
+      "Majid Majidi"
+    ],
+    "stars": [
+      "Mohammad Amir Naji",
+      "Amir Farrokh Hashemian",
+      "Bahare Seddiqi"
+    ],
+    "story_line": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+    "production_company": "Kanun parvaresh fekri"
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "rating": 8.2,
+    "runtime": "1h 58min",
+    "runtime_mins": 118,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "2007-04-26"
+    },
+    "creators": [],
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "writers": [
+      "Guillermo del Toro"
+    ],
+    "stars": [
+      "Ivana Baquero",
+      "Ariadna Gil",
+      "Sergi L\u00f3pez"
+    ],
+    "story_line": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+    "production_company": "Estudios Picasso"
+  },
+  {
+    "title": "Chinatown",
+    "rating": 8.2,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1974-12-19"
+    },
+    "creators": [],
+    "directors": [
+      "Roman Polanski"
+    ],
+    "writers": [
+      "Robert Towne"
+    ],
+    "stars": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston"
+    ],
+    "story_line": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "Tonari no Totoro",
+    "rating": 8.2,
+    "runtime": "1h 26min",
+    "runtime_mins": 86,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1988-04-16"
+    },
+    "creators": [],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki"
+    ],
+    "stars": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto"
+    ],
+    "story_line": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "production_company": "Tokuma Japan Communications"
+  },
+  {
+    "title": "Hauru no ugoku shiro",
+    "rating": 8.2,
+    "runtime": "1h 59min",
+    "runtime_mins": 119,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "2005-08-18"
+    },
+    "creators": [],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki",
+      "Diana Wynne Jones"
+    ],
+    "stars": [
+      "Chieko Baish\u00f4",
+      "Takuya Kimura",
+      "Tatsuya Gash\u00fbin"
+    ],
+    "story_line": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "production_company": "Buena Vista Home Entertainment"
+  },
+  {
+    "title": "Ran",
+    "rating": 8.2,
+    "runtime": "2h 42min",
+    "runtime_mins": 162,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1986-02-20"
+    },
+    "creators": [],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "writers": [
+      "Akira Kurosawa",
+      "Hideo Oguni"
+    ],
+    "stars": [
+      "Tatsuya Nakadai",
+      "Akira Terao",
+      "Jinpachi Nezu"
+    ],
+    "story_line": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+    "production_company": "Greenwich Film Productions"
+  },
+  {
+    "title": "The Third Man",
+    "rating": 8.2,
+    "runtime": "1h 44min",
+    "runtime_mins": 104,
+    "genres": [
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1949-10-12"
+    },
+    "creators": [],
+    "directors": [
+      "Carol Reed"
+    ],
+    "writers": [
+      "Graham Greene",
+      "Graham Greene"
+    ],
+    "stars": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Alida Valli"
+    ],
+    "story_line": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+    "production_company": "London Film Productions"
+  },
+  {
+    "title": "Babam ve Oglum",
+    "rating": 8.4,
+    "runtime": "1h 48min",
+    "runtime_mins": 108,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "2005-11-18"
+    },
+    "creators": [],
+    "directors": [
+      "\u00c7agan Irmak"
+    ],
+    "writers": [
+      "\u00c7agan Irmak"
+    ],
+    "stars": [
+      "\u00c7etin Tekindor",
+      "Fikret Kuskan",
+      "H\u00fcmeyra"
+    ],
+    "story_line": "The family of a left-wing journalist is torn apart after a military coup in 1980's Turkey.",
+    "production_company": "Avsar Film"
+  },
+  {
+    "title": "Oordeel te Neurenberg",
+    "rating": 8.2,
+    "runtime": "3h 6min",
+    "runtime_mins": 186,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1961-12-21"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kramer"
+    ],
+    "writers": [
+      "Abby Mann",
+      "Abby Mann"
+    ],
+    "stars": [
+      "Spencer Tracy",
+      "Burt Lancaster",
+      "Richard Widmark"
+    ],
+    "story_line": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+    "production_company": "Roxlom Films Inc."
+  },
+  {
+    "title": "El secreto de sus ojos",
+    "rating": 8.2,
+    "runtime": "2h 9min",
+    "runtime_mins": 129,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "2010-08-26"
+    },
+    "creators": [],
+    "directors": [
+      "Juan Jos\u00e9 Campanella"
+    ],
+    "writers": [
+      "Eduardo Sacheri",
+      "Juan Jos\u00e9 Campanella",
+      "1 more credit"
+    ],
+    "stars": [
+      "Ricardo Dar\u00edn",
+      "Soledad Villamil",
+      "Pablo Rago"
+    ],
+    "story_line": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+    "production_company": "Tornasol Films"
+  },
+  {
+    "title": "The Gold Rush",
+    "rating": 8.2,
+    "runtime": "1h 35min",
+    "runtime_mins": 95,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "None"
+    },
+    "creators": [],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "writers": [
+      "Charles Chaplin"
+    ],
+    "stars": [
+      "Charles Chaplin",
+      "Mack Swain",
+      "Tom Murray"
+    ],
+    "story_line": "A prospector goes to the Klondike in search of gold and finds it and more.",
+    "production_company": "Charles Chaplin Productions"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "rating": 8.2,
+    "runtime": "2h 15min",
+    "runtime_mins": 135,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2002-02-21"
+    },
+    "creators": [],
+    "directors": [
+      "Ron Howard"
+    ],
+    "writers": [
+      "Akiva Goldsman",
+      "Sylvia Nasar"
+    ],
+    "stars": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly"
+    ],
+    "story_line": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "production_company": "Universal Pictures"
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "rating": 8.2,
+    "runtime": "2h 41min",
+    "runtime_mins": 161,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1958-03-21"
+    },
+    "creators": [],
+    "directors": [
+      "David Lean"
+    ],
+    "writers": [
+      "Pierre Boulle",
+      "Carl Foreman",
+      "1 more credit"
+    ],
+    "stars": [
+      "William Holden",
+      "Alec Guinness",
+      "Jack Hawkins"
+    ],
+    "story_line": "After settling his differences with a Japanese P.O.W. camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors, while oblivious to a plan by the Allies to destroy it.",
+    "production_company": "Horizon Pictures (II)"
+  },
+  {
+    "title": "Casino",
+    "rating": 8.2,
+    "runtime": "2h 58min",
+    "runtime_mins": 178,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1996-03-07"
+    },
+    "creators": [],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Nicholas Pileggi",
+      "Nicholas Pileggi",
+      "1 more credit"
+    ],
+    "stars": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci"
+    ],
+    "story_line": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
+    "production_company": "Universal Pictures"
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "rating": 8.2,
+    "runtime": "1h 47min",
+    "runtime_mins": 107,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": "1998-11-12"
+    },
+    "creators": [],
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "writers": [
+      "Guy Ritchie"
+    ],
+    "stars": [
+      "Jason Flemyng",
+      "Dexter Fletcher",
+      "Nick Moran"
+    ],
+    "story_line": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+    "production_company": "Summit Entertainment"
+  },
+  {
+    "title": "Det sjunde inseglet",
+    "rating": 8.2,
+    "runtime": "1h 36min",
+    "runtime_mins": 96,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1957-02-16"
+    },
+    "creators": [],
+    "directors": [
+      "Ingmar Bergman"
+    ],
+    "writers": [
+      "Ingmar Bergman",
+      "Ingmar Bergman"
+    ],
+    "stars": [
+      "Max von Sydow",
+      "Gunnar Bj\u00f6rnstrand",
+      "Bengt Ekerot"
+    ],
+    "story_line": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    "production_company": "Svensk Filmindustri (SF)"
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "rating": 8.2,
+    "runtime": "1h 55min",
+    "runtime_mins": 115,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2018-01-11"
+    },
+    "creators": [],
+    "directors": [
+      "Martin McDonagh"
+    ],
+    "writers": [
+      "Martin McDonagh"
+    ],
+    "stars": [
+      "Frances McDormand",
+      "Woody Harrelson",
+      "Sam Rockwell"
+    ],
+    "story_line": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "production_company": "Blueprint Pictures"
+  },
+  {
+    "title": "On the Waterfront",
+    "rating": 8.2,
+    "runtime": "1h 48min",
+    "runtime_mins": 108,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1954-06-22"
+    },
+    "creators": [],
+    "directors": [
+      "Elia Kazan"
+    ],
+    "writers": [
+      "Budd Schulberg",
+      "Budd Schulberg",
+      "1 more credit"
+    ],
+    "stars": [
+      "Marlon Brando",
+      "Karl Malden",
+      "Lee J. Cobb"
+    ],
+    "story_line": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+    "production_company": "Horizon Pictures"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "rating": 8.2,
+    "runtime": "3h",
+    "runtime_mins": 180,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2014-01-09"
+    },
+    "creators": [],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Terence Winter",
+      "Jordan Belfort"
+    ],
+    "stars": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie"
+    ],
+    "story_line": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "production_company": "Red Granite Pictures"
+  },
+  {
+    "title": "The Elephant Man",
+    "rating": 8.2,
+    "runtime": "2h 4min",
+    "runtime_mins": 124,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1981-01-15"
+    },
+    "creators": [],
+    "directors": [
+      "David Lynch"
+    ],
+    "writers": [
+      "Christopher De Vore",
+      "Eric Bergren"
+    ],
+    "stars": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft"
+    ],
+    "story_line": "When a prestigious doctor takes on the task of studying a deformed gentlemen known as \"the Elephant Man\", he finds that the man is quite personable and intelligent.",
+    "production_company": "Brooksfilms"
+  },
+  {
+    "title": "Inside Out",
+    "rating": 8.2,
+    "runtime": "1h 35min",
+    "runtime_mins": 95,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2015-07-15"
+    },
+    "creators": [],
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del Carmen"
+    ],
+    "writers": [
+      "Pete Docter",
+      "Ronnie Del Carmen"
+    ],
+    "stars": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black"
+    ],
+    "story_line": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "production_company": "Pixar Animation Studios"
+  },
+  {
+    "title": "V for Vendetta",
+    "rating": 8.2,
+    "runtime": "2h 12min",
+    "runtime_mins": 132,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2006-03-30"
+    },
+    "creators": [],
+    "directors": [
+      "James McTeigue"
+    ],
+    "writers": [
+      "Lilly Wachowski",
+      "Lana Wachowski",
+      "1 more credit"
+    ],
+    "stars": [
+      "Hugo Weaving",
+      "Natalie Portman",
+      "Rupert Graves"
+    ],
+    "story_line": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "rating": 8.2,
+    "runtime": "2h 9min",
+    "runtime_mins": 129,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1939-10-19"
+    },
+    "creators": [],
+    "directors": [
+      "Frank Capra"
+    ],
+    "writers": [
+      "Sidney Buchman",
+      "Lewis R. Foster"
+    ],
+    "stars": [
+      "James Stewart",
+      "Jean Arthur",
+      "Claude Rains"
+    ],
+    "story_line": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+    "production_company": "Columbia Pictures"
+  },
+  {
+    "title": "There Will Be Blood",
+    "rating": 8.2,
+    "runtime": "2h 38min",
+    "runtime_mins": 158,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2008-02-28"
+    },
+    "creators": [],
+    "directors": [
+      "Paul Thomas Anderson"
+    ],
+    "writers": [
+      "Paul Thomas Anderson",
+      "Upton Sinclair"
+    ],
+    "stars": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Ciar\u00e1n Hinds"
+    ],
+    "story_line": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "production_company": "Paramount Vantage"
+  },
+  {
+    "title": "Warrior",
+    "rating": 8.2,
+    "runtime": "2h 20min",
+    "runtime_mins": 140,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "release_date": {
+      "release_date": "2011-10-06"
+    },
+    "creators": [],
+    "directors": [
+      "Gavin O'Connor"
+    ],
+    "writers": [
+      "Gavin O'Connor",
+      "Anthony Tambakis"
+    ],
+    "stars": [
+      "Tom Hardy",
+      "Nick Nolte",
+      "Joel Edgerton"
+    ],
+    "story_line": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    "production_company": "Lionsgate"
+  },
+  {
+    "title": "Room",
+    "rating": 8.2,
+    "runtime": "1h 58min",
+    "runtime_mins": 118,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2016-03-03"
+    },
+    "creators": [],
+    "directors": [
+      "Lenny Abrahamson"
+    ],
+    "writers": [
+      "Emma Donoghue",
+      "Emma Donoghue"
+    ],
+    "stars": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Sean Bridgers"
+    ],
+    "story_line": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+    "production_company": "Element Pictures"
+  },
+  {
+    "title": "Blade Runner",
+    "rating": 8.2,
+    "runtime": "1h 57min",
+    "runtime_mins": 117,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1982-11-11"
+    },
+    "creators": [],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "writers": [
+      "Hampton Fancher",
+      "David Webb Peoples",
+      "1 more credit"
+    ],
+    "stars": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "story_line": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+    "production_company": "The Ladd Company"
+  },
+  {
+    "title": "No Country for Old Men",
+    "rating": 8.1,
+    "runtime": "2h 2min",
+    "runtime_mins": 122,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2008-02-14"
+    },
+    "creators": [],
+    "directors": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "writers": [
+      "Joel Coen",
+      "Ethan Coen",
+      "1 more credit"
+    ],
+    "stars": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
+    "story_line": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "production_company": "Paramount Vantage"
+  },
+  {
+    "title": "Dial M for Murder",
+    "rating": 8.2,
+    "runtime": "1h 45min",
+    "runtime_mins": 105,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1954-05-29"
+    },
+    "creators": [],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "writers": [
+      "Frederick Knott",
+      "Frederick Knott"
+    ],
+    "stars": [
+      "Ray Milland",
+      "Grace Kelly",
+      "Robert Cummings"
+    ],
+    "story_line": "A tennis player frames his unfaithful wife for first-degree murder after she inadvertently hinders his plan to kill her.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "The Sixth Sense",
+    "rating": 8.1,
+    "runtime": "1h 47min",
+    "runtime_mins": 107,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1999-12-23"
+    },
+    "creators": [],
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "writers": [
+      "M. Night Shyamalan"
+    ],
+    "stars": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "story_line": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "production_company": "Hollywood Pictures"
+  },
+  {
+    "title": "Smultronst\u00e4llet",
+    "rating": 8.2,
+    "runtime": "1h 31min",
+    "runtime_mins": 91,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1957-12-26"
+    },
+    "creators": [],
+    "directors": [
+      "Ingmar Bergman"
+    ],
+    "writers": [
+      "Ingmar Bergman"
+    ],
+    "stars": [
+      "Victor Sj\u00f6str\u00f6m",
+      "Bibi Andersson",
+      "Ingrid Thulin"
+    ],
+    "story_line": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+    "production_company": "Svensk Filmindustri (SF)"
+  },
+  {
+    "title": "Trainspotting",
+    "rating": 8.2,
+    "runtime": "1h 33min",
+    "runtime_mins": 93,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1996-09-05"
+    },
+    "creators": [],
+    "directors": [
+      "Danny Boyle"
+    ],
+    "writers": [
+      "Irvine Welsh",
+      "John Hodge"
+    ],
+    "stars": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller"
+    ],
+    "story_line": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+    "production_company": "Channel Four Films"
+  },
+  {
+    "title": "The General",
+    "rating": 8.2,
+    "runtime": "1h 7min",
+    "runtime_mins": 67,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "1927-02-24"
+    },
+    "creators": [],
+    "directors": [
+      "Clyde Bruckman",
+      "Buster Keaton"
+    ],
+    "writers": [
+      "Buster Keaton",
+      "Clyde Bruckman"
+    ],
+    "stars": [
+      "Buster Keaton",
+      "Marion Mack",
+      "Glen Cavender"
+    ],
+    "story_line": "When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.",
+    "production_company": "Buster Keaton Productions"
+  },
+  {
+    "title": "Gone with the Wind",
+    "rating": 8.2,
+    "runtime": "3h 58min",
+    "runtime_mins": 238,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1949-03-03"
+    },
+    "creators": [],
+    "directors": [
+      "Victor Fleming",
+      "George Cukor",
+      "1 more credit"
+    ],
+    "writers": [
+      "Margaret Mitchell",
+      "Sidney Howard"
+    ],
+    "stars": [
+      "Clark Gable",
+      "Vivien Leigh",
+      "Thomas Mitchell"
+    ],
+    "story_line": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+    "production_company": "Selznick International Pictures"
+  },
+  {
+    "title": "The Thing",
+    "rating": 8.1,
+    "runtime": "1h 49min",
+    "runtime_mins": 109,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1982-11-11"
+    },
+    "creators": [],
+    "directors": [
+      "John Carpenter"
+    ],
+    "writers": [
+      "Bill Lancaster",
+      "John W. Campbell Jr."
+    ],
+    "stars": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David"
+    ],
+    "story_line": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "production_company": "Universal Pictures"
+  },
+  {
+    "title": "Fargo",
+    "rating": 8.1,
+    "runtime": "1h 38min",
+    "runtime_mins": 98,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1996-10-17"
+    },
+    "creators": [],
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "writers": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "stars": [
+      "William H. Macy",
+      "Frances McDormand",
+      "Steve Buscemi"
+    ],
+    "story_line": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+    "production_company": "PolyGram Filmed Entertainment"
+  },
+  {
+    "title": "Idi i smotri",
+    "rating": 8.2,
+    "runtime": "2h 22min",
+    "runtime_mins": 142,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1990-08-03"
+    },
+    "creators": [],
+    "directors": [
+      "Elem Klimov"
+    ],
+    "writers": [
+      "Ales Adamovich",
+      "Ales Adamovich",
+      "1 more credit"
+    ],
+    "stars": [
+      "Aleksey Kravchenko",
+      "Olga Mironova",
+      "Liubomiras Laucevicius"
+    ],
+    "story_line": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+    "production_company": "Belarusfilm"
+  },
+  {
+    "title": "Andhadhun",
+    "rating": 8.4,
+    "runtime": "2h 19min",
+    "runtime_mins": 139,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2018-10-05"
+    },
+    "creators": [],
+    "directors": [
+      "Sriram Raghavan"
+    ],
+    "writers": [
+      "Arijit Biswas",
+      "Yogesh Chandekar"
+    ],
+    "stars": [
+      "Ayushmann Khurrana",
+      "Tabu",
+      "Radhika Apte"
+    ],
+    "story_line": "A series of mysterious events change the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
+    "production_company": "Matchbox Pictures"
+  },
+  {
+    "title": "Finding Nemo",
+    "rating": 8.1,
+    "runtime": "1h 40min",
+    "runtime_mins": 100,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2003-11-27"
+    },
+    "creators": [],
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "writers": [
+      "Andrew Stanton",
+      "Andrew Stanton"
+    ],
+    "stars": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "story_line": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "production_company": "Pixar Animation Studios"
+  },
+  {
+    "title": "Gran Torino",
+    "rating": 8.1,
+    "runtime": "1h 56min",
+    "runtime_mins": 116,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2009-03-12"
+    },
+    "creators": [],
+    "directors": [
+      "Clint Eastwood"
+    ],
+    "writers": [
+      "Nick Schenk",
+      "Dave Johannson",
+      "1 more credit"
+    ],
+    "stars": [
+      "Clint Eastwood",
+      "Bee Vang",
+      "Christopher Carley"
+    ],
+    "story_line": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+    "production_company": "Matten Productions"
+  },
+  {
+    "title": "The Deer Hunter",
+    "rating": 8.1,
+    "runtime": "3h 3min",
+    "runtime_mins": 183,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1979-04-05"
+    },
+    "creators": [],
+    "directors": [
+      "Michael Cimino"
+    ],
+    "writers": [
+      "Michael Cimino",
+      "Deric Washburn"
+    ],
+    "stars": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "John Cazale"
+    ],
+    "story_line": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+    "production_company": "EMI Films"
+  },
+  {
+    "title": "Shutter Island",
+    "rating": 8.1,
+    "runtime": "2h 18min",
+    "runtime_mins": 138,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2010-02-18"
+    },
+    "creators": [],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Laeta Kalogridis",
+      "Dennis Lehane"
+    ],
+    "stars": [
+      "Leonardo DiCaprio",
+      "Emily Mortimer",
+      "Mark Ruffalo"
+    ],
+    "story_line": "In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "The Big Lebowski",
+    "rating": 8.1,
+    "runtime": "1h 57min",
+    "runtime_mins": 117,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": "1998-05-14"
+    },
+    "creators": [],
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "writers": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "stars": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore"
+    ],
+    "story_line": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "production_company": "Polygram Filmed Entertainment"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "rating": 8.1,
+    "runtime": "1h 51min",
+    "runtime_mins": 111,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2003-11-20"
+    },
+    "creators": [],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "writers": [
+      "Quentin Tarantino",
+      "Quentin Tarantino",
+      "1 more credit"
+    ],
+    "stars": [
+      "Uma Thurman",
+      "David Carradine",
+      "Daryl Hannah"
+    ],
+    "story_line": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "production_company": "Miramax"
+  },
+  {
+    "title": "Sherlock Jr.",
+    "rating": 8.2,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1924-05-11"
+    },
+    "creators": [],
+    "directors": [
+      "Buster Keaton"
+    ],
+    "writers": [
+      "Jean C. Havez",
+      "Joseph A. Mitchell",
+      "1 more credit"
+    ],
+    "stars": [
+      "Buster Keaton",
+      "Kathryn McGuire",
+      "Joe Keaton"
+    ],
+    "story_line": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+    "production_company": "Buster Keaton Productions"
+  },
+  {
+    "title": "Cool Hand Luke",
+    "rating": 8.1,
+    "runtime": "2h 7min",
+    "runtime_mins": 127,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1967-11-01"
+    },
+    "creators": [],
+    "directors": [
+      "Stuart Rosenberg"
+    ],
+    "writers": [
+      "Donn Pearce",
+      "Frank Pierson",
+      "1 more credit"
+    ],
+    "stars": [
+      "Paul Newman",
+      "George Kennedy",
+      "Strother Martin"
+    ],
+    "story_line": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "production_company": "Jalem Productions"
+  },
+  {
+    "title": "Mary and Max",
+    "rating": 8.1,
+    "runtime": "1h 32min",
+    "runtime_mins": 92,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2011-09-01"
+    },
+    "creators": [],
+    "directors": [
+      "Adam Elliot"
+    ],
+    "writers": [
+      "Adam Elliot"
+    ],
+    "stars": [
+      "Toni Collette",
+      "Philip Seymour Hoffman",
+      "Eric Bana"
+    ],
+    "story_line": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+    "production_company": "Melodrama Pictures"
+  },
+  {
+    "title": "T\u00f4ky\u00f4 monogatari",
+    "rating": 8.2,
+    "runtime": "2h 16min",
+    "runtime_mins": 136,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1953-11-03"
+    },
+    "creators": [],
+    "directors": [
+      "Yasujir\u00f4 Ozu"
+    ],
+    "writers": [
+      "K\u00f4go Noda",
+      "Yasujir\u00f4 Ozu"
+    ],
+    "stars": [
+      "Chish\u00fb Ry\u00fb",
+      "Chieko Higashiyama",
+      "S\u00f4 Yamamura"
+    ],
+    "story_line": "An old couple visit their children and grandchildren in the city; but the children have little time for them.",
+    "production_company": "Shochiku"
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "rating": 8.1,
+    "runtime": "2h 19min",
+    "runtime_mins": 139,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2016-11-03"
+    },
+    "creators": [],
+    "directors": [
+      "Mel Gibson"
+    ],
+    "writers": [
+      "Robert Schenkkan",
+      "Andrew Knight"
+    ],
+    "stars": [
+      "Andrew Garfield",
+      "Sam Worthington",
+      "Luke Bracey"
+    ],
+    "story_line": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+    "production_company": "Summit Entertainment"
+  },
+  {
+    "title": "Rebecca",
+    "rating": 8.1,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1947-01-31"
+    },
+    "creators": [],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "writers": [
+      "Daphne Du Maurier",
+      "Robert E. Sherwood"
+    ],
+    "stars": [
+      "Laurence Olivier",
+      "Joan Fontaine",
+      "George Sanders"
+    ],
+    "story_line": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+    "production_company": "Selznick International Pictures"
+  },
+  {
+    "title": "Jurassic Park",
+    "rating": 8.1,
+    "runtime": "2h 7min",
+    "runtime_mins": 127,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1993-09-30"
+    },
+    "creators": [],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Michael Crichton",
+      "Michael Crichton",
+      "1 more credit"
+    ],
+    "stars": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "story_line": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+    "production_company": "Universal Cartoon Studios"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "rating": 8.1,
+    "runtime": "1h 38min",
+    "runtime_mins": 98,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "release_date": "2010-03-31"
+    },
+    "creators": [],
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "writers": [
+      "William Davies",
+      "Dean DeBlois"
+    ],
+    "stars": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz-Plasse"
+    ],
+    "story_line": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "production_company": "DreamWorks Animation"
+  },
+  {
+    "title": "Gone Girl",
+    "rating": 8.1,
+    "runtime": "2h 29min",
+    "runtime_mins": 149,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2014-10-02"
+    },
+    "creators": [],
+    "directors": [
+      "David Fincher"
+    ],
+    "writers": [
+      "Gillian Flynn",
+      "Gillian Flynn"
+    ],
+    "stars": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris"
+    ],
+    "story_line": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "production_company": "Twentieth Century Fox"
+  },
+  {
+    "title": "Relatos salvajes",
+    "rating": 8.1,
+    "runtime": "2h 2min",
+    "runtime_mins": 122,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2014-10-30"
+    },
+    "creators": [],
+    "directors": [
+      "Dami\u00e1n Szifron"
+    ],
+    "writers": [
+      "Germ\u00e1n Servidio",
+      "Dami\u00e1n Szifron"
+    ],
+    "stars": [
+      "Dar\u00edo Grandinetti",
+      "Mar\u00eda Marull",
+      "M\u00f3nica Villa"
+    ],
+    "story_line": "Six short stories that explore the extremities of human behavior involving people in distress.",
+    "production_company": "Corner Producciones"
+  },
+  {
+    "title": "The Truman Show",
+    "rating": 8.1,
+    "runtime": "1h 43min",
+    "runtime_mins": 103,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1998-10-29"
+    },
+    "creators": [],
+    "directors": [
+      "Peter Weir"
+    ],
+    "writers": [
+      "Andrew Niccol"
+    ],
+    "stars": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "story_line": "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "production_company": "Paramount Pictures"
+  },
+  {
+    "title": "Stalker",
+    "rating": 8.1,
+    "runtime": "2h 42min",
+    "runtime_mins": 162,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1980-04-17"
+    },
+    "creators": [],
+    "directors": [
+      "Andrei Tarkovsky"
+    ],
+    "writers": [
+      "Arkadiy Strugatskiy",
+      "Boris Strugatskiy"
+    ],
+    "stars": [
+      "Alisa Freyndlikh",
+      "Aleksandr Kaydanovskiy",
+      "Anatoliy Solonitsyn"
+    ],
+    "story_line": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+    "production_company": "Mosfilm"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "rating": 8.1,
+    "runtime": "1h 39min",
+    "runtime_mins": 99,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": "2014-03-13"
+    },
+    "creators": [],
+    "directors": [
+      "Wes Anderson"
+    ],
+    "writers": [
+      "Stefan Zweig",
+      "Wes Anderson"
+    ],
+    "stars": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric"
+    ],
+    "story_line": "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
+    "production_company": "Fox Searchlight Pictures"
+  },
+  {
+    "title": "In the Name of the Father",
+    "rating": 8.1,
+    "runtime": "2h 13min",
+    "runtime_mins": 133,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1994-03-10"
+    },
+    "creators": [],
+    "directors": [
+      "Jim Sheridan"
+    ],
+    "writers": [
+      "Gerry Conlon",
+      "Terry George",
+      "1 more credit"
+    ],
+    "stars": [
+      "Daniel Day-Lewis",
+      "Pete Postlethwaite",
+      "Alison Crosbie"
+    ],
+    "story_line": "A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+    "production_company": "Hell's Kitchen Films"
+  },
+  {
+    "title": "Stand by Me",
+    "rating": 8.1,
+    "runtime": "1h 29min",
+    "runtime_mins": 89,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1986-11-26"
+    },
+    "creators": [],
+    "directors": [
+      "Rob Reiner"
+    ],
+    "writers": [
+      "Stephen King",
+      "Raynold Gideon",
+      "1 more credit"
+    ],
+    "stars": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman"
+    ],
+    "story_line": "After the death of one of his friends, a writer recounts a boyhood journey with his friends to find the body of a missing boy.",
+    "production_company": "Columbia Pictures"
+  },
+  {
+    "title": "Sunrise: A Song of Two Humans",
+    "rating": 8.2,
+    "runtime": "1h 34min",
+    "runtime_mins": 94,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1997-01-30"
+    },
+    "creators": [],
+    "directors": [
+      "F.W. Murnau"
+    ],
+    "writers": [
+      "Carl Mayer",
+      "Hermann Sudermann"
+    ],
+    "stars": [
+      "George O'Brien",
+      "Janet Gaynor",
+      "Margaret Livingston"
+    ],
+    "story_line": "An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.",
+    "production_company": "Fox Film Corporation"
+  },
+  {
+    "title": "Salinui chueok",
+    "rating": 8.1,
+    "runtime": "2h 11min",
+    "runtime_mins": 131,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2003-05-02"
+    },
+    "creators": [],
+    "directors": [
+      "Joon-ho Bong"
+    ],
+    "writers": [
+      "Joon-ho Bong",
+      "Kwang-rim Kim",
+      "1 more credit"
+    ],
+    "stars": [
+      "Kang-ho Song",
+      "Sang-kyung Kim",
+      "Roe-ha Kim"
+    ],
+    "story_line": "In a small Korean province in 1986, three detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+    "production_company": "CJ Entertainment"
+  },
+  {
+    "title": "Het gebeurde op 'n avond",
+    "rating": 8.1,
+    "runtime": "1h 45min",
+    "runtime_mins": 105,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1935-02-01"
+    },
+    "creators": [],
+    "directors": [
+      "Frank Capra"
+    ],
+    "writers": [
+      "Robert Riskin",
+      "Samuel Hopkins Adams"
+    ],
+    "stars": [
+      "Clark Gable",
+      "Claudette Colbert",
+      "Walter Connolly"
+    ],
+    "story_line": "A spoiled heiress running away from her family is helped by a man who is actually a reporter in need of a story.",
+    "production_company": "Columbia Pictures"
+  },
+  {
+    "title": "Platoon",
+    "rating": 8.1,
+    "runtime": "2h",
+    "runtime_mins": 120,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1987-04-29"
+    },
+    "creators": [],
+    "directors": [
+      "Oliver Stone"
+    ],
+    "writers": [
+      "Oliver Stone"
+    ],
+    "stars": [
+      "Charlie Sheen",
+      "Tom Berenger",
+      "Willem Dafoe"
+    ],
+    "story_line": "A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "production_company": "Hemdale"
+  },
+  {
+    "title": "Into the Wild",
+    "rating": 8.1,
+    "runtime": "2h 28min",
+    "runtime_mins": 148,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2008-04-24"
+    },
+    "creators": [],
+    "directors": [
+      "Sean Penn"
+    ],
+    "writers": [
+      "Sean Penn",
+      "Jon Krakauer"
+    ],
+    "stars": [
+      "Emile Hirsch",
+      "Vince Vaughn",
+      "Catherine Keener"
+    ],
+    "story_line": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+    "production_company": "Paramount Vantage"
+  },
+  {
+    "title": "Network",
+    "rating": 8.1,
+    "runtime": "2h 1min",
+    "runtime_mins": 121,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1977-04-07"
+    },
+    "creators": [],
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "writers": [
+      "Paddy Chayefsky"
+    ],
+    "stars": [
+      "Faye Dunaway",
+      "William Holden",
+      "Peter Finch"
+    ],
+    "story_line": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+    "production_company": "Metro-Goldwyn-Mayer (MGM)"
+  },
+  {
+    "title": "Persona",
+    "rating": 8.1,
+    "runtime": "1h 25min",
+    "runtime_mins": 85,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1966-10-18"
+    },
+    "creators": [],
+    "directors": [
+      "Ingmar Bergman"
+    ],
+    "writers": [
+      "Ingmar Bergman"
+    ],
+    "stars": [
+      "Bibi Andersson",
+      "Liv Ullmann",
+      "Margaretha Krook"
+    ],
+    "story_line": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+    "production_company": "American International Pictures (AIP)"
+  },
+  {
+    "title": "Life of Brian",
+    "rating": 8.1,
+    "runtime": "1h 34min",
+    "runtime_mins": 94,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "1979-12-13"
+    },
+    "creators": [],
+    "directors": [
+      "Terry Jones"
+    ],
+    "writers": [
+      "Graham Chapman",
+      "John Cleese"
+    ],
+    "stars": [
+      "Graham Chapman",
+      "John Cleese",
+      "Michael Palin"
+    ],
+    "story_line": "Born on the original Christmas in the stable next door to Jesus, Brian of Nazareth spends his life being mistaken for a messiah.",
+    "production_company": "HandMade Films"
+  },
+  {
+    "title": "Ben Hur",
+    "rating": 8.1,
+    "runtime": "3h 32min",
+    "runtime_mins": 212,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1960-10-14"
+    },
+    "creators": [],
+    "directors": [
+      "William Wyler"
+    ],
+    "writers": [
+      "Lew Wallace",
+      "Karl Tunberg"
+    ],
+    "stars": [
+      "Charlton Heston",
+      "Jack Hawkins",
+      "Stephen Boyd"
+    ],
+    "story_line": "When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+    "production_company": "Metro-Goldwyn-Mayer (MGM)"
+  },
+  {
+    "title": "12 Years a Slave",
+    "rating": 8.1,
+    "runtime": "2h 14min",
+    "runtime_mins": 134,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2014-02-20"
+    },
+    "creators": [],
+    "directors": [
+      "Steve McQueen"
+    ],
+    "writers": [
+      "John Ridley",
+      "Solomon Northup"
+    ],
+    "stars": [
+      "Chiwetel Ejiofor",
+      "Michael Kenneth Williams",
+      "Michael Fassbender"
+    ],
+    "story_line": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "production_company": "Regency Enterprises"
+  },
+  {
+    "title": "Million Dollar Baby",
+    "rating": 8.1,
+    "runtime": "2h 12min",
+    "runtime_mins": 132,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "release_date": {
+      "release_date": "2005-02-24"
+    },
+    "creators": [],
+    "directors": [
+      "Clint Eastwood"
+    ],
+    "writers": [
+      "Paul Haggis",
+      "F.X. Toole"
+    ],
+    "stars": [
+      "Hilary Swank",
+      "Clint Eastwood",
+      "Morgan Freeman"
+    ],
+    "story_line": "A determined woman works with a hardened boxing trainer to become a professional.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Before Sunrise",
+    "rating": 8.1,
+    "runtime": "1h 41min",
+    "runtime_mins": 101,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1995-01-27"
+    },
+    "creators": [],
+    "directors": [
+      "Richard Linklater"
+    ],
+    "writers": [
+      "Richard Linklater",
+      "Kim Krizan"
+    ],
+    "stars": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Andrea Eckert"
+    ],
+    "story_line": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+    "production_company": "Castle Rock Entertainment"
+  },
+  {
+    "title": "Hotel Rwanda",
+    "rating": 8.1,
+    "runtime": "2h 1min",
+    "runtime_mins": 121,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2005-03-17"
+    },
+    "creators": [],
+    "directors": [
+      "Terry George"
+    ],
+    "writers": [
+      "Keir Pearson",
+      "Terry George"
+    ],
+    "stars": [
+      "Don Cheadle",
+      "Sophie Okonedo",
+      "Joaquin Phoenix"
+    ],
+    "story_line": "Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+    "production_company": "United Artists"
+  },
+  {
+    "title": "Prisoners",
+    "rating": 8.1,
+    "runtime": "2h 33min",
+    "runtime_mins": 153,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "2013-09-19"
+    },
+    "creators": [],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "writers": [
+      "Aaron Guzikowski"
+    ],
+    "stars": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis"
+    ],
+    "story_line": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "production_company": "Alcon Entertainment"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "rating": 8.1,
+    "runtime": "2h",
+    "runtime_mins": 120,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2015-05-14"
+    },
+    "creators": [],
+    "directors": [
+      "George Miller"
+    ],
+    "writers": [
+      "George Miller",
+      "Brendan McCarthy",
+      "1 more credit"
+    ],
+    "stars": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "story_line": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "production_company": "Warner Bros. Pictures"
+  },
+  {
+    "title": "Logan",
+    "rating": 8.1,
+    "runtime": "2h 17min",
+    "runtime_mins": 137,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2017-03-02"
+    },
+    "creators": [],
+    "directors": [
+      "James Mangold"
+    ],
+    "writers": [
+      "James Mangold",
+      "Scott Frank"
+    ],
+    "stars": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Dafne Keen"
+    ],
+    "story_line": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+    "production_company": "Twentieth Century Fox"
+  },
+  {
+    "title": "Hachi: A Dog's Tale",
+    "rating": 8.1,
+    "runtime": "1h 33min",
+    "runtime_mins": 93,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "release_date": "2009-12-17"
+    },
+    "creators": [],
+    "directors": [
+      "Lasse Hallstr\u00f6m"
+    ],
+    "writers": [
+      "Stephen P. Lindsey",
+      "Kaneto Shind\u00f4"
+    ],
+    "stars": [
+      "Richard Gere",
+      "Joan Allen",
+      "Cary-Hiroyuki Tagawa"
+    ],
+    "story_line": "A college professor bonds with an abandoned dog he takes into his home.",
+    "production_company": "Stage 6 Films"
+  },
+  {
+    "title": "Eskiya",
+    "rating": 8.3,
+    "runtime": "2h 8min",
+    "runtime_mins": 128,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1996-11-29"
+    },
+    "creators": [],
+    "directors": [
+      "Yavuz Turgul"
+    ],
+    "writers": [
+      "Yavuz Turgul"
+    ],
+    "stars": [
+      "Sener Sen",
+      "Ugur Y\u00fccel",
+      "Sermin H\u00fcrmeri\u00e7"
+    ],
+    "story_line": "Baran the Bandit, released from prison after 35 years searches for vengeance and his lover.",
+    "production_company": "Artcam International"
+  },
+  {
+    "title": "Rush",
+    "rating": 8.1,
+    "runtime": "2h 3min",
+    "runtime_mins": 123,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2013-10-03"
+    },
+    "creators": [],
+    "directors": [
+      "Ron Howard"
+    ],
+    "writers": [
+      "Peter Morgan"
+    ],
+    "stars": [
+      "Daniel Br\u00fchl",
+      "Chris Hemsworth",
+      "Olivia Wilde"
+    ],
+    "story_line": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+    "production_company": "Exclusive Media Group"
+  },
+  {
+    "title": "Le salaire de la peur",
+    "rating": 8.1,
+    "runtime": "2h 11min",
+    "runtime_mins": 131,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1953-04-22"
+    },
+    "creators": [],
+    "directors": [
+      "Henri-Georges Clouzot"
+    ],
+    "writers": [
+      "Georges Arnaud",
+      "Henri-Georges Clouzot",
+      "1 more credit"
+    ],
+    "stars": [
+      "Yves Montand",
+      "Charles Vanel",
+      "Peter van Eyck"
+    ],
+    "story_line": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+    "production_company": "Compagnie Industrielle et Commerciale Cin\u00e9matographique (CICC)"
+  },
+  {
+    "title": "Catch Me If You Can",
+    "rating": 8.1,
+    "runtime": "2h 21min",
+    "runtime_mins": 141,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2003-02-06"
+    },
+    "creators": [],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Jeff Nathanson",
+      "Frank Abagnale Jr.",
+      "1 more credit"
+    ],
+    "stars": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken"
+    ],
+    "story_line": "A seasoned FBI agent pursues Frank Abagnale Jr. who, before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and a legal prosecutor.",
+    "production_company": "DreamWorks"
+  },
+  {
+    "title": "Les quatre cents coups",
+    "rating": 8.1,
+    "runtime": "1h 39min",
+    "runtime_mins": 99,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1959-06-03"
+    },
+    "creators": [],
+    "directors": [
+      "Fran\u00e7ois Truffaut"
+    ],
+    "writers": [
+      "Fran\u00e7ois Truffaut",
+      "Marcel Moussy"
+    ],
+    "stars": [
+      "Jean-Pierre L\u00e9aud",
+      "Albert R\u00e9my",
+      "Claire Maurier"
+    ],
+    "story_line": "A young boy, left without attention, delves into a life of petty crime.",
+    "production_company": "Les Films du Carrosse"
+  },
+  {
+    "title": "Spotlight",
+    "rating": 8.1,
+    "runtime": "2h 9min",
+    "runtime_mins": 129,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2016-01-28"
+    },
+    "creators": [],
+    "directors": [
+      "Tom McCarthy"
+    ],
+    "writers": [
+      "Josh Singer",
+      "Tom McCarthy"
+    ],
+    "stars": [
+      "Mark Ruffalo",
+      "Michael Keaton",
+      "Rachel McAdams"
+    ],
+    "story_line": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "production_company": "Participant Media"
+  },
+  {
+    "title": "Amores perros",
+    "rating": 8.1,
+    "runtime": "2h 34min",
+    "runtime_mins": 154,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2001-03-29"
+    },
+    "creators": [],
+    "directors": [
+      "Alejandro G. I\u00f1\u00e1rritu"
+    ],
+    "writers": [
+      "Guillermo Arriaga"
+    ],
+    "stars": [
+      "Emilio Echevarr\u00eda",
+      "Gael Garc\u00eda Bernal",
+      "Goya Toledo"
+    ],
+    "story_line": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+    "production_company": "Altavista Films"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "rating": 8.1,
+    "runtime": "2h 10min",
+    "runtime_mins": 130,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "2011-07-13"
+    },
+    "creators": [],
+    "directors": [
+      "David Yates"
+    ],
+    "writers": [
+      "Steve Kloves",
+      "J.K. Rowling"
+    ],
+    "stars": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "story_line": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Andrei Rublev",
+    "rating": 8.2,
+    "runtime": "3h 25min",
+    "runtime_mins": 205,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1985-07-25"
+    },
+    "creators": [],
+    "directors": [
+      "Andrei Tarkovsky"
+    ],
+    "writers": [
+      "Andrey Konchalovskiy",
+      "Andrei Tarkovsky"
+    ],
+    "stars": [
+      "Anatoliy Solonitsyn",
+      "Ivan Lapikov",
+      "Nikolay Grinko"
+    ],
+    "story_line": "The life, times and afflictions of the fifteenth-century Russian iconographer.",
+    "production_company": "Mosfilm"
+  },
+  {
+    "title": "Shin seiki Evangelion Gekij\u00f4-ban: Air/Magokoro wo, kimi ni",
+    "rating": 8.2,
+    "runtime": "1h 30min",
+    "runtime_mins": 90,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "None"
+    },
+    "creators": [],
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "writers": [
+      "Hideaki Anno"
+    ],
+    "stars": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Y\u00fbko Miyamura"
+    ],
+    "story_line": "Concurrent theatrical ending of the TV series Shin Seiki Evangerion (1995).",
+    "production_company": "Gainax"
+  },
+  {
+    "title": "Kaze no tani no Naushika",
+    "rating": 8.1,
+    "runtime": "1h 57min",
+    "runtime_mins": 117,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1984-03-11"
+    },
+    "creators": [],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki",
+      "Hayao Miyazaki"
+    ],
+    "stars": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky\u00f4da"
+    ],
+    "story_line": "Warrior and pacifist Princess Nausica\u00e4 desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+    "production_company": "Nibariki"
+  },
+  {
+    "title": "La passion de Jeanne d'Arc",
+    "rating": 8.1,
+    "runtime": "1h 50min",
+    "runtime_mins": 110,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1929-11-09"
+    },
+    "creators": [],
+    "directors": [
+      "Carl Theodor Dreyer"
+    ],
+    "writers": [
+      "Joseph Delteil",
+      "Carl Theodor Dreyer"
+    ],
+    "stars": [
+      "Maria Falconetti",
+      "Eugene Silvain",
+      "Andr\u00e9 Berley"
+    ],
+    "story_line": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+    "production_company": "Soci\u00e9t\u00e9 g\u00e9n\u00e9rale des films"
+  },
+  {
+    "title": "The Princess Bride",
+    "rating": 8.1,
+    "runtime": "1h 38min",
+    "runtime_mins": 98,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1988-10-13"
+    },
+    "creators": [],
+    "directors": [
+      "Rob Reiner"
+    ],
+    "writers": [
+      "William Goldman",
+      "William Goldman"
+    ],
+    "stars": [
+      "Cary Elwes",
+      "Mandy Patinkin",
+      "Robin Wright"
+    ],
+    "story_line": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+    "production_company": "Act III Communications"
+  },
+  {
+    "title": "Barry Lyndon",
+    "rating": 8.1,
+    "runtime": "3h 5min",
+    "runtime_mins": 185,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1976-09-02"
+    },
+    "creators": [],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stanley Kubrick",
+      "William Makepeace Thackeray"
+    ],
+    "stars": [
+      "Ryan O'Neal",
+      "Marisa Berenson",
+      "Patrick Magee"
+    ],
+    "story_line": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "production_company": "Peregrine"
+  },
+  {
+    "title": "Rocky",
+    "rating": 8.1,
+    "runtime": "2h",
+    "runtime_mins": 120,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "release_date": {
+      "release_date": "1977-04-07"
+    },
+    "creators": [],
+    "directors": [
+      "John G. Avildsen"
+    ],
+    "writers": [
+      "Sylvester Stallone"
+    ],
+    "stars": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young"
+    ],
+    "story_line": "A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.",
+    "production_company": "Chartoff-Winkler Productions"
+  },
+  {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "rating": 8.1,
+    "runtime": "1h 50min",
+    "runtime_mins": 110,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1970-01-29"
+    },
+    "creators": [],
+    "directors": [
+      "George Roy Hill"
+    ],
+    "writers": [
+      "William Goldman"
+    ],
+    "stars": [
+      "Paul Newman",
+      "Robert Redford",
+      "Katharine Ross"
+    ],
+    "story_line": "Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.",
+    "production_company": "Campanile Productions"
+  },
+  {
+    "title": "Rang De Basanti",
+    "rating": 8.2,
+    "runtime": "2h 47min",
+    "runtime_mins": 167,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2006-01-26"
+    },
+    "creators": [],
+    "directors": [
+      "Rakeysh Omprakash Mehra"
+    ],
+    "writers": [
+      "Renzil D'Silva",
+      "Prasoon Joshi"
+    ],
+    "stars": [
+      "Aamir Khan",
+      "Soha Ali Khan",
+      "Siddharth"
+    ],
+    "story_line": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",
+    "production_company": "ROMP"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "rating": 8.1,
+    "runtime": "1h 32min",
+    "runtime_mins": 92,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2002-02-07"
+    },
+    "creators": [],
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "1 more credit"
+    ],
+    "writers": [
+      "Pete Docter",
+      "Jill Culton"
+    ],
+    "stars": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs"
+    ],
+    "story_line": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+    "production_company": "Pixar Animation Studios"
+  },
+  {
+    "title": "Dead Poets Society",
+    "rating": 8.1,
+    "runtime": "2h 8min",
+    "runtime_mins": 128,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1990-01-19"
+    },
+    "creators": [],
+    "directors": [
+      "Peter Weir"
+    ],
+    "writers": [
+      "Tom Schulman"
+    ],
+    "stars": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke"
+    ],
+    "story_line": "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.",
+    "production_company": "Touchstone Pictures"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "rating": 8.1,
+    "runtime": "2h 9min",
+    "runtime_mins": 129,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1940-03-15"
+    },
+    "creators": [],
+    "directors": [
+      "John Ford"
+    ],
+    "writers": [
+      "Nunnally Johnson",
+      "John Steinbeck"
+    ],
+    "stars": [
+      "Henry Fonda",
+      "Jane Darwell",
+      "John Carradine"
+    ],
+    "story_line": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
+    "production_company": "Twentieth Century Fox"
+  },
+  {
+    "title": "The Terminator",
+    "rating": 8.0,
+    "runtime": "1h 47min",
+    "runtime_mins": 107,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1985-02-21"
+    },
+    "creators": [],
+    "directors": [
+      "James Cameron"
+    ],
+    "writers": [
+      "James Cameron",
+      "Gale Anne Hurd",
+      "1 more credit"
+    ],
+    "stars": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "story_line": "A seemingly indestructible robot is sent from 2029 to 1984 to assassinate a young waitress, whose unborn son will lead humanity in a war against sentient machines, while a human soldier from the same war is sent to protect her at all costs.",
+    "production_company": "Hemdale"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "rating": 8.1,
+    "runtime": "1h 40min",
+    "runtime_mins": 100,
+    "genres": [
+      "Film-Noir",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "1947-06-05"
+    },
+    "creators": [],
+    "directors": [
+      "John Huston"
+    ],
+    "writers": [
+      "John Huston",
+      "Dashiell Hammett"
+    ],
+    "stars": [
+      "Humphrey Bogart",
+      "Mary Astor",
+      "Gladys George"
+    ],
+    "story_line": "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Ah-ga-ssi",
+    "rating": 8.1,
+    "runtime": "2h 25min",
+    "runtime_mins": 145,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2017-02-02"
+    },
+    "creators": [],
+    "directors": [
+      "Chan-wook Park"
+    ],
+    "writers": [
+      "Sarah Waters",
+      "Seo-kyeong Jeong",
+      "1 more credit"
+    ],
+    "stars": [
+      "Min-hee Kim",
+      "Jung-woo Ha",
+      "Jin-Woong Cho"
+    ],
+    "story_line": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+    "production_company": "Moho Film"
+  },
+  {
+    "title": "La haine",
+    "rating": 8.1,
+    "runtime": "1h 38min",
+    "runtime_mins": 98,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1995-12-14"
+    },
+    "creators": [],
+    "directors": [
+      "Mathieu Kassovitz"
+    ],
+    "writers": [
+      "Mathieu Kassovitz"
+    ],
+    "stars": [
+      "Vincent Cassel",
+      "Hubert Kound\u00e9",
+      "Sa\u00efd Taghmaoui"
+    ],
+    "story_line": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+    "production_company": "Canal+"
+  },
+  {
+    "title": "Gandhi",
+    "rating": 8.1,
+    "runtime": "3h 11min",
+    "runtime_mins": 191,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1983-03-10"
+    },
+    "creators": [],
+    "directors": [
+      "Richard Attenborough"
+    ],
+    "writers": [
+      "John Briley"
+    ],
+    "stars": [
+      "Ben Kingsley",
+      "John Gielgud",
+      "Rohini Hattangadi"
+    ],
+    "story_line": "Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.",
+    "production_company": "International Film Investors"
+  },
+  {
+    "title": "Faa yeung nin wa",
+    "rating": 8.1,
+    "runtime": "1h 38min",
+    "runtime_mins": 98,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "2001-03-15"
+    },
+    "creators": [],
+    "directors": [
+      "Kar-Wai Wong"
+    ],
+    "writers": [
+      "Kar-Wai Wong"
+    ],
+    "stars": [
+      "Tony Chiu-Wai Leung",
+      "Maggie Cheung",
+      "Ping Lam Siu"
+    ],
+    "story_line": "Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+    "production_company": "Block 2 Pictures"
+  },
+  {
+    "title": "Donnie Darko",
+    "rating": 8.1,
+    "runtime": "1h 53min",
+    "runtime_mins": 113,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "2002-06-20"
+    },
+    "creators": [],
+    "directors": [
+      "Richard Kelly"
+    ],
+    "writers": [
+      "Richard Kelly"
+    ],
+    "stars": [
+      "Jake Gyllenhaal",
+      "Jena Malone",
+      "Mary McDonnell"
+    ],
+    "story_line": "A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.",
+    "production_company": "Pandora Cinema"
+  },
+  {
+    "title": "Groundhog Day",
+    "rating": 8.0,
+    "runtime": "1h 41min",
+    "runtime_mins": 101,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1994-03-31"
+    },
+    "creators": [],
+    "directors": [
+      "Harold Ramis"
+    ],
+    "writers": [
+      "Danny Rubin",
+      "Harold Ramis",
+      "1 more credit"
+    ],
+    "stars": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott"
+    ],
+    "story_line": "A weatherman finds himself inexplicably living the same day over and over again.",
+    "production_company": "Columbia Pictures"
+  },
+  {
+    "title": "The Help",
+    "rating": 8.1,
+    "runtime": "2h 26min",
+    "runtime_mins": 146,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2011-12-29"
+    },
+    "creators": [],
+    "directors": [
+      "Tate Taylor"
+    ],
+    "writers": [
+      "Tate Taylor",
+      "Kathryn Stockett"
+    ],
+    "stars": [
+      "Emma Stone",
+      "Viola Davis",
+      "Octavia Spencer"
+    ],
+    "story_line": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+    "production_company": "DreamWorks"
+  },
+  {
+    "title": "Demonen",
+    "rating": 8.1,
+    "runtime": "1h 57min",
+    "runtime_mins": 117,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "release_date": {
+      "release_date": "1955-11-18"
+    },
+    "creators": [],
+    "directors": [
+      "Henri-Georges Clouzot"
+    ],
+    "writers": [
+      "Pierre Boileau",
+      "Thomas Narcejac"
+    ],
+    "stars": [
+      "Simone Signoret",
+      "V\u00e9ra Clouzot",
+      "Paul Meurisse"
+    ],
+    "story_line": "The wife and mistress of a loathed school principal hatch a plan to murder him while having the perfect alibi. They carry out the plan...but then his body disappears.",
+    "production_company": "Filmsonor"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "rating": 8.0,
+    "runtime": "1h 42min",
+    "runtime_mins": 102,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1939-08-25"
+    },
+    "creators": [],
+    "directors": [
+      "Victor Fleming",
+      "George Cukor"
+    ],
+    "writers": [
+      "Noel Langley",
+      "Florence Ryerson"
+    ],
+    "stars": [
+      "Judy Garland",
+      "Frank Morgan",
+      "Ray Bolger"
+    ],
+    "story_line": "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well.",
+    "production_company": "Metro-Goldwyn-Mayer (MGM)"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "rating": 8.1,
+    "runtime": "2h 1min",
+    "runtime_mins": 121,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": "2014-08-14"
+    },
+    "creators": [],
+    "directors": [
+      "James Gunn"
+    ],
+    "writers": [
+      "James Gunn",
+      "Nicole Perlman"
+    ],
+    "stars": [
+      "Chris Pratt",
+      "Vin Diesel",
+      "Bradley Cooper"
+    ],
+    "story_line": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "production_company": "Marvel Studios"
+  },
+  {
+    "title": "Jaws",
+    "rating": 8.0,
+    "runtime": "2h 4min",
+    "runtime_mins": 124,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1975-12-18"
+    },
+    "creators": [],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Peter Benchley",
+      "Carl Gottlieb",
+      "1 more credit"
+    ],
+    "stars": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "story_line": "When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "production_company": "Zanuck/Brown Productions"
+  },
+  {
+    "title": "Before Sunset",
+    "rating": 8.1,
+    "runtime": "1h 20min",
+    "runtime_mins": 80,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "2004-09-23"
+    },
+    "creators": [],
+    "directors": [
+      "Richard Linklater"
+    ],
+    "writers": [
+      "Richard Linklater",
+      "Julie Delpy"
+    ],
+    "stars": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Vernon Dobtcheff"
+    ],
+    "story_line": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+    "production_company": "Warner Independent Pictures (WIP)"
+  },
+  {
+    "title": "Tenk\u00fb no shiro Rapyuta",
+    "rating": 8.1,
+    "runtime": "2h 5min",
+    "runtime_mins": 125,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1986-08-02"
+    },
+    "creators": [],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki"
+    ],
+    "stars": [
+      "Anna Paquin",
+      "James Van Der Beek",
+      "Cloris Leachman"
+    ],
+    "story_line": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+    "production_company": "Nibariki"
+  },
+  {
+    "title": "Da hong deng long gao gao gua",
+    "rating": 8.2,
+    "runtime": "2h 5min",
+    "runtime_mins": 125,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1992-02-14"
+    },
+    "creators": [],
+    "directors": [
+      "Yimou Zhang"
+    ],
+    "writers": [
+      "Su Tong",
+      "Ni Zhen"
+    ],
+    "stars": [
+      "Li Gong",
+      "Jingwu Ma",
+      "Saifei He"
+    ],
+    "story_line": "A young woman becomes the fourth wife of a wealthy lord, and must learn to live with the strict rules and tensions within the household.",
+    "production_company": "ERA International"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "rating": 8.0,
+    "runtime": "2h 23min",
+    "runtime_mins": 143,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "2003-08-14"
+    },
+    "creators": [],
+    "directors": [
+      "Gore Verbinski"
+    ],
+    "writers": [
+      "Ted Elliott",
+      "Terry Rossio"
+    ],
+    "stars": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom"
+    ],
+    "story_line": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "production_company": "Walt Disney Pictures"
+  },
+  {
+    "title": "Paris, Texas",
+    "rating": 8.1,
+    "runtime": "2h 25min",
+    "runtime_mins": 145,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1984-11-08"
+    },
+    "creators": [],
+    "directors": [
+      "Wim Wenders"
+    ],
+    "writers": [
+      "L.M. Kit Carson",
+      "Sam Shepard",
+      "1 more credit"
+    ],
+    "stars": [
+      "Harry Dean Stanton",
+      "Nastassja Kinski",
+      "Dean Stockwell"
+    ],
+    "story_line": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+    "production_company": "Road Movies Filmproduktion"
+  },
+  {
+    "title": "Belle en het Beest",
+    "rating": 8.0,
+    "runtime": "1h 24min",
+    "runtime_mins": 84,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": "1992-11-26"
+    },
+    "creators": [],
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "writers": [
+      "Linda Woolverton",
+      "Brenda Chapman"
+    ],
+    "stars": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Jesse Corti"
+    ],
+    "story_line": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+    "production_company": "Walt Disney Pictures"
+  },
+  {
+    "title": "Akira",
+    "rating": 8.1,
+    "runtime": "2h 4min",
+    "runtime_mins": 124,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "1988-07-16"
+    },
+    "creators": [],
+    "directors": [
+      "Katsuhiro \u00d4tomo"
+    ],
+    "writers": [
+      "Katsuhiro \u00d4tomo",
+      "Iz\u00f4 Hashimoto",
+      "1 more credit"
+    ],
+    "stars": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "story_line": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+    "production_company": "Akira Committee Company Ltd."
+  },
+  {
+    "title": "The Exorcist",
+    "rating": 8.0,
+    "runtime": "2h 2min",
+    "runtime_mins": 122,
+    "genres": [
+      "Horror"
+    ],
+    "release_date": {
+      "release_date": "1974-09-05"
+    },
+    "creators": [],
+    "directors": [
+      "William Friedkin"
+    ],
+    "writers": [
+      "William Peter Blatty",
+      "William Peter Blatty"
+    ],
+    "stars": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair"
+    ],
+    "story_line": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Gangs of Wasseypur",
+    "rating": 8.2,
+    "runtime": "5h 21min",
+    "runtime_mins": 321,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": "2013-10-17"
+    },
+    "creators": [],
+    "directors": [
+      "Anurag Kashyap"
+    ],
+    "writers": [
+      "Akhilesh Jaiswal",
+      "Anurag Kashyap"
+    ],
+    "stars": [
+      "Manoj Bajpayee",
+      "Richa Chadha",
+      "Nawazuddin Siddiqui"
+    ],
+    "story_line": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+    "production_company": "Jar Pictures"
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "rating": 8.0,
+    "runtime": "2h 5min",
+    "runtime_mins": 125,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1976-01-22"
+    },
+    "creators": [],
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "writers": [
+      "Frank Pierson",
+      "P.F. Kluge",
+      "1 more credit"
+    ],
+    "stars": [
+      "Al Pacino",
+      "John Cazale",
+      "Penelope Allen"
+    ],
+    "story_line": "A man robs a bank to pay for his lover's operation, which turns into a hostage situation and a media circus.",
+    "production_company": "Warner Bros."
+  },
+  {
+    "title": "Drishyam",
+    "rating": 8.3,
+    "runtime": "2h 43min",
+    "runtime_mins": 163,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "2015-07-31"
+    },
+    "creators": [],
+    "directors": [
+      "Nishikant Kamat"
+    ],
+    "writers": [
+      "Jeethu Joseph",
+      "Upendra Sidhaye"
+    ],
+    "stars": [
+      "Ajay Devgn",
+      "Shriya Saran",
+      "Tabu"
+    ],
+    "story_line": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+    "production_company": "Panorama Studios"
+  }
+]

@@ -201,3 +201,6 @@ fabric.properties
 neo4j/
 .idea/
 ngrok
+
+\title_explorer/scraper.py
+\title_explorer/scraper_routes.py

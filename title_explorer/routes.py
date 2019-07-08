@@ -15,10 +15,10 @@ routes = web.RouteTableDef()
 
 def setup_routes(app: web.Application):
     try:
-        from .scraper_search import routes as scraper_routes
+        from .scraper_routes import routes as scraper_routes
         app.add_routes(scraper_routes)
     except ImportError:
-        log.info(f'Could not import `scraper_routes`. Assuming, you don\'t have scraper endpoints')
+        log.info(f'Could not import the `scraper_routes` python moduels. Assuming, you don\'t have scraper endpoints')
     app.add_routes(routes)
 
 

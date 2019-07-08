@@ -49,6 +49,10 @@ The relationships are from `Person` to `Title`:
 * `Paul Rudd` stars_in `Ant-Man`
 * `Joe Russo` directed `Avengers: Infinity War`
 
+# Scraper Routes
+
+There is an ommited python module `scraper_routes`, that holds routes that when called, result in `title-explorer` scraping/collecting `Title` information, and storing the results in the `neo4j` instance.
+
 # Goals
 
 * [x] Get acquainted with `asyncio` in Python
