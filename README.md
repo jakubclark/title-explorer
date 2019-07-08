@@ -4,13 +4,9 @@ Search for movies and TV Shows
 
 # Endpoints
 
-* `GET /api/search?title={title}`
-    * Search by a Title
-    * Returns a list of results
-
-* `GET /api/search?id={id}`
-    * Search for a specific Movie or TV Show, using a IMDb ID
-    * Returns information on the specific Movie or TV Show
+* `POST /api/title`
+    * Add a new `Title` to the database
+    * Creates an appropriate `Title` node and associated `Person` nodes (for the directors, stars, etc.)
 
 
 # Running Locally
@@ -23,7 +19,7 @@ Prerequisites:
 2. Start the application
     * `pipenv run python -m title_explorer`
 
-# Adding new entries
+# Adding new Titles
 
 In order to create new `Title` entries in the database:
 
