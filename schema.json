@@ -11,9 +11,16 @@
             "description": "A Title object represents a TV Show or Movie",
             "type": "object",
             "properties": {
+                "type": {
+                    "type": "string",
+                    "enum": [
+                        "TV-Show",
+                        "Movie"
+                    ]
+                },
                 "id": {
                     "type": "string",
-                    "description": "Unique Identifier for the Title"
+                    "description": "Unique Identifier for the Title."
                 },
                 "title": {
                     "type": "string",
@@ -46,35 +53,30 @@
                     }
                 },
                 "release_date": {
-                    "type": "object",
-                    "properties": {
-                        "release_date": {
-                            "oneOf": [
-                                {
-                                    "type": [
-                                        "string",
-                                        "null"
-                                    ],
-                                    "description": "Release Date of the Movie, in the form yyyy-mm-dd"
-                                },
-                                {
-                                    "type": "object",
-                                    "description": "A TV-Show, with a start_year and a possible end_year",
-                                    "start_year": {
-                                        "type": "string",
-                                        "description": "Release Year of the Title, in the form yyyy-mm-dd. The month and day are redundant"
-                                    },
-                                    "end_year": {
-                                        "type": [
-                                            "string",
-                                            "null"
-                                        ],
-                                        "description": "End Year of the Title, in the form yyyy-mm-dd. The month and day are redundant. A value of null indicates, the TV-Show is ongoing"
-                                    }
-                                }
-                            ]
+                    "oneOf": [
+                        {
+                            "type": [
+                                "string",
+                                "null"
+                            ],
+                            "description": "Release Date of the Movie, in the form yyyy-mm-dd"
+                        },
+                        {
+                            "type": "object",
+                            "description": "A TV-Show, with a start_year and a possible end_year",
+                            "start_year": {
+                                "type": "string",
+                                "description": "Release Year of the Title, in the form yyyy-mm-dd. The month and day are redundant"
+                            },
+                            "end_year": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ],
+                                "description": "End Year of the Title, in the form yyyy-mm-dd. The month and day are redundant. A value of null indicates, the TV-Show is ongoing"
+                            }
                         }
-                    }
+                    ]
                 },
                 "creators": {
                     "type": "array",
@@ -117,7 +119,7 @@
                     "description": "Brief plot description for the Title"
                 },
                 "production_company": {
-                    "type": "string",
+                    "type": ["string", "null"],
                     "description": "Primary Production company, for the Title"
                 }
             },

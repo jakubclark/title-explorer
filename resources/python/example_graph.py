@@ -19,8 +19,11 @@ async def main():
         tasks = []
         for title in titles:
             url = 'http://localhost:8080/api/title'
+            print(f'POST title="{title["title"]}" | type="{title["type"]}"')
             tasks.append(post(session, url, title))
-        await asyncio.gather(*tasks)
+        results = await asyncio.gather(*tasks)
+        for res in results:
+            print(res)
 
 
 if __name__ == '__main__':
