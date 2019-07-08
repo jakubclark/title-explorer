@@ -7143,5 +7143,6387 @@
     ],
     "story_line": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
     "production_company": "Panorama Studios"
+  },
+  {
+    "title": "Chernobyl",
+    "rating": 9.6,
+    "runtime": "5h 30min",
+    "runtime_mins": 330,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2019-01-01"
+    },
+    "creators": [
+      "Craig Mazin"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jessie Buckley",
+      "Jared Harris",
+      "Stellan Skarsgård"
+    ],
+    "story_line": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+    "production_company": "Home Box Office (HBO)"
+  },
+  {
+    "title": "Planet Earth II",
+    "rating": 9.5,
+    "runtime": "4h 58min",
+    "runtime_mins": 298,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2016-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Attenborough"
+    ],
+    "story_line": "David Attenborough returns in this breathtaking documentary showcasing life on Planet Earth.",
+    "production_company": "BBC Natural History Unit (NHU)"
+  },
+  {
+    "title": "Band of Brothers",
+    "rating": 9.5,
+    "runtime": "9h 54min",
+    "runtime_mins": 594,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2001-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Scott Grimes",
+      "Damian Lewis",
+      "Ron Livingston"
+    ],
+    "story_line": "The story of Easy Company of the U.S. Army 101st Airborne Division, and their mission in World War II Europe, from Operation Overlord, through V-J Day.",
+    "production_company": "DreamWorks"
+  },
+  {
+    "title": "Planet Earth",
+    "rating": 9.4,
+    "runtime": "8h 58min",
+    "runtime_mins": 538,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2006-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Attenborough",
+      "Sigourney Weaver",
+      "Huw Cordey"
+    ],
+    "story_line": "Emmy Award-winning, 11 episodes, five years in the making, the most expensive nature documentary series ever commissioned by the BBC, and the first to be filmed in high definition.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Breaking Bad",
+    "rating": 9.5,
+    "runtime": "49min",
+    "runtime_mins": 49,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2008-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [
+      "Vince Gilligan"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn"
+    ],
+    "story_line": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "production_company": "High Bridge Productions"
+  },
+  {
+    "title": "Game of Thrones",
+    "rating": 9.4,
+    "runtime": "57min",
+    "runtime_mins": 57,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": "2019-01-01"
+    },
+    "creators": [
+      "David Benioff",
+      "D.B. Weiss"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Emilia Clarke",
+      "Peter Dinklage",
+      "Kit Harington"
+    ],
+    "story_line": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+    "production_company": "Home Box Office (HBO)"
+  },
+  {
+    "title": "The Wire",
+    "rating": 9.3,
+    "runtime": "59min",
+    "runtime_mins": 59,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2002-01-01",
+      "end_year": "2008-01-01"
+    },
+    "creators": [
+      "David Simon"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dominic West",
+      "Lance Reddick",
+      "Sonja Sohn"
+    ],
+    "story_line": "Baltimore drug scene, seen through the eyes of drug dealers and law enforcement.",
+    "production_company": "Blown Deadline Productions"
+  },
+  {
+    "title": "Cosmos",
+    "rating": 9.3,
+    "runtime": "9h 17min",
+    "runtime_mins": 557,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Neil deGrasse Tyson",
+      "Stoney Emshwiller",
+      "Piotr Michael"
+    ],
+    "story_line": "An exploration of our discovery of the laws of nature and coordinates in space and time.",
+    "production_company": "Cosmos Studios"
+  },
+  {
+    "title": "Blue Planet II",
+    "rating": 9.3,
+    "runtime": "6h 4min",
+    "runtime_mins": 364,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Attenborough",
+      "Peter Drost",
+      "Roger Munns"
+    ],
+    "story_line": "David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face.",
+    "production_company": "BBC Natural History Unit (NHU)"
+  },
+  {
+    "title": "Our Planet",
+    "rating": 9.4,
+    "runtime": "6h 43min",
+    "runtime_mins": 403,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2019-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Attenborough"
+    ],
+    "story_line": "Documentary series focusing on the breadth of the diversity of habitats around the world, from the remote Arctic wilderness and mysterious deep oceans to the vast landscapes of Africa and diverse jungles of South America.",
+    "production_company": "Silverback Films"
+  },
+  {
+    "title": "Rick and Morty",
+    "rating": 9.3,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Dan Harmon",
+      "Justin Roiland"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Justin Roiland",
+      "Chris Parnell",
+      "Spencer Grammer"
+    ],
+    "story_line": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+    "production_company": "Harmonius Claptrap"
+  },
+  {
+    "title": "Cosmos",
+    "rating": 9.2,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Carl Sagan",
+      "Jaromír Hanzlík",
+      "Jonathan Fahn"
+    ],
+    "story_line": "Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.",
+    "production_company": "KCET"
+  },
+  {
+    "title": "The Sopranos",
+    "rating": 9.2,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "1999-01-01",
+      "end_year": "2007-01-01"
+    },
+    "creators": [
+      "David Chase"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "James Gandolfini",
+      "Lorraine Bracco",
+      "Edie Falco"
+    ],
+    "story_line": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+    "production_company": "Home Box Office (HBO)"
+  },
+  {
+    "title": "The World at War",
+    "rating": 9.2,
+    "runtime": "52min",
+    "runtime_mins": 52,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "release_date": {
+      "start_year": "1973-01-01",
+      "end_year": "1976-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Laurence Olivier",
+      "Anthony Eden",
+      "Averell Harriman"
+    ],
+    "story_line": "A groundbreaking 26-part documentary series narrated by the actor Laurence Olivier about the deadliest conflict in history, World War II.",
+    "production_company": "Imperial War Museum"
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "rating": 9.2,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2005-01-01",
+      "end_year": "2008-01-01"
+    },
+    "creators": [
+      "Michael Dante DiMartino",
+      "Bryan Konietzko"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dee Bradley Baker",
+      "Zach Tyler",
+      "Jack De Sena"
+    ],
+    "story_line": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "production_company": "Nickelodeon Animation Studios"
+  },
+  {
+    "title": "Life",
+    "rating": 9.1,
+    "runtime": "7h 53min",
+    "runtime_mins": 473,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2009-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Oprah Winfrey",
+      "David Attenborough",
+      "Doug Allan"
+    ],
+    "story_line": "David Attenborough's legendary BBC crew explains and shows wildlife all over planet earth in 10 episodes. The first is an overview the challenges facing life, the others are dedicated to ...\n                    See full summary »",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "The Beatles Anthology",
+    "rating": 9.3,
+    "runtime": "10h",
+    "runtime_mins": 600,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "story_line": "An autobiographical documentary of the greatest of the rock bands.",
+    "production_company": "Apple Corps"
+  },
+  {
+    "title": "Sherlock",
+    "rating": 9.1,
+    "runtime": "1h 28min",
+    "runtime_mins": 88,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Mark Gatiss",
+      "Steven Moffat"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Benedict Cumberbatch",
+      "Martin Freeman",
+      "Una Stubbs"
+    ],
+    "story_line": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "production_company": "Hartswood Films"
+  },
+  {
+    "title": "The Vietnam War",
+    "rating": 9.1,
+    "runtime": "16h 30min",
+    "runtime_mins": 990,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "2017-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Peter Coyote",
+      "Huy Duc",
+      "Duong Van Mai Elliott"
+    ],
+    "story_line": "A comprehensive history of the United States' involvement in the bitterly divisive armed conflict in Southeast Asia.",
+    "production_company": "Florentine Films"
+  },
+  {
+    "title": "The Twilight Zone",
+    "rating": 9,
+    "runtime": "51min",
+    "runtime_mins": 51,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1959-01-01",
+      "end_year": "1964-01-01"
+    },
+    "creators": [
+      "Rod Serling"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Rod Serling",
+      "Robert McCord",
+      "Jay Overholts"
+    ],
+    "story_line": "Ordinary people find themselves in extraordinarily astounding situations, which they each try to solve in a remarkable manner.",
+    "production_company": "Cayuga Productions"
+  },
+  {
+    "title": "Human Planet",
+    "rating": 9.1,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2011-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "John Hurt",
+      "Roger Munns"
+    ],
+    "story_line": "Like all life forms, humanity partially adapts to types of natural environment, yet also tends to change them. Each episode examines how life differs for men and nature in some type of ...\n                    See full summary »",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Dekalog",
+    "rating": 9,
+    "runtime": "9h 32min",
+    "runtime_mins": 572,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Artur Barcis",
+      "Olgierd Lukaszewicz",
+      "Aleksander Bardini"
+    ],
+    "story_line": "Ten television drama films, each one based on one of the Ten Commandments.",
+    "production_company": "Sender Freies Berlin (SFB)"
+  },
+  {
+    "title": "Hagane no renkinjutsushi",
+    "rating": 9,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2009-01-01",
+      "end_year": "2012-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Iemasa Kayumi",
+      "Kent Williams",
+      "Muriel Hofmann"
+    ],
+    "story_line": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.",
+    "production_company": "Bones"
+  },
+  {
+    "title": "Firefly",
+    "rating": 9,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "2002-01-01",
+      "end_year": "2003-01-01"
+    },
+    "creators": [
+      "Joss Whedon"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Nathan Fillion",
+      "Gina Torres",
+      "Alan Tudyk"
+    ],
+    "story_line": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
+    "production_company": "Mutant Enemy"
+  },
+  {
+    "title": "The Civil War",
+    "rating": 9.1,
+    "runtime": "11h 20min",
+    "runtime_mins": 680,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "1990-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David McCullough",
+      "Sam Waterston",
+      "Julie Harris"
+    ],
+    "story_line": "A comprehensive survey of the American Civil War.",
+    "production_company": "American Documentaries Inc."
+  },
+  {
+    "title": "When They See Us",
+    "rating": 9.1,
+    "runtime": "4h 56min",
+    "runtime_mins": 296,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2019-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Asante Blackk",
+      "Caleel Harris",
+      "Ethan Herisse"
+    ],
+    "story_line": "Five teens from Harlem become trapped in a nightmare when they're falsely accused of a brutal attack in Central Park. Based on the true story.",
+    "production_company": "Forward Movement"
+  },
+  {
+    "title": "True Detective",
+    "rating": 9,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Nic Pizzolatto"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Vince Vaughn",
+      "Colin Farrell",
+      "Rachel McAdams"
+    ],
+    "story_line": "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+    "production_company": "Anonymous Content"
+  },
+  {
+    "title": "Fargo",
+    "rating": 9,
+    "runtime": "53min",
+    "runtime_mins": 53,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Billy Bob Thornton",
+      "Martin Freeman",
+      "Allison Tolman"
+    ],
+    "story_line": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+    "production_company": "MGM Television"
+  },
+  {
+    "title": "Batman: The Animated Series",
+    "rating": 8.9,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1992-01-01",
+      "end_year": "1995-01-01"
+    },
+    "creators": [
+      "Bob Kane",
+      "Eric Radomski",
+      "Bruce Timm"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kevin Conroy",
+      "Loren Lester",
+      "Efrem Zimbalist Jr."
+    ],
+    "story_line": "The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl.",
+    "production_company": "Warner Bros. Animation"
+  },
+  {
+    "title": "Death Note: Desu nôto",
+    "rating": 9,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2006-01-01",
+      "end_year": "2007-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mamoru Miyano",
+      "Brad Swaile",
+      "Vincent Tong"
+    ],
+    "story_line": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+    "production_company": "D.N. Dream Partners"
+  },
+  {
+    "title": "Last Week Tonight with John Oliver",
+    "rating": 8.9,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "News",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "John Oliver",
+      "David Kaye",
+      "Ryan Barger"
+    ],
+    "story_line": "Former Daily Show host and correspondent John Oliver brings his persona to this new weekly news satire program.",
+    "production_company": "Sixteen String Jack Productions"
+  },
+  {
+    "title": "The Blue Planet",
+    "rating": 8.9,
+    "runtime": "6h 29min",
+    "runtime_mins": 389,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2001-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Attenborough",
+      "Pierce Brosnan",
+      "Jason Roberts"
+    ],
+    "story_line": "Mammoth series, five years in the making, taking a look at the rich tapestry of life in the world's oceans.",
+    "production_company": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)"
+  },
+  {
+    "title": "Kaubôi bibappu",
+    "rating": 8.9,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1998-01-01",
+      "end_year": "1999-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kôichi Yamadera",
+      "Unshô Ishizuka",
+      "Megumi Hayashibara"
+    ],
+    "story_line": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
+    "production_company": "Bandai Visual Company"
+  },
+  {
+    "title": "Black Mirror",
+    "rating": 8.9,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Charlie Brooker"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Daniel Lapaine",
+      "Hannah John-Kamen",
+      "Michaela Coel"
+    ],
+    "story_line": "An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide.",
+    "production_company": "Zeppotron"
+  },
+  {
+    "title": "Frozen Planet",
+    "rating": 8.9,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2011-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Attenborough",
+      "Alec Baldwin",
+      "Chadden Hunter"
+    ],
+    "story_line": "Focuses on life and the environment in both the Arctic and Antarctic.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "One Punch Man: Wanpanman",
+    "rating": 8.9,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Makoto Furukawa",
+      "Kaito Ishikawa",
+      "Hiromichi Tezuka"
+    ],
+    "story_line": "The story of Saitama, a hero that does it just for fun & can defeat his enemies with a single punch.",
+    "production_company": "Asatsu"
+  },
+  {
+    "title": "Monty Python's Flying Circus",
+    "rating": 8.8,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1969-01-01",
+      "end_year": "1974-01-01"
+    },
+    "creators": [
+      "Graham Chapman",
+      "Eric Idle",
+      "Terry Jones"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Graham Chapman",
+      "John Cleese",
+      "Terry Gilliam"
+    ],
+    "story_line": "The original surreal sketch comedy showcase for the Monty Python troupe.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Friends",
+    "rating": 8.9,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "release_date": {
+      "start_year": "1994-01-01",
+      "end_year": "2004-01-01"
+    },
+    "creators": [
+      "David Crane",
+      "Marta Kauffman"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow"
+    ],
+    "story_line": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "production_company": "Warner Bros. Television"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "rating": 8.9,
+    "runtime": "5h 27min",
+    "runtime_mins": 327,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1995-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Colin Firth",
+      "Jennifer Ehle",
+      "Susannah Harker"
+    ],
+    "story_line": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Africa",
+    "rating": 8.9,
+    "runtime": "6h",
+    "runtime_mins": 360,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "release_date": "2013-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Attenborough",
+      "Simon Blakeney",
+      "James Aldred"
+    ],
+    "story_line": "Africa, the world's wildest continent. David Attenborough takes us on an awe-inspiring journey through one of the most diverse places in the world. We visit deserts, savannas, and jungles and meet up with some of Africa's amazing wildlife.",
+    "production_company": "BBC Bristol"
+  },
+  {
+    "title": "Only Fools and Horses....",
+    "rating": 8.9,
+    "runtime": "1h 35min",
+    "runtime_mins": 95,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1981-01-01",
+      "end_year": "2003-01-01"
+    },
+    "creators": [
+      "John Sullivan"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Jason",
+      "Nicholas Lyndhurst",
+      "Roger Lloyd Pack"
+    ],
+    "story_line": "Comedy that follows two brothers from London's rough Peckham estate as they wheel and deal through a number of dodgy deals as they search for the big score that'll make them millionaires.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Das Boot",
+    "rating": 8.9,
+    "runtime": "4h 53min",
+    "runtime_mins": 293,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jürgen Prochnow",
+      "Herbert Grönemeyer",
+      "Klaus Wennemann"
+    ],
+    "story_line": "A World War II German U-Boat crew have a terrifying patrol mission in the early days of the war.",
+    "production_company": "Bavaria Film"
+  },
+  {
+    "title": "Seinfeld",
+    "rating": 8.8,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1989-01-01",
+      "end_year": "1998-01-01"
+    },
+    "creators": [
+      "Larry David",
+      "Jerry Seinfeld"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jerry Seinfeld",
+      "Julia Louis-Dreyfus",
+      "Michael Richards"
+    ],
+    "story_line": "The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.",
+    "production_company": "West-Shapiro"
+  },
+  {
+    "title": "Apocalypse: La 2ème guerre mondiale",
+    "rating": 8.9,
+    "runtime": "5h 12min",
+    "runtime_mins": 312,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "2009-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mathieu Kassovitz",
+      "Martin Sheen"
+    ],
+    "story_line": "Apocalypse: The Second World War(2009) is a six-part French documentary about the Second World War. The documentary is composed exclusively of actual footage of the war as filmed by war ...\n                    See full summary »",
+    "production_company": "CC&C Clarke Costelle & Cie"
+  },
+  {
+    "title": "Stranger Things",
+    "rating": 8.9,
+    "runtime": "51min",
+    "runtime_mins": 51,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Matt Duffer",
+      "Ross Duffer"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Millie Bobby Brown",
+      "Finn Wolfhard",
+      "Winona Ryder"
+    ],
+    "story_line": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
+    "production_company": "21 Laps Entertainment"
+  },
+  {
+    "title": "Gravity Falls",
+    "rating": 8.9,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": "2016-01-01"
+    },
+    "creators": [
+      "Alex Hirsch"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jason Ritter",
+      "Alex Hirsch",
+      "Kristen Schaal"
+    ],
+    "story_line": "Twin siblings Dipper and Mabel Pines spend the summer at their uncle's tourist trap in the enigmatic town of Gravity Falls.",
+    "production_company": "Disney Television Animation"
+  },
+  {
+    "title": "Twin Peaks",
+    "rating": 8.8,
+    "runtime": "47min",
+    "runtime_mins": 47,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1990-01-01",
+      "end_year": "1991-01-01"
+    },
+    "creators": [
+      "Mark Frost",
+      "David Lynch"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kyle MacLachlan",
+      "Michael Ontkean",
+      "Mädchen Amick"
+    ],
+    "story_line": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+    "production_company": "Lynch/Frost Productions"
+  },
+  {
+    "title": "Arrested Development",
+    "rating": 8.8,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2003-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Mitchell Hurwitz"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jason Bateman",
+      "Michael Cera",
+      "Portia de Rossi"
+    ],
+    "story_line": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.",
+    "production_company": "Imagine Entertainment"
+  },
+  {
+    "title": "Achter de Tuinmuur",
+    "rating": 8.8,
+    "runtime": "1h 50min",
+    "runtime_mins": 110,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2014-01-01"
+    },
+    "creators": [
+      "Katie Krentz",
+      "Patrick McHale"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Elijah Wood",
+      "Collin Dean",
+      "Melanie Lynskey"
+    ],
+    "story_line": "Two brothers find themselves lost in a mysterious land and try to find their way home.",
+    "production_company": "Cartoon Network Studios"
+  },
+  {
+    "title": "The Office",
+    "rating": 8.8,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2005-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [
+      "Greg Daniels",
+      "Ricky Gervais",
+      "Stephen Merchant"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Steve Carell",
+      "Jenna Fischer",
+      "John Krasinski"
+    ],
+    "story_line": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "production_company": "Reveille Productions"
+  },
+  {
+    "title": "Freaks and Geeks",
+    "rating": 8.8,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "1999-01-01",
+      "end_year": "2000-01-01"
+    },
+    "creators": [
+      "Paul Feig"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Linda Cardellini",
+      "John Francis Daley",
+      "James Franco"
+    ],
+    "story_line": "A high school mathlete starts hanging out with a group of burnouts while her younger brother navigates his freshman year.",
+    "production_company": "Apatow Productions"
+  },
+  {
+    "title": "Narcos",
+    "rating": 8.8,
+    "runtime": "49min",
+    "runtime_mins": 49,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": "2017-01-01"
+    },
+    "creators": [
+      "Carlo Bernard",
+      "Chris Brancato",
+      "Doug Miro",
+      "1 more credit"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Pedro Pascal",
+      "Wagner Moura",
+      "Boyd Holbrook"
+    ],
+    "story_line": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+    "production_company": "Dynamo"
+  },
+  {
+    "title": "TVF Pitchers",
+    "rating": 9.2,
+    "runtime": "40min",
+    "runtime_mins": 40,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2015-01-01"
+    },
+    "creators": [
+      "Arunabh Kumar"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Naveen Kasturia",
+      "Arunabh Kumar",
+      "Jitendra Kumar"
+    ],
+    "story_line": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.",
+    "production_company": "Contagious Online Media Network"
+  },
+  {
+    "title": "I, Claudius",
+    "rating": 8.8,
+    "runtime": "11h 9min",
+    "runtime_mins": 669,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1976-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Derek Jacobi",
+      "John Hurt",
+      "Siân Phillips"
+    ],
+    "story_line": "The history of the Roman Empire as experienced by one of its rulers.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Fawlty Towers",
+    "rating": 8.8,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1975-01-01",
+      "end_year": "1979-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "John Cleese",
+      "Prunella Scales",
+      "Andrew Sachs"
+    ],
+    "story_line": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "House of Cards",
+    "rating": 8.8,
+    "runtime": "51min",
+    "runtime_mins": 51,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": "2018-01-01"
+    },
+    "creators": [
+      "Beau Willimon"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kevin Spacey",
+      "Michel Gill",
+      "Robin Wright"
+    ],
+    "story_line": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+    "production_company": "Media Rights Capital (MRC)"
+  },
+  {
+    "title": "Peaky Blinders",
+    "rating": 8.8,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Steven Knight"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Cillian Murphy",
+      "Helen McCrory",
+      "Paul Anderson"
+    ],
+    "story_line": "A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+    "production_company": "Caryn Mandabach Productions"
+  },
+  {
+    "title": "Blackadder Goes Forth",
+    "rating": 8.8,
+    "runtime": "2h 55min",
+    "runtime_mins": 175,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Rowan Atkinson",
+      "Tony Robinson",
+      "Stephen Fry"
+    ],
+    "story_line": "Stuck in the middle of World War I, Captain Edmund Blackadder does his best to escape the banality of the war.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Westworld",
+    "rating": 8.8,
+    "runtime": "1h 2min",
+    "runtime_mins": 62,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Evan Rachel Wood",
+      "Jeffrey Wright",
+      "Ed Harris"
+    ],
+    "story_line": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+    "production_company": "Bad Robot"
+  },
+  {
+    "title": "Cobra Kai",
+    "rating": 8.8,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2018-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ralph Macchio",
+      "William Zabka",
+      "Courtney Henggeler"
+    ],
+    "story_line": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
+    "production_company": "Hurwitz & Schlossberg Productions"
+  },
+  {
+    "title": "Rome",
+    "rating": 8.8,
+    "runtime": "1h 30min",
+    "runtime_mins": 90,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "start_year": "2005-01-01",
+      "end_year": "2007-01-01"
+    },
+    "creators": [
+      "Bruno Heller",
+      "William J. MacDonald",
+      "John Milius"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kevin McKidd",
+      "Ray Stevenson",
+      "Polly Walker"
+    ],
+    "story_line": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
+    "production_company": "HD Vision Studios"
+  },
+  {
+    "title": "Shingeki no kyojin",
+    "rating": 8.8,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Marina Inoue",
+      "Yûki Kaji",
+      "Yui Ishikawa"
+    ],
+    "story_line": "After his hometown is destroyed and his mother is killed, young Eren Yeager vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+    "production_company": "Wit Studio"
+  },
+  {
+    "title": "It's Always Sunny in Philadelphia",
+    "rating": 8.7,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2005-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Glenn Howerton",
+      "Rob McElhenney"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Charlie Day",
+      "Glenn Howerton",
+      "Rob McElhenney"
+    ],
+    "story_line": "Five friends with big egos and slightly arrogant attitudes are the proprietors of an Irish pub in Philadelphia.",
+    "production_company": "Bluebush Productions"
+  },
+  {
+    "title": "Oz",
+    "rating": 8.7,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "1997-01-01",
+      "end_year": "2003-01-01"
+    },
+    "creators": [
+      "Tom Fontana"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ernie Hudson",
+      "J.K. Simmons",
+      "Lee Tergesen"
+    ],
+    "story_line": "A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.",
+    "production_company": "Rysher Entertainment"
+  },
+  {
+    "title": "Senke nad Balkanom",
+    "rating": 9.2,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dragan Bjelogrlic",
+      "Andrija Kuzmanovic",
+      "Marija Bergam"
+    ],
+    "story_line": "A historical fiction drama and thriller set in the turbulent period of the late 1920s in the Balkans as a place where high politics, local interests, capital and crime all merge together.",
+    "production_company": "Cobra Film Department"
+  },
+  {
+    "title": "The Simpsons",
+    "rating": 8.7,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1989-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "James L. Brooks",
+      "Matt Groening",
+      "Sam Simon"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dan Castellaneta",
+      "Nancy Cartwright",
+      "Harry Shearer"
+    ],
+    "story_line": "The satiric adventures of a working-class family in the misfit city of Springfield.",
+    "production_company": "Gracie Films"
+  },
+  {
+    "title": "Sahsiyet",
+    "rating": 8.9,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "2018-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Haluk Bilginer",
+      "Cansu Dere",
+      "Metin Akdülger"
+    ],
+    "story_line": "A man with diagnosis of Alzheimer's, decides to punish the criminals.",
+    "production_company": "Ay Yapim"
+  },
+  {
+    "title": "Justice League Unlimited",
+    "rating": 8.8,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": "2006-01-01"
+    },
+    "creators": [
+      "Jack Kirby"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "George Newbern",
+      "Kevin Conroy",
+      "Phil LaMarr"
+    ],
+    "story_line": "A continuation of the Justice League animated series finds the original members of the team joined in their battle against crime and evil by dozens of other heroes from the DC comics universe.",
+    "production_company": "DC Comics"
+  },
+  {
+    "title": "Satyamev Jayate",
+    "rating": 8.9,
+    "runtime": "1h 5min",
+    "runtime_mins": 65,
+    "genres": [
+      "Documentary",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Aamir Khan",
+      "Devendra Singh Gaur",
+      "Sridevi"
+    ],
+    "story_line": "Aamir Khan hosts and produces this documentary/talk-show that explores the social issues effecting modern India.",
+    "production_company": "Aamir Khan Productions"
+  },
+  {
+    "title": "Curb Your Enthusiasm",
+    "rating": 8.7,
+    "runtime": "28min",
+    "runtime_mins": 28,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2000-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Larry David"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Larry David",
+      "Cheryl Hines",
+      "Jeff Garlin"
+    ],
+    "story_line": "The life and times of Larry David and the predicaments he gets himself into with his friends and complete strangers.",
+    "production_company": "Production Partners"
+  },
+  {
+    "title": "South Park",
+    "rating": 8.7,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1997-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Trey Parker",
+      "Matt Stone",
+      "Brian Graden"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Trey Parker",
+      "Matt Stone",
+      "Isaac Hayes"
+    ],
+    "story_line": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "production_company": "Comedy Central"
+  },
+  {
+    "title": "The West Wing",
+    "rating": 8.7,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "1999-01-01",
+      "end_year": "2006-01-01"
+    },
+    "creators": [
+      "Aaron Sorkin"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Martin Sheen",
+      "Rob Lowe",
+      "Allison Janney"
+    ],
+    "story_line": "Inside the lives of staffers in the West Wing of the White House.",
+    "production_company": "John Wells Productions"
+  },
+  {
+    "title": "House M.D.",
+    "rating": 8.7,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": "2012-01-01"
+    },
+    "creators": [
+      "David Shore"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Hugh Laurie",
+      "Omar Epps",
+      "Robert Sean Leonard"
+    ],
+    "story_line": "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.",
+    "production_company": "Heel & Toe Films"
+  },
+  {
+    "title": "Chappelle's Show",
+    "rating": 8.7,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "release_date": {
+      "start_year": "2003-01-01",
+      "end_year": "2006-01-01"
+    },
+    "creators": [
+      "Neal Brennan",
+      "Dave Chappelle"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dave Chappelle",
+      "Donnell Rawlings",
+      "Rudy Rush"
+    ],
+    "story_line": "Comedian Dave Chappelle hosts this sketch-comedy show that parodies many of the nuances of race and culture.",
+    "production_company": "Comedy Central"
+  },
+  {
+    "title": "Nathan for You",
+    "rating": 8.7,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Documentary",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": "2017-01-01"
+    },
+    "creators": [
+      "Nathan Fielder",
+      "Michael Koman"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Nathan Fielder",
+      "Anthony Filosa",
+      "William Heath"
+    ],
+    "story_line": "Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit. But because of his unorthodox approach, Nathan's genuine efforts to do good often draw real people into an experience far beyond what they signed up for.",
+    "production_company": "Abso Lutely Productions"
+  },
+  {
+    "title": "The Marvelous Mrs. Maisel",
+    "rating": 8.7,
+    "runtime": "57min",
+    "runtime_mins": 57,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Amy Sherman-Palladino"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Rachel Brosnahan",
+      "Alex Borstein",
+      "Tony Shalhoub"
+    ],
+    "story_line": "A housewife in the 1950s decides to become a stand-up comic.",
+    "production_company": "Amazon Studios"
+  },
+  {
+    "title": "Dragon Ball Z",
+    "rating": 8.7,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1996-01-01",
+      "end_year": "2003-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Doc Harris",
+      "Christopher Sabat",
+      "Scott McNeil"
+    ],
+    "story_line": "After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.",
+    "production_company": "Ocean Group"
+  },
+  {
+    "title": "Deadwood",
+    "rating": 8.7,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": "2006-01-01"
+    },
+    "creators": [
+      "David Milch"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Timothy Olyphant",
+      "Ian McShane",
+      "Molly Parker"
+    ],
+    "story_line": "A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota; a town of deep corruption and crime.",
+    "production_company": "CBS Paramount Network Television"
+  },
+  {
+    "title": "Dragon Ball Z: Doragon bôru zetto",
+    "rating": 8.7,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1989-01-01",
+      "end_year": "1996-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jôji Yanami",
+      "Kyle Hebert",
+      "Masako Nozawa"
+    ],
+    "story_line": "The adventures of Earth's martial arts defender Son Goku continue with a new family and the revelation of his alien origin. Now Goku and his allies must defend the planet from an onslaught of new extraterrestrial enemies.",
+    "production_company": "Toei Animation"
+  },
+  {
+    "title": "Steins;Gate",
+    "rating": 8.7,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mamoru Miyano",
+      "Asami Imai",
+      "Kana Hanazawa"
+    ],
+    "story_line": "After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.",
+    "production_company": "Frontier Works"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1984-01-01",
+      "end_year": "1985-01-01"
+    },
+    "creators": [
+      "John Hawkesworth"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jeremy Brett",
+      "David Burke",
+      "Rosalie Williams"
+    ],
+    "story_line": "Sherlock Holmes and Dr Watson solve the mysteries of copper beeches, a Greek interpreter, the Norwood builder, a resident patient, the red-headed league, and one final problem.",
+    "production_company": "Granada Television"
+  },
+  {
+    "title": "Lonesome Dove",
+    "rating": 8.7,
+    "runtime": "6h 24min",
+    "runtime_mins": 384,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "release_date": {
+      "release_date": "1989-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Robert Duvall",
+      "Tommy Lee Jones",
+      "Danny Glover"
+    ],
+    "story_line": "Two former Texas Rangers renew their spirit of adventure as they and several other residents of a small Texas town join a cattle drive to the Montana Territory.",
+    "production_company": "Motown Productions"
+  },
+  {
+    "title": "The Jinx: The Life and Deaths of Robert Durst",
+    "rating": 8.7,
+    "runtime": "4h 39min",
+    "runtime_mins": 279,
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": "2015-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Robert Durst",
+      "Andrew Jarecki",
+      "Gary Napoli"
+    ],
+    "story_line": "Filmmaker Andrew Jarecki examines the complicated life of reclusive real estate icon Robert Durst, the key suspect in a series of unsolved crimes.",
+    "production_company": "HBO Documentary Films"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "rating": 8.7,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2018-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Mike Flanagan"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Victoria Pedretti",
+      "Michiel Huisman",
+      "Carla Gugino"
+    ],
+    "story_line": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+    "production_company": "Amblin Television"
+  },
+  {
+    "title": "Battlestar Galactica",
+    "rating": 8.7,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": "2009-01-01"
+    },
+    "creators": [
+      "Glen A. Larson",
+      "Ronald D. Moore"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Edward James Olmos",
+      "Mary McDonnell",
+      "Jamie Bamber"
+    ],
+    "story_line": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
+    "production_company": "British Sky Broadcasting (BSkyB)"
+  },
+  {
+    "title": "Better Call Saul",
+    "rating": 8.7,
+    "runtime": "46min",
+    "runtime_mins": 46,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Vince Gilligan",
+      "Peter Gould"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Bob Odenkirk",
+      "Rhea Seehorn",
+      "Jonathan Banks"
+    ],
+    "story_line": "The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.",
+    "production_company": "High Bridge Productions"
+  },
+  {
+    "title": "The Thick of It",
+    "rating": 8.7,
+    "runtime": "29min",
+    "runtime_mins": 29,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2005-01-01",
+      "end_year": "2012-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Chris Addison",
+      "James Smith",
+      "Peter Capaldi"
+    ],
+    "story_line": "Set in the corridors of power and spin, the Minister for Social Affairs, is continually harassed by Number 10's policy enforcer and dependent on his not-so-reliable team of civil servants.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Six Feet Under",
+    "rating": 8.7,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2001-01-01",
+      "end_year": "2005-01-01"
+    },
+    "creators": [
+      "Alan Ball"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Peter Krause",
+      "Michael C. Hall",
+      "Frances Conroy"
+    ],
+    "story_line": "A chronicle of the lives of a dysfunctional family who run an independent funeral home in Los Angeles.",
+    "production_company": "Home Box Office (HBO)"
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1986-01-01",
+      "end_year": "1988-01-01"
+    },
+    "creators": [
+      "John Hawkesworth"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jeremy Brett",
+      "Edward Hardwicke",
+      "Rosalie Williams"
+    ],
+    "story_line": "Sherlock Holmes and Dr Watson solve the mysteries of the devil's foot, Silver Blaze, Wisteria Lodge and the Bruce-Partington Plans.",
+    "production_company": "Granada Television"
+  },
+  {
+    "title": "The Crown",
+    "rating": 8.7,
+    "runtime": "58min",
+    "runtime_mins": 58,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Peter Morgan"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Claire Foy",
+      "Matt Smith",
+      "Olivia Colman"
+    ],
+    "story_line": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+    "production_company": "Left Bank Pictures"
+  },
+  {
+    "title": "The Memoirs of Sherlock Holmes",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "1994-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jeremy Brett",
+      "Rosalie Williams",
+      "Edward Hardwicke"
+    ],
+    "story_line": "Holmes, his friend Watson (or his brother Mycroft) work to solve the mysteries of The Three Gables, The Dying Detective, The Golden Pince-Nez, The Red Circle, The Mazarin Stone, and The ...\n                    See full summary »",
+    "production_company": "Granada Television"
+  },
+  {
+    "title": "The X Files",
+    "rating": 8.7,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1993-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Chris Carter"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Duchovny",
+      "Gillian Anderson",
+      "Mitch Pileggi"
+    ],
+    "story_line": "Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.",
+    "production_company": "Ten Thirteen Productions"
+  },
+  {
+    "title": "The Shield",
+    "rating": 8.7,
+    "runtime": "47min",
+    "runtime_mins": 47,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2002-01-01",
+      "end_year": "2008-01-01"
+    },
+    "creators": [
+      "Shawn Ryan"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Michael Chiklis",
+      "Catherine Dent",
+      "Walton Goggins"
+    ],
+    "story_line": "Follows the lives and cases of a dirty Los Angeles Police Department cop and the unit under his command.",
+    "production_company": "Fox Television Network"
+  },
+  {
+    "title": "Top Gear",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Comedy",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "2002-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jeremy Clarkson",
+      "Richard Hammond",
+      "James May"
+    ],
+    "story_line": "The hosts talk about everything car-related. From new cars to how they're fueled, this show has it all.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Downton Abbey",
+    "rating": 8.7,
+    "runtime": "58min",
+    "runtime_mins": 58,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Julian Fellowes"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Hugh Bonneville",
+      "Phyllis Logan",
+      "Elizabeth McGovern"
+    ],
+    "story_line": "A chronicle of the lives of the British aristocratic Crawley family and their servants in the early 20th Century.",
+    "production_company": "Carnival Film & Television"
+  },
+  {
+    "title": "Monster",
+    "rating": 8.7,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": "2010-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Hidenobu Kiuchi",
+      "Liam O'Brien",
+      "Mamiko Noto"
+    ],
+    "story_line": "A brilliant neurosurgeon living in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.",
+    "production_company": "Madhouse"
+  },
+  {
+    "title": "Dexter",
+    "rating": 8.7,
+    "runtime": "53min",
+    "runtime_mins": 53,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2006-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [
+      "James Manos Jr."
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Michael C. Hall",
+      "Jennifer Carpenter",
+      "David Zayas"
+    ],
+    "story_line": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+    "production_company": "Showtime Networks"
+  },
+  {
+    "title": "Blackadder II",
+    "rating": 8.6,
+    "runtime": "2h 56min",
+    "runtime_mins": 176,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Rowan Atkinson",
+      "Tony Robinson",
+      "Tim McInnerny"
+    ],
+    "story_line": "In the Tudor court of Elizabeth I, Lord Edmund Blackadder strives to win Her Majesty's favour while attempting to avoid a grisly fate should he offend her.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Young Justice",
+    "rating": 8.7,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Geoff Johns",
+      "Tony S. Daniel",
+      "Marv Wolfman"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jesse McCartney",
+      "Nolan North",
+      "Danica McKellar"
+    ],
+    "story_line": "Teenage superheroes strive to prove themselves as members of the Justice League.",
+    "production_company": "DC Comics"
+  },
+  {
+    "title": "Archer",
+    "rating": 8.7,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2009-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Adam Reed"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "H. Jon Benjamin",
+      "Judy Greer",
+      "Amber Nash"
+    ],
+    "story_line": "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones.",
+    "production_company": "Floyd County Productions"
+  },
+  {
+    "title": "Love, Death & Robots",
+    "rating": 8.7,
+    "runtime": "15min",
+    "runtime_mins": 15,
+    "genres": [
+      "Animation",
+      "Short",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2019-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Tim Miller"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Scott Whyte",
+      "Nolan North",
+      "Matthew Yang King"
+    ],
+    "story_line": "A collection of animated short stories that span various genres including science fiction, fantasy, horror and comedy.",
+    "production_company": "Blur Studio"
+  },
+  {
+    "title": "From the Earth to the Moon",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1998-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Tom Hanks",
+      "Nick Searcy",
+      "Lane Smith"
+    ],
+    "story_line": "Dramatized portrayal of the Apollo manned space program.",
+    "production_company": "Clavius Base"
+  },
+  {
+    "title": "The Grand Tour",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Comedy",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jeremy Clarkson",
+      "James May",
+      "Richard Hammond"
+    ],
+    "story_line": "Follow Jeremy, Richard, and James, as they embark on an adventure across the globe, driving new and exciting automobiles from manufacturers all over the world.",
+    "production_company": "W. Chump & sons"
+  },
+  {
+    "title": "Bron/Broen",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": "2018-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Sofia Helin",
+      "Rafael Pettersson",
+      "Sarah Boberg"
+    ],
+    "story_line": "When a body is found on the bridge between Denmark and Sweden, right on the border, Danish inspector Martin Rohde and Swedish Saga Norén have to share jurisdiction and work together to find the killer.",
+    "production_company": "Filmlance International AB"
+  },
+  {
+    "title": "Star Trek: The Next Generation",
+    "rating": 8.6,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1987-01-01",
+      "end_year": "1994-01-01"
+    },
+    "creators": [
+      "Gene Roddenberry"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Patrick Stewart",
+      "Brent Spiner",
+      "Jonathan Frakes"
+    ],
+    "story_line": "Set almost 100 years after Captain Kirk's five-year mission, a new generation of Starfleet officers set off in the U.S.S. Enterprise-D on their own mission to go where no one has gone before.",
+    "production_company": "Paramount Television"
+  },
+  {
+    "title": "Daredevil",
+    "rating": 8.7,
+    "runtime": "54min",
+    "runtime_mins": 54,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": "2018-01-01"
+    },
+    "creators": [
+      "Drew Goddard"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Charlie Cox",
+      "Vincent D'Onofrio",
+      "Deborah Ann Woll"
+    ],
+    "story_line": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+    "production_company": "ABC Studios"
+  },
+  {
+    "title": "Dark",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Baran bo Odar",
+      "Jantje Friese"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Karoline Eichhorn",
+      "Tamar Pelzig",
+      "Louis Hofmann"
+    ],
+    "story_line": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+    "production_company": "Netflix"
+  },
+  {
+    "title": "This Is Us",
+    "rating": 8.7,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Dan Fogelman"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Milo Ventimiglia",
+      "Mandy Moore",
+      "Sterling K. Brown"
+    ],
+    "story_line": "A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",
+    "production_company": "Rhode Island Ave. Productions"
+  },
+  {
+    "title": "Parks and Recreation",
+    "rating": 8.6,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2009-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Greg Daniels",
+      "Michael Schur"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Amy Poehler",
+      "Jim O'Heir",
+      "Nick Offerman"
+    ],
+    "story_line": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
+    "production_company": "Deedle-Dee Productions"
+  },
+  {
+    "title": "Hunter x Hunter",
+    "rating": 8.7,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": "2014-01-01"
+    },
+    "creators": [
+      "Yoshihiro Togashi"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Megumi Han",
+      "Mariya Ise",
+      "Issei Futamata"
+    ],
+    "story_line": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends and his potential, he seeks for his father who left him when he was younger.",
+    "production_company": "Madhouse"
+  },
+  {
+    "title": "Making a Murderer",
+    "rating": 8.6,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dolores Avery",
+      "Steven Avery",
+      "Ken Kratz"
+    ],
+    "story_line": "Filmed over a 10-year period, Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime.",
+    "production_company": "Synthesis Films"
+  },
+  {
+    "title": "Battlestar Galactica",
+    "rating": 8.6,
+    "runtime": "3h 3min",
+    "runtime_mins": 183,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2003-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Edward James Olmos",
+      "Mary McDonnell",
+      "Katee Sackhoff"
+    ],
+    "story_line": "Following the destruction of the Twelve Colonies of Kobol by the Cylons, a rag-tag fugitive fleet of the last remnants of mankind flees the pursuing Cylons while simultaneously searching for their true home: Earth.",
+    "production_company": "R&D TV"
+  },
+  {
+    "title": "Blackadder the Third",
+    "rating": 8.6,
+    "runtime": "3h",
+    "runtime_mins": 180,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Rowan Atkinson",
+      "Tony Robinson",
+      "Hugh Laurie"
+    ],
+    "story_line": "In the Regency era, Mr E. Blackadder serves as butler to the foppish numskull Prince George amidst the fads and crazes of the time.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Atlanta",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Donald Glover"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Donald Glover",
+      "Brian Tyree Henry",
+      "LaKeith Stanfield"
+    ],
+    "story_line": "Based in Atlanta, Earn and his cousin Alfred try to make their way in the world through the rap scene. Along the way they come face to face with social and economic issues touching on race, relationships, poverty, status, and parenthood.",
+    "production_company": "FX Productions"
+  },
+  {
+    "title": "North & South",
+    "rating": 8.7,
+    "runtime": "3h 55min",
+    "runtime_mins": 235,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "2004-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Daniela Denby-Ashe",
+      "Richard Armitage",
+      "Tim Pigott-Smith"
+    ],
+    "story_line": "North and South is a four part adaptation of Elizabeth Gaskell's love story of Margaret Hale, a middle class southerner who is forced to move to the northern town of Milton.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Sacred Games",
+    "rating": 8.9,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2018-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Saif Ali Khan",
+      "Nawazuddin Siddiqui",
+      "Radhika Apte"
+    ],
+    "story_line": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+    "production_company": "Netflix"
+  },
+  {
+    "title": "Mahabharat",
+    "rating": 8.8,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "release_date": {
+      "start_year": "1988-01-01",
+      "end_year": "1990-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Harish Bhimani",
+      "Mukesh Khanna",
+      "Nitish Bharadwaj"
+    ],
+    "story_line": "The epic story of the family feud between the noble Pandava princes and their scheming cousins, the Kaurava kings.",
+    "production_company": "B.R. Films"
+  },
+  {
+    "title": "Kôdo giasu: Hangyaku no rurûshu",
+    "rating": 8.6,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2006-01-01",
+      "end_year": "2012-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Johnny Yong Bosch",
+      "Yuri Lowenthal",
+      "Jun Fukuyama"
+    ],
+    "story_line": "After being given a mysterious power to control others, an outcast prince becomes the masked leader of the rebellion against an all powerful empire",
+    "production_company": "Bandai Namco Games"
+  },
+  {
+    "title": "Gomorra: La serie",
+    "rating": 8.7,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Leonardo Fasoli",
+      "Stefano Bises",
+      "Roberto Saviano"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Salvatore Esposito",
+      "Marco D'Amore",
+      "Fortunato Cerlino"
+    ],
+    "story_line": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+    "production_company": "Cattleya"
+  },
+  {
+    "title": "Mad Men",
+    "rating": 8.6,
+    "runtime": "47min",
+    "runtime_mins": 47,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2007-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Matthew Weiner"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jon Hamm",
+      "Elisabeth Moss",
+      "Vincent Kartheiser"
+    ],
+    "story_line": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "production_company": "Lionsgate Television"
+  },
+  {
+    "title": "Hagane no renkinjutsushi",
+    "rating": 8.6,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2003-01-01",
+      "end_year": "2004-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Vic Mignogna",
+      "Aaron Dismuke",
+      "Romi Pak"
+    ],
+    "story_line": "When a failed alchemical ritual leaves brothers Edward and Alphonse Elric with severely damaged bodies, they begin searching for the one thing that can save them; the fabled philosopher's stone.",
+    "production_company": "Aniplex"
+  },
+  {
+    "title": "Spaced",
+    "rating": 8.6,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1999-01-01",
+      "end_year": "2001-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jessica Hynes",
+      "Simon Pegg",
+      "Julia Deakin"
+    ],
+    "story_line": "Friends Tim and Daisy, 20-something North Londoners with uncertain futures, must pretend to be a couple to live in the only apartment they can afford.",
+    "production_company": "Paramount Comedy Channel"
+  },
+  {
+    "title": "Long Way Round",
+    "rating": 8.7,
+    "runtime": "5h 15min",
+    "runtime_mins": 315,
+    "genres": [
+      "Documentary",
+      "Adventure"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [
+      "David Alexanian",
+      "Charley Boorman",
+      "Russ Malkin",
+      "1 more credit"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ewan McGregor",
+      "Charley Boorman",
+      "David Alexanian"
+    ],
+    "story_line": "This documentary series follows actors Ewan McGregor and Charley Boorman on a motorcycle trip around the world. The two friends will travel through such places as Siberia, Kazakhstan, ...\n                    See full summary »",
+    "production_company": "Elixir Films"
+  },
+  {
+    "title": "The Bugs Bunny Show",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1960-01-01",
+      "end_year": "1975-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mel Blanc",
+      "June Foray",
+      "Jim Backus"
+    ],
+    "story_line": "Bugs Bunny, the famous, Oscar-winning cartoon rabbit, hosts his first weekly television series, along with all his fellow Warner Brothers cartoon stars, including Daffy Duck, Porky Pig, ...\n                    See full summary »",
+    "production_company": "American Broadcasting Company (ABC)"
+  },
+  {
+    "title": "Through the Wormhole",
+    "rating": 8.6,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2017-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Morgan Freeman",
+      "Sean Carroll",
+      "Michio Kaku"
+    ],
+    "story_line": "Hosted by Morgan Freeman, Through the Wormhole will explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity. What are we made of? What was there ...\n                    See full summary »",
+    "production_company": "Discovery Science Channel"
+  },
+  {
+    "title": "Shameless",
+    "rating": 8.7,
+    "runtime": "46min",
+    "runtime_mins": 46,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Paul Abbott",
+      "John Wells"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Emmy Rossum",
+      "William H. Macy",
+      "Ethan Cutkosky"
+    ],
+    "story_line": "A scrappy, fiercely loyal Chicago family makes no apologies.",
+    "production_company": "Bonanza Productions"
+  },
+  {
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen",
+    "rating": 8.6,
+    "runtime": "1h 58min",
+    "runtime_mins": 118,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mayo Suzukaze",
+      "Junko Iwao",
+      "Nozomu Sasaki"
+    ],
+    "story_line": "In the era of Japan's Meiji Restoration, an assassin regains his humanity.",
+    "production_company": "Studio DEEN"
+  },
+  {
+    "title": "Friday Night Lights",
+    "rating": 8.7,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "release_date": {
+      "start_year": "2006-01-01",
+      "end_year": "2011-01-01"
+    },
+    "creators": [
+      "Peter Berg"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kyle Chandler",
+      "Connie Britton",
+      "Zach Gilford"
+    ],
+    "story_line": "In the small town of Dillon, Texas, one night matters: Friday Night. Eric Taylor has recently been hired as the head football coach for the Dillon High School Panthers, the town's pride and...\n                    See full summary »",
+    "production_company": "Imagine Television"
+  },
+  {
+    "title": "QI",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Game-Show"
+    ],
+    "release_date": {
+      "start_year": "2003-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Alan Davies",
+      "Stephen Fry",
+      "Sandi Toksvig"
+    ],
+    "story_line": "A comedy panel game in which being Quite Interesting is more important than being right. Sandi Toksvig is joined each week by four comedians to share anecdotes and trivia, and maybe answer some questions as well.",
+    "production_company": "Talkback Thames"
+  },
+  {
+    "title": "Doctor Who",
+    "rating": 8.7,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "start_year": "2005-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Sydney Newman"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jodie Whittaker",
+      "Peter Capaldi",
+      "Pearl Mackie"
+    ],
+    "story_line": "The further adventures in time and space of the alien adventurer known as the Doctor and their companions from planet Earth.",
+    "production_company": "BBC Wales"
+  },
+  {
+    "title": "Peep Show",
+    "rating": 8.6,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2003-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Jesse Armstrong",
+      "Sam Bain",
+      "Andrew O'Connor"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Mitchell",
+      "Robert Webb",
+      "Matt King"
+    ],
+    "story_line": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.",
+    "production_company": "Objective Productions"
+  },
+  {
+    "title": "Line of Duty",
+    "rating": 8.6,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Jed Mercurio"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Martin Compston",
+      "Vicky McClure",
+      "Adrian Dunbar"
+    ],
+    "story_line": "DS Steve Arnott is transferred to the police anti-corruption unit after the death of a man in a mistaken shooting during a counter-terrorist operation.",
+    "production_company": "BBC Drama Productions"
+  },
+  {
+    "title": "Mind Your Language",
+    "rating": 8.7,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1977-01-01",
+      "end_year": "1986-01-01"
+    },
+    "creators": [
+      "Vince Powell"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Barry Evans",
+      "George Camiller",
+      "Jacki Harding"
+    ],
+    "story_line": "Jeremy Brown is a put-upon language teacher who tries to make a living by teaching English to immigrants. With pupils from India, France, China, and many other countries, his lessons do not...\n                    See full summary »",
+    "production_company": "London Weekend Television (LWT)"
+  },
+  {
+    "title": "Father Ted",
+    "rating": 8.6,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1995-01-01",
+      "end_year": "1998-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dermot Morgan",
+      "Ardal O'Hanlon",
+      "Frank Kelly"
+    ],
+    "story_line": "Three misfit priests and their housekeeper live on Craggy Island, not the peaceful and quiet part of Ireland that it seems to be.",
+    "production_company": "Channel 4 Television Corporation"
+  },
+  {
+    "title": "MisteRogers' Neighborhood",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "release_date": {
+      "start_year": "1968-01-01",
+      "end_year": "2001-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Fred Rogers",
+      "Betty Aberlin",
+      "David Newell"
+    ],
+    "story_line": "Fred Rogers explores various topics for young viewers through presentations and music, both in his world and in the Neighborhood of Make-Believe.",
+    "production_company": "Family Communications"
+  },
+  {
+    "title": "Leyla ile Mecnun",
+    "rating": 9.1,
+    "runtime": "1h 20min",
+    "runtime_mins": 80,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": "2014-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ali Atay",
+      "Ahmet Mümtaz Taylan",
+      "Serkan Keskin"
+    ],
+    "story_line": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun.",
+    "production_company": "Eflatun Film"
+  },
+  {
+    "title": "Skam",
+    "rating": 8.7,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": "2017-01-01"
+    },
+    "creators": [
+      "Julie Andem"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Josefine Frida Pettersen",
+      "Lisa Teige",
+      "Iman Meskini"
+    ],
+    "story_line": "The story of young teenagers and pupils on Hartvig Nissens upper secondary school in Oslo, and their troubles, scandals and everyday life. Each season is told from a different person's point of view.",
+    "production_company": "Norsk Rikskringkasting (NRK)"
+  },
+  {
+    "title": "Justice League",
+    "rating": 8.6,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2001-01-01",
+      "end_year": "2004-01-01"
+    },
+    "creators": [
+      "Bob Kane",
+      "William Moulton Marston",
+      "Joe Shuster"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Carl Lumbly",
+      "Phil LaMarr",
+      "Michael Rosenbaum"
+    ],
+    "story_line": "Seven of the most formidable heroes form arguably the most powerful team ever.",
+    "production_company": "Warner Bros. Animation"
+  },
+  {
+    "title": "The Newsroom",
+    "rating": 8.6,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": "2014-01-01"
+    },
+    "creators": [
+      "Aaron Sorkin"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr."
+    ],
+    "story_line": "A newsroom undergoes some changes in its workings and morals as a new team is brought in, bringing unexpected results for its existing news anchor.",
+    "production_company": "HBO Entertainment"
+  },
+  {
+    "title": "Kota Factory",
+    "rating": 9.3,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2019-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Saurabh Khanna"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mayur More",
+      "Ranjan Raj",
+      "Revathi Pillai"
+    ],
+    "story_line": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives.",
+    "production_company": "Contagious Online Media Network"
+  },
+  {
+    "title": "Justified",
+    "rating": 8.6,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Graham Yost"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Timothy Olyphant",
+      "Nick Searcy",
+      "Joelle Carter"
+    ],
+    "story_line": "Old-school U.S. Marshal Raylan Givens is reassigned from Miami to his childhood home in the poor, rural coal mining towns in eastern Kentucky.",
+    "production_company": "FX Productions"
+  },
+  {
+    "title": "Flight of the Conchords",
+    "rating": 8.6,
+    "runtime": "28min",
+    "runtime_mins": 28,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Musical"
+    ],
+    "release_date": {
+      "start_year": "2007-01-01",
+      "end_year": "2009-01-01"
+    },
+    "creators": [
+      "James Bobin",
+      "Jemaine Clement",
+      "Bret McKenzie"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jemaine Clement",
+      "Bret McKenzie",
+      "Rhys Darby"
+    ],
+    "story_line": "Bret and Jemaine are Flight of the Conchords, a folk-rock band from New Zealand living in New York City in search of stardom.",
+    "production_company": "Dakota Pictures"
+  },
+  {
+    "title": "Shin Seiki Evangerion",
+    "rating": 8.6,
+    "runtime": "10h 24min",
+    "runtime_mins": 624,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "1995-01-01",
+      "end_year": "1996-01-01"
+    },
+    "creators": [
+      "Hideaki Anno"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "story_line": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+    "production_company": "Gainax"
+  },
+  {
+    "title": "Yes Minister",
+    "rating": 8.6,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1980-01-01",
+      "end_year": "1984-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Paul Eddington",
+      "Nigel Hawthorne",
+      "Derek Fowlds"
+    ],
+    "story_line": "The Right Honorable James Hacker has landed the plum job of Cabinet Minister to the Department of Administration. At last he is in a position of power and can carry out some long-needed reforms, or so he thinks.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Chef's Table",
+    "rating": 8.6,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Documentary"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dan Barber",
+      "Massimo Bottura",
+      "Bill Buford"
+    ],
+    "story_line": "Chef's Table goes inside the lives and kitchens of six of the world's most renowned international chefs. Each episode focuses on a single chef and their unique look at their lives, talents and passion from their piece of culinary heaven.",
+    "production_company": "Boardwalk Pictures"
+  },
+  {
+    "title": "Seinto Seiya",
+    "rating": 8.6,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1986-01-01",
+      "end_year": "1989-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Hideyuki Tanaka",
+      "Tôru Furuya",
+      "Ryô Horikawa"
+    ],
+    "story_line": "A group a young warriors known as 'Saints', each in possession of a 'cloth' guarded by a different constellation, must protect the reincarnation of the goddess Athena as she attempts to keep the Earth from being destroyed by evil forces.",
+    "production_company": "Shueisha"
+  },
+  {
+    "title": "Generation Kill",
+    "rating": 8.6,
+    "runtime": "1h 10min",
+    "runtime_mins": 70,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "release_date": {
+      "release_date": "2008-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Alexander Skarsgård",
+      "James Ransone",
+      "Lee Tergesen"
+    ],
+    "story_line": "A Rolling Stone reporter, embedded with The 1st Recon Marines chronicles his experiences during the first wave of the American-led assault on Baghdad in 2003.",
+    "production_company": "Boom"
+  },
+  {
+    "title": "Big Little Lies",
+    "rating": 8.6,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "David E. Kelley"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Reese Witherspoon",
+      "Nicole Kidman",
+      "Shailene Woodley"
+    ],
+    "story_line": "The apparently perfect lives of upper-class mothers, at a prestigious elementary school, unravel to the point of murder when a single-mother moves to their quaint Californian beach town.",
+    "production_company": "Home Box Office (HBO)"
+  },
+  {
+    "title": "Poirot",
+    "rating": 8.6,
+    "runtime": "1h 40min",
+    "runtime_mins": 100,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1989-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "David Suchet",
+      "Hugh Fraser",
+      "Philip Jackson"
+    ],
+    "story_line": "The cases of eccentric but sharp Belgian detective Hercule Poirot.",
+    "production_company": "Carnival Film & Television"
+  },
+  {
+    "title": "The Defiant Ones",
+    "rating": 8.6,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": "2017-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dr. Dre",
+      "Jimmy Iovine",
+      "Trent Reznor"
+    ],
+    "story_line": "\"The Defiant Ones\" examines the partnership between Jimmy Iovine and Dr. Dre - one the son of a Brooklyn longshoreman, the other straight out of Compton - and their leading roles in a chain of transformative events in contemporary culture.",
+    "production_company": null
+  },
+  {
+    "title": "Boardwalk Empire",
+    "rating": 8.6,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2014-01-01"
+    },
+    "creators": [
+      "Terence Winter"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Steve Buscemi",
+      "Kelly Macdonald",
+      "Michael Shannon"
+    ],
+    "story_line": "An Atlantic City, New Jersey politician plays both sides of the law, conspiring with gangsters during the Prohibition era.",
+    "production_company": "Home Box Office (HBO)"
+  },
+  {
+    "title": "Brass Eye",
+    "rating": 8.6,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1997-01-01",
+      "end_year": "2001-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Christopher Morris",
+      "Mark Heap",
+      "Kevin Eldon"
+    ],
+    "story_line": "Controversal spoof of current affairs television, and the role of celebrity in the UK.",
+    "production_company": "TalkBack Productions"
+  },
+  {
+    "title": "Kenpû denki beruseruku",
+    "rating": 8.5,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1997-01-01",
+      "end_year": "1998-01-01"
+    },
+    "creators": [
+      "Kentaro Miura"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Nobutoshi Canna",
+      "Marc Diraison",
+      "Carrie Keranen"
+    ],
+    "story_line": "Guts is a skilled swordsman who joins forces with a mercenary group named 'The Band of the Hawk', lead by the charismatic Griffith, and fights with them as they battle their way into the royal court.",
+    "production_company": "OLM-Animation Studio"
+  },
+  {
+    "title": "Adventure Time with Finn & Jake",
+    "rating": 8.6,
+    "runtime": "11min",
+    "runtime_mins": 11,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2018-01-01"
+    },
+    "creators": [
+      "Pendleton Ward"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "John DiMaggio",
+      "Jeremy Shada",
+      "Tom Kenny"
+    ],
+    "story_line": "A 12-year-old boy and his best friend, wise 28-year-old dog with magical powers, go on a series of surreal adventures with each other.",
+    "production_company": "Frederator Studios"
+  },
+  {
+    "title": "John Adams",
+    "rating": 8.6,
+    "runtime": "1h 11min",
+    "runtime_mins": 71,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2008-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Paul Giamatti",
+      "Laura Linney",
+      "John Dossett"
+    ],
+    "story_line": "The life of one of the USA's Founding Fathers, its second President, and his role in the nation's first 50 years.",
+    "production_company": "HBO Films"
+  },
+  {
+    "title": "Fleabag",
+    "rating": 8.6,
+    "runtime": "27min",
+    "runtime_mins": 27,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Phoebe Waller-Bridge"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Phoebe Waller-Bridge",
+      "Sian Clifford",
+      "Olivia Colman"
+    ],
+    "story_line": "A comedy series adapted from the award-winning play about a young woman trying to cope with life in London whilst coming to terms with a recent tragedy.",
+    "production_company": "Two Brothers Pictures"
+  },
+  {
+    "title": "Mystery Science Theater 3000",
+    "rating": 8.5,
+    "runtime": "1h 32min",
+    "runtime_mins": 92,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "1988-01-01",
+      "end_year": "1999-01-01"
+    },
+    "creators": [
+      "Joel Hodgson"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Joel Hodgson",
+      "Michael J. Nelson",
+      "Trace Beaulieu"
+    ],
+    "story_line": "In the not-too-distant future Joel Robinson is held captive by Dr. Forrester and TV's Frank, forced to watch B-Grade movies on the Satellite of Love with the help of his robot friends: Cambot, Gypsy, Tom Servo and Crow T. Robot.",
+    "production_company": "Best Brains"
+  },
+  {
+    "title": "The Eric Andre Show",
+    "rating": 8.6,
+    "runtime": "11min",
+    "runtime_mins": 11,
+    "genres": [
+      "Comedy",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Eric André"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Eric André",
+      "Hannibal Buress",
+      "Tom Ato"
+    ],
+    "story_line": "Eric Andre tries to host a talk show in a bizarre environment, where he is sometimes the player of pranks and sometimes the victim.",
+    "production_company": "Abso Lutely Productions"
+  },
+  {
+    "title": "Yes, Prime Minister",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1986-01-01",
+      "end_year": "1987-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Paul Eddington",
+      "Nigel Hawthorne",
+      "Derek Fowlds"
+    ],
+    "story_line": "James Hacker was propelled along the corridors of power to the very pinnacle of politics - Number 10.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "The Night Of",
+    "rating": 8.5,
+    "runtime": "8h 45min",
+    "runtime_mins": 525,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2016-01-01"
+    },
+    "creators": [
+      "Richard Price",
+      "Steven Zaillian"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Riz Ahmed",
+      "John Turturro",
+      "Bill Camp"
+    ],
+    "story_line": "After a night of partying with a woman he picked up, a man wakes up to find her stabbed to death and is charged with her murder.",
+    "production_company": "BBC Drama Productions"
+  },
+  {
+    "title": "Alfred Hitchcock Presents",
+    "rating": 8.5,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "1955-01-01",
+      "end_year": "1962-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Alfred Hitchcock",
+      "Harry Tyler",
+      "John Williams"
+    ],
+    "story_line": "Series of unrelated short stories covering elements of crime, horror, drama, and comedy about people of different backgrounds committing murders, suicides, thefts, and other sorts of crime caused by certain motivations, perceived or not.",
+    "production_company": "Alfred J. Hitchcock Productions"
+  },
+  {
+    "title": "Louie",
+    "rating": 8.5,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Louis C.K."
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Louis C.K.",
+      "Hadley Delany",
+      "Ursula Parker"
+    ],
+    "story_line": "The life of Louie C.K., a divorced comedian living in New York with two kids.",
+    "production_company": "3 Arts Entertainment"
+  },
+  {
+    "title": "Coupling",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "release_date": {
+      "start_year": "2000-01-01",
+      "end_year": "2004-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jack Davenport",
+      "Gina Bellman",
+      "Sarah Alexander"
+    ],
+    "story_line": "Six best friends talk about all aspects of sex and relationships on their never-ending quest to find true love.",
+    "production_company": "Hartswood Films"
+  },
+  {
+    "title": "Samurai chanpurû",
+    "rating": 8.6,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": "2005-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kazuya Nakai",
+      "Ginpei Sato",
+      "Ayako Kawasumi"
+    ],
+    "story_line": "Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the \"samurai who smells of sunflowers.\"",
+    "production_company": "Barnum Studio"
+  },
+  {
+    "title": "Homicide: Life on the Street",
+    "rating": 8.6,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "1993-01-01",
+      "end_year": "1999-01-01"
+    },
+    "creators": [
+      "Paul Attanasio"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Richard Belzer",
+      "Clark Johnson",
+      "Yaphet Kotto"
+    ],
+    "story_line": "A police homicide investigation unit investigates violent crimes in the city of Baltimore.",
+    "production_company": "Baltimore Pictures"
+  },
+  {
+    "title": "The Punisher",
+    "rating": 8.6,
+    "runtime": "53min",
+    "runtime_mins": 53,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": "2019-01-01"
+    },
+    "creators": [
+      "Steve Lightfoot"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jon Bernthal",
+      "Amber Rose Revah",
+      "Ben Barnes"
+    ],
+    "story_line": "After the murder of his family, Marine veteran Frank Castle becomes the vigilante known as \"The Punisher,\" with only one goal in mind: to avenge them.",
+    "production_company": "ABC Studios"
+  },
+  {
+    "title": "Dragon Ball",
+    "rating": 8.5,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1986-01-01",
+      "end_year": "2003-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Brice Armstrong",
+      "Steve Olson",
+      "Stephanie Nadolny"
+    ],
+    "story_line": "Dragon Ball tells the tale of a young warrior by the name of Son Goku, a young peculiar boy with a tail who embarks on a quest to become stronger and learns of the Dragon Balls, when, once all 7 are gathered, grant any wish of choice.",
+    "production_company": "FUNimation Entertainment"
+  },
+  {
+    "title": "The IT Crowd",
+    "rating": 8.5,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2006-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Chris O'Dowd",
+      "Richard Ayoade",
+      "Katherine Parkinson"
+    ],
+    "story_line": "The comedic misadventures of Roy, Moss and their grifting supervisor Jen, a rag-tag team of IT support workers at a large corporation headed by a hotheaded yuppie.",
+    "production_company": "Talkback Thames"
+  },
+  {
+    "title": "Dragon Ball: Doragon bôru",
+    "rating": 8.5,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1986-01-01",
+      "end_year": "1989-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Masako Nozawa",
+      "Jôji Yanami",
+      "Brice Armstrong"
+    ],
+    "story_line": "Son Gokû, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire.",
+    "production_company": "The Bird Studio"
+  },
+  {
+    "title": "Mindhunter",
+    "rating": 8.5,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Joe Penhall"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jonathan Groff",
+      "Holt McCallany",
+      "Anna Torv"
+    ],
+    "story_line": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+    "production_company": "Denver and Delilah Productions"
+  },
+  {
+    "title": "Mr. Bean",
+    "rating": 8.5,
+    "runtime": "5h 50min",
+    "runtime_mins": 350,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_date": {
+      "start_year": "1990-01-01",
+      "end_year": "1995-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Rowan Atkinson",
+      "Robin Driscoll",
+      "Matilda Ziegler"
+    ],
+    "story_line": "Bumbling, childlike Mr. Bean has trouble completing the simplest of tasks in day-to-day life, but his perseverance and resourcefulness frequently allow him to find ingenious ways around problems.",
+    "production_company": "Tiger Aspect Productions"
+  },
+  {
+    "title": "The Untold History of the United States",
+    "rating": 8.6,
+    "runtime": "58min",
+    "runtime_mins": 58,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Oliver Stone",
+      "Alan Shearman",
+      "Jim Ward"
+    ],
+    "story_line": "Oliver Stone's re-examination of under-reported events in American history.",
+    "production_company": "Ixtlan Productions"
+  },
+  {
+    "title": "Feud",
+    "rating": 8.6,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Jaffe Cohen",
+      "Ryan Murphy",
+      "Michael Zam"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jessica Lange",
+      "Susan Sarandon",
+      "Judy Davis"
+    ],
+    "story_line": "Planned anthology series centering on famous feuds, including Bette Davis and Joan Crawford that is discontinued at the moment.",
+    "production_company": "Plan B Entertainment"
+  },
+  {
+    "title": "Dr. Horrible's Sing-Along Blog",
+    "rating": 8.6,
+    "runtime": "42min",
+    "runtime_mins": 42,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "release_date": "2008-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Neil Patrick Harris",
+      "Nathan Fillion",
+      "Felicia Day"
+    ],
+    "story_line": "An aspiring supervillain must balance his career and his pursuit of a beautiful do-gooder.",
+    "production_company": "Mutant Enemy"
+  },
+  {
+    "title": "Silicon Valley",
+    "rating": 8.5,
+    "runtime": "28min",
+    "runtime_mins": 28,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "John Altschuler",
+      "Mike Judge",
+      "Dave Krinsky"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Thomas Middleditch",
+      "T.J. Miller",
+      "Josh Brener"
+    ],
+    "story_line": "Follows the struggle of Richard Hendricks, a Silicon Valley engineer trying to build his own company called Pied Piper.",
+    "production_company": "3 Arts Entertainment"
+  },
+  {
+    "title": "The Office",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2001-01-01",
+      "end_year": "2003-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ricky Gervais",
+      "Martin Freeman",
+      "Mackenzie Crook"
+    ],
+    "story_line": "The story of an office that faces closure when the company decides to downsize its branches. A documentary film crew follow staff and the manager David Brent as they continue their daily lives.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "BoJack Horseman",
+    "rating": 8.5,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Raphael Bob-Waksberg"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Will Arnett",
+      "Amy Sedaris",
+      "Alison Brie"
+    ],
+    "story_line": "BoJack Horseman was the star of the hit TV show \"Horsin' Around\" in the '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.",
+    "production_company": "Tornante Company"
+  },
+  {
+    "title": "Formula 1: Drive to Survive",
+    "rating": 8.6,
+    "runtime": "40min",
+    "runtime_mins": 40,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Carlos Sainz"
+    ],
+    "story_line": "Docuseries following the 2018 FIA Formula One World Championship.",
+    "production_company": "Box to Box Films"
+  },
+  {
+    "title": "Whose Line Is It Anyway?",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Game-Show"
+    ],
+    "release_date": {
+      "start_year": "1998-01-01",
+      "end_year": "2007-01-01"
+    },
+    "creators": [
+      "Mark Leveson",
+      "Dan Patterson"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Drew Carey",
+      "Colin Mochrie",
+      "Ryan Stiles"
+    ],
+    "story_line": "Improvisational comedy competition show in which four members of the regular cast as comedians and often with guest appearances with other comedians and celebrities and members of the audience perform various comic games and sketches.",
+    "production_company": "Hat Trick Productions"
+  },
+  {
+    "title": "Vikings",
+    "rating": 8.6,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Michael Hirst"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Gustaf Skarsgård",
+      "Katheryn Winnick",
+      "Alexander Ludwig"
+    ],
+    "story_line": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
+    "production_company": "World 2000 Entertainment"
+  },
+  {
+    "title": "Impractical Jokers",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Reality-TV"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Brian Quinn",
+      "James Murray",
+      "Sal Vulcano"
+    ],
+    "story_line": "Q, Sal, Joe and Murr are real-life best friends who love challenging each other to the most outrageous dares and stunts ever caught on hidden camera.",
+    "production_company": "NorthSouth Productions"
+  },
+  {
+    "title": "The New Batman Adventures",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1997-01-01",
+      "end_year": "1999-01-01"
+    },
+    "creators": [
+      "Bob Kane"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kevin Conroy",
+      "Tara Strong",
+      "Mathew Valencia"
+    ],
+    "story_line": "The further and darker adventures of Batman with a new Robin, a closer association with Batgirl and the previous Robin now as Nightwing.",
+    "production_company": "Warner Bros. Animation"
+  },
+  {
+    "title": "Brideshead Revisited",
+    "rating": 8.6,
+    "runtime": "10h 59min",
+    "runtime_mins": 659,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": {
+      "release_date": "1981-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jeremy Irons",
+      "Diana Quick",
+      "Roger Milner"
+    ],
+    "story_line": "Two young men meet at Oxford. Charles Ryder, though of no family or money, becomes friends with Sebastian Flyte when Sebastian throws up in his college room through an open window. He then ...\n                    See full summary »",
+    "production_company": "Granada Television"
+  },
+  {
+    "title": "Twin Peaks",
+    "rating": 8.5,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [
+      "Mark Frost",
+      "David Lynch"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kyle MacLachlan",
+      "Sheryl Lee",
+      "Michael Horse"
+    ],
+    "story_line": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+    "production_company": "Showtime Networks"
+  },
+  {
+    "title": "Hannibal",
+    "rating": 8.5,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Bryan Fuller"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Hugh Dancy",
+      "Mads Mikkelsen",
+      "Caroline Dhavernas"
+    ],
+    "story_line": "Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers.",
+    "production_company": "Dino De Laurentiis Company"
+  },
+  {
+    "title": "Yeh Meri Family",
+    "rating": 9.4,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "start_year": "2018-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Sameer Saxena"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Vishesh Bansal",
+      "Mona Singh",
+      "Akarsh Khurana"
+    ],
+    "story_line": "Set in the summer of 1998 it is a story about conflicting emotions towards family members from the eyes of a twelve year old.",
+    "production_company": "Contagious Online Media Network"
+  },
+  {
+    "title": "Black Books",
+    "rating": 8.5,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2000-01-01",
+      "end_year": "2004-01-01"
+    },
+    "creators": [
+      "Dylan Moran"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Dylan Moran",
+      "Bill Bailey",
+      "Tamsin Greig"
+    ],
+    "story_line": "Bernard Black runs a book shop, though his customer service skills leave something to be desired. He hires Manny as an employee. Fran runs the shop next door. Between the three of them many adventures ensue.",
+    "production_company": "Assembly Film and Television"
+  },
+  {
+    "title": "Sseulsseulhago Chalranhashin: Dokkaebi",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": "2017-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Yoo Gong",
+      "Go-eun Kim",
+      "Dong-Wook Lee"
+    ],
+    "story_line": "Dokkaebi (Gong Yoo) needs a human bride to end his immortal life. Meanwhile, the Angel of Death has amnesia. Somehow these two meet and live together. They see off those who have passed away and are now leaving this world.",
+    "production_company": "CJ E&M"
+  },
+  {
+    "title": "Mr. Robot",
+    "rating": 8.5,
+    "runtime": "49min",
+    "runtime_mins": 49,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Sam Esmail"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Rami Malek",
+      "Christian Slater",
+      "Portia Doubleday"
+    ],
+    "story_line": "Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for.",
+    "production_company": "Anonymous Content"
+  },
+  {
+    "title": "Umbre",
+    "rating": 8.8,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Serban Pavlu",
+      "Maria Obretin",
+      "Andreea Vasile"
+    ],
+    "story_line": "Relu is a family man. He has two children, a wife, and a double life. Seen through the eyes of his family, Relu Oncescu appears to be an ordinary taxi driver. No one suspects that Relu ...\n                    See full summary »",
+    "production_company": "HBO Europe"
+  },
+  {
+    "title": "Boku dake ga inai machi",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ben Diskin",
+      "Shinnosuke Mitsushima",
+      "Michelle Ruff"
+    ],
+    "story_line": "29 year old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings in his 5th grade year.",
+    "production_company": "A-1 Pictures"
+  },
+  {
+    "title": "Spartacus: Gods of the Arena",
+    "rating": 8.5,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ],
+    "release_date": {
+      "release_date": "2011-01-01"
+    },
+    "creators": [
+      "Steven S. DeKnight"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "John Hannah",
+      "Manu Bennett",
+      "Peter Mensah"
+    ],
+    "story_line": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household.",
+    "production_company": "Starz!"
+  },
+  {
+    "title": "Endeavour",
+    "rating": 8.6,
+    "runtime": "1h 29min",
+    "runtime_mins": 89,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Shaun Evans",
+      "Roger Allam",
+      "James Bradshaw"
+    ],
+    "story_line": "Set in the 1960s, the show follows Endeavour Morse in his early years as a police constable. Working alongside his senior partner DI Fred Thursday, Morse engages in a number of investigations around Oxford.",
+    "production_company": "Mammoth Screen"
+  },
+  {
+    "title": "Horace and Pete",
+    "rating": 8.5,
+    "runtime": "1h 7min",
+    "runtime_mins": 67,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [
+      "Louis C.K."
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Louis C.K.",
+      "Steve Buscemi",
+      "Edie Falco"
+    ],
+    "story_line": "Louis C.K.'s Eugene O'Neill-esque dramedic web series about two brothers, introverted Horace and mentally ill Pete, the current owners of their family's Irish bar \"Horace and Pete's\", and their dysfunctional family and friends.",
+    "production_company": "Pig Newton"
+  },
+  {
+    "title": "La Casa de Papel",
+    "rating": 8.6,
+    "runtime": "1h 10min",
+    "runtime_mins": 70,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Álex Pina"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Úrsula Corberó",
+      "Itziar Ituño",
+      "Álvaro Morte"
+    ],
+    "story_line": "A group of very peculiar robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.",
+    "production_company": "Vancouver Media"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "rating": 8.5,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Bruce Miller"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Elisabeth Moss",
+      "Yvonne Strahovski",
+      "Joseph Fiennes"
+    ],
+    "story_line": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+    "production_company": "MGM Television"
+  },
+  {
+    "title": "The Prisoner",
+    "rating": 8.5,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "1967-01-01",
+      "end_year": "1968-01-01"
+    },
+    "creators": [
+      "Patrick McGoohan"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Patrick McGoohan",
+      "Angelo Muscat",
+      "Peter Swanwick"
+    ],
+    "story_line": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.",
+    "production_company": "Everyman Films"
+  },
+  {
+    "title": "Luther",
+    "rating": 8.5,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Neil Cross"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Idris Elba",
+      "Dermot Crowley",
+      "Michael Smiley"
+    ],
+    "story_line": "DCI John Luther is a near-genius murder detective whose brilliant mind can't always save him from the dangerous violence of his passions.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Sons of Anarchy",
+    "rating": 8.6,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2008-01-01",
+      "end_year": "2014-01-01"
+    },
+    "creators": [
+      "Kurt Sutter"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Charlie Hunnam",
+      "Katey Sagal",
+      "Mark Boone Junior"
+    ],
+    "story_line": "A biker struggles to balance being a father and being involved in an outlaw motorcycle club.",
+    "production_company": "SutterInk"
+  },
+  {
+    "title": "Masum",
+    "rating": 8.7,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "2017-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Haluk Bilginer",
+      "Nur Sürer",
+      "Ali Atay"
+    ],
+    "story_line": "Cevdet (Haluk Bilginer), a retired commissioner, and his wife spend their pensions in peace on a farm away from the city. Suddenly the life of the family is destroyed by the sudden arrival of a terrible news from the little son.",
+    "production_company": "D Production"
+  },
+  {
+    "title": "Futurama",
+    "rating": 8.5,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "1999-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [
+      "David X. Cohen",
+      "Matt Groening"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Billy West",
+      "John DiMaggio",
+      "Katey Sagal"
+    ],
+    "story_line": "Philip J. Fry, a pizza guy, is accidentally frozen in 1999 and thawed out New Year's Eve 2999.",
+    "production_company": "The Curiosity Company"
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "rating": 8.5,
+    "runtime": "4h 50min",
+    "runtime_mins": 290,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "release_date": {
+      "release_date": "1979-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Alec Guinness",
+      "Michael Jayston",
+      "Anthony Bate"
+    ],
+    "story_line": "In the bleak days of the Cold War, espionage veteran George Smiley is forced out of semi-retirement to uncover a Soviet Agent within MI6's echelons.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "House of Cards",
+    "rating": 8.5,
+    "runtime": "3h 46min",
+    "runtime_mins": 226,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1990-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ian Richardson",
+      "Susannah Harker",
+      "Miles Anderson"
+    ],
+    "story_line": "The schemes of a ruthlessly ambitious British politician who will stop at nothing to get to the top.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "I'm Alan Partridge",
+    "rating": 8.5,
+    "runtime": "29min",
+    "runtime_mins": 29,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1997-01-01",
+      "end_year": "2002-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Steve Coogan",
+      "Phil Cornwell",
+      "Simon Greenall"
+    ],
+    "story_line": "Alan Partridge, a failed television presenter, is now presenting a programme on local radio in Norwich. He desperately tries to revive his broadcasting career.",
+    "production_company": "TalkBack Productions"
+  },
+  {
+    "title": "The Knick",
+    "rating": 8.5,
+    "runtime": "58min",
+    "runtime_mins": 58,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Jack Amiel",
+      "Michael Begler"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Clive Owen",
+      "André Holland",
+      "Jeremy Bobb"
+    ],
+    "story_line": "A look at the professional and personal lives of the staff at New York's Knickerbocker Hospital during the early part of the twentieth century.",
+    "production_company": "Anonymous Content"
+  },
+  {
+    "title": "Detectorists",
+    "rating": 8.6,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": "2017-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mackenzie Crook",
+      "Toby Jones",
+      "Rachael Stirling"
+    ],
+    "story_line": "The lives of two eccentric metal detectorists, who spend their days plodding along ploughed tracks and open fields, hoping to disturb the tedium by unearthing the fortune of a lifetime.",
+    "production_company": "Channel X"
+  },
+  {
+    "title": "Kôkaku kidôtai: Stand Alone Complex",
+    "rating": 8.5,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "release_date": {
+      "start_year": "2002-01-01",
+      "end_year": "2005-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Shirô Saitô",
+      "Mary Elizabeth McGlynn",
+      "William Frederick Knight"
+    ],
+    "story_line": "The futuristic adventures of a female cyborg counter intelligence agent and her support team.",
+    "production_company": "Bandai Visual Company"
+  },
+  {
+    "title": "Jesus of Nazareth",
+    "rating": 8.5,
+    "runtime": "6h 22min",
+    "runtime_mins": 382,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "1977-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Robert Powell",
+      "Olivia Hussey",
+      "Laurence Olivier"
+    ],
+    "story_line": "Beginning before the Nativity and extending through the Crucifixion and Resurrection, this mini-series brings to life all of the sweeping drama in the life of Jesus, as told by the Gospels.",
+    "production_company": "ITC Films"
+  },
+  {
+    "title": "American Crime Story",
+    "rating": 8.5,
+    "runtime": "42min",
+    "runtime_mins": 42,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Scott Alexander",
+      "Larry Karaszewski",
+      "Tom Rob Smith"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Sterling K. Brown",
+      "Kenneth Choi",
+      "Christian Clemenson"
+    ],
+    "story_line": "An anthology series centered around America's most notorious crimes and criminals.",
+    "production_company": "Ryan Murphy Productions"
+  },
+  {
+    "title": "Delhi Crime",
+    "rating": 8.6,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2019-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Richie Mehta"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Shefali Shah",
+      "Rajesh Tailang",
+      "Rasika Dugal"
+    ],
+    "story_line": "Based on the Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
+    "production_company": "Golden Karavan"
+  },
+  {
+    "title": "Community",
+    "rating": 8.5,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2009-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Dan Harmon"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Joel McHale",
+      "Danny Pudi",
+      "Donald Glover"
+    ],
+    "story_line": "A suspended lawyer is forced to enroll in a community college with an eclectic staff and student body.",
+    "production_company": "Krasnoff Foster Productions"
+  },
+  {
+    "title": "Spartacus: Blood and Sand",
+    "rating": 8.5,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [
+      "Steven S. DeKnight"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Andy Whitfield",
+      "Lucy Lawless",
+      "Manu Bennett"
+    ],
+    "story_line": "The life of Spartacus, the gladiator who lead a rebellion against the Romans. From his time as an ally of the Romans, to his betrayal and becoming a gladiator, to the rebellion he leads and its ultimate outcome.",
+    "production_company": "Tapert / Donen / Raimi"
+  },
+  {
+    "title": "Ash vs Evil Dead",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": "2018-01-01"
+    },
+    "creators": [
+      "Ivan Raimi",
+      "Sam Raimi",
+      "Tom Spezialy"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Bruce Campbell",
+      "Ray Santiago",
+      "Dana DeLorenzo"
+    ],
+    "story_line": "Ash has spent the last thirty years avoiding responsibility, maturity, and the terrors of the Evil Dead until a Deadite plague threatens to destroy all of mankind and Ash becomes mankind's only hope.",
+    "production_company": "Renaissance Pictures"
+  },
+  {
+    "title": "Wentworth",
+    "rating": 8.6,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Reg Watson",
+      "Lara Radulovich"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kate Atkinson",
+      "Celia Ireland",
+      "Robbie Magasiva"
+    ],
+    "story_line": "Bea Smith is locked up while awaiting trial for the attempted murder of her husband and must learn how life works in prison.",
+    "production_company": "FremantleMedia Australia"
+  },
+  {
+    "title": "This Is England '90",
+    "rating": 8.5,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "2015-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Lyra Mae Thomas",
+      "Billy Braithwait",
+      "Chanel Cresswell"
+    ],
+    "story_line": "The year is 1990, the rave scene has just entered England. The sound of the Stone roses lurks toward Shaun and the gang. This means that Woody and Lol are living in a domestic bliss, they are happy again. But this year will see huge changes in everyone. This is the year 1990. This is England.",
+    "production_company": "Warp Films"
+  },
+  {
+    "title": "Rurôni Kenshin -Meiji kenkaku romantan",
+    "rating": 8.5,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1996-01-01",
+      "end_year": "1999-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mayo Suzukaze",
+      "Richard Cansino",
+      "Dorothy Elias-Fahn"
+    ],
+    "story_line": "The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan.",
+    "production_company": "Aniplex"
+  },
+  {
+    "title": "X-Men",
+    "rating": 8.5,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Action",
+      "Family"
+    ],
+    "release_date": {
+      "start_year": "1992-01-01",
+      "end_year": "1997-01-01"
+    },
+    "creators": [
+      "Mark Edward Edens",
+      "Sidney Iwanter",
+      "Eric Lewald",
+      "1 more credit"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Cedric Smith",
+      "Cathal J. Dodd",
+      "Lenore Zann"
+    ],
+    "story_line": "A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe.",
+    "production_company": "Genesis Entertainment"
+  },
+  {
+    "title": "Scener ur ett äktenskap",
+    "rating": 8.5,
+    "runtime": "4h 43min",
+    "runtime_mins": 283,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "release_date": "1973-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Liv Ullmann",
+      "Erland Josephson",
+      "Bibi Andersson"
+    ],
+    "story_line": "Ten years within the marriage of Marianne and Johan.",
+    "production_company": "Cinematograph AB"
+  },
+  {
+    "title": "The Venture Bros.",
+    "rating": 8.5,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "2003-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Christopher McCulloch"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Christopher McCulloch",
+      "James Urbaniak",
+      "Doc Hammer"
+    ],
+    "story_line": "The bizarre animated escapades of pseudo-heroic scientist Dr. Rusty Venture, his competent, high strung bodyguard, and his two over-enthusiastic sons.",
+    "production_company": "Astro Base Go!"
+  },
+  {
+    "title": "Unsere Mütter, unsere Väter",
+    "rating": 8.5,
+    "runtime": "4h 30min",
+    "runtime_mins": 270,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "release_date": {
+      "release_date": "2013-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Volker Bruch",
+      "Tom Schilling",
+      "Katharina Schüttler"
+    ],
+    "story_line": "Five friends go out to war and promise each other to be back for Christmas.",
+    "production_company": "teamWorx Produktion für Kino und Fernsehen GmbH"
+  },
+  {
+    "title": "Behzat Ç.: Bir Ankara Polisiyesi",
+    "rating": 8.7,
+    "runtime": "1h 30min",
+    "runtime_mins": 90,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2019-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Erdal Besikçioglu",
+      "Inanç Konukçu",
+      "Berkan Sal"
+    ],
+    "story_line": "Centered around a personally troubled, officially discredited police chief and his inharmonious police team in Ankara Police Force. Even though the show usually focuses on murders and other...\n                    See full summary »",
+    "production_company": "Adam Film"
+  },
+  {
+    "title": "The Daily Show",
+    "rating": 8.4,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy",
+      "News",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "1996-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Madeleine Smithberg",
+      "Lizz Winstead"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jon Stewart",
+      "Stephen Colbert",
+      "Trevor Noah"
+    ],
+    "story_line": "Providing comedy/news in the tradition of TV Nation and SNL's Weekend Update, Comedy Central's Daily Show reports on the foibles and of the real world with a satirical edge. In addition to ...\n                    See full summary »",
+    "production_company": "Ark Angel Entertainment"
+  },
+  {
+    "title": "Happy Valley",
+    "rating": 8.5,
+    "runtime": "58min",
+    "runtime_mins": 58,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Sally Wainwright"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Sarah Lancashire",
+      "Siobhan Finneran",
+      "Shane Zaza"
+    ],
+    "story_line": "Catherine Cawood is the sergeant on duty when flustered and nervous accountant Kevin Weatherill comes into her West Yorkshire station to report a crime.",
+    "production_company": "Red Production Company"
+  },
+  {
+    "title": "Samurai Jack",
+    "rating": 8.4,
+    "runtime": "25min",
+    "runtime_mins": 25,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2001-01-01",
+      "end_year": "2017-01-01"
+    },
+    "creators": [
+      "Genndy Tartakovsky"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Phil LaMarr",
+      "Mako",
+      "Kevin Michael Richardson"
+    ],
+    "story_line": "A samurai sent through time fights to return home and save the world.",
+    "production_company": "Cartoon Network Studios"
+  },
+  {
+    "title": "The Legend of Korra",
+    "rating": 8.5,
+    "runtime": "23min",
+    "runtime_mins": 23,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "2012-01-01",
+      "end_year": "2014-01-01"
+    },
+    "creators": [
+      "Michael Dante DiMartino",
+      "Bryan Konietzko"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Janet Varney",
+      "P.J. Byrne",
+      "David Faustino"
+    ],
+    "story_line": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
+    "production_company": "Ginormous Madman"
+  },
+  {
+    "title": "Taboo",
+    "rating": 8.5,
+    "runtime": "59min",
+    "runtime_mins": 59,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "release_date": {
+      "start_year": "2017-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Chips Hardy",
+      "Tom Hardy",
+      "Steven Knight"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Tom Hardy",
+      "David Hayman",
+      "Jonathan Pryce"
+    ],
+    "story_line": "Adventurer James Keziah Delaney returns to London during the War of 1812 to rebuild his late father's shipping empire. However, both the government and his biggest competitor want his inheritance at any cost - even murder.",
+    "production_company": "Hardy, Son & Baker"
+  },
+  {
+    "title": "The Colbert Report",
+    "rating": 8.4,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "News",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "2005-01-01",
+      "end_year": "2015-01-01"
+    },
+    "creators": [
+      "Stephen Colbert",
+      "Ben Karlin",
+      "Jon Stewart"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Stephen Colbert",
+      "Jay Katsir",
+      "Jon Stewart"
+    ],
+    "story_line": "Satirical newscaster Stephen Colbert provides humorous commentary on the big issues going on in the United States and the rest of the world, with his larger-than-life ego and overly-patriotic spirit along with him every step of the way.",
+    "production_company": "Busboy Productions"
+  },
+  {
+    "title": "Garth Marenghi's Darkplace",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "release_date": {
+      "release_date": "2004-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Richard Ayoade",
+      "Matt Berry",
+      "Matthew Holness"
+    ],
+    "story_line": "This parody series is an unearthed 80s horror/drama, complete with poor production values, awful dialogue and hilarious violence. The series is set in a Hospital in Romford, which is situated over the gates of Hell.",
+    "production_company": "Avalon Television"
+  },
+  {
+    "title": "Carnivàle",
+    "rating": 8.5,
+    "runtime": "55min",
+    "runtime_mins": 55,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "release_date": {
+      "start_year": "2003-01-01",
+      "end_year": "2005-01-01"
+    },
+    "creators": [
+      "Daniel Knauf"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Michael J. Anderson",
+      "Adrienne Barbeau",
+      "Clancy Brown"
+    ],
+    "story_line": "During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.",
+    "production_company": "3 Arts Entertainment"
+  },
+  {
+    "title": "One Piece: Wan pîsu",
+    "rating": 8.6,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": {
+      "start_year": "1999-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Eiichiro Oda"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mayumi Tanaka",
+      "Tony Beck",
+      "Laurent Vernin"
+    ],
+    "story_line": "Follows the adventures of Monkey D. Luffy and his friends in order to find the greatest treasure ever left by the legendary Pirate, Gol D Roger. The famous mystery treasure named \"One Piece\".",
+    "production_company": "Toei Animation"
+  },
+  {
+    "title": "Critical Role",
+    "rating": 9.3,
+    "runtime": "3h",
+    "runtime_mins": 180,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Liam O'Brien",
+      "Matthew Mercer",
+      "Taliesin Jaffe"
+    ],
+    "story_line": "A live weekly show, where a band of professional voice actors improvise, role-play and roll their way through an epic Dungeons & Dragons campaign.",
+    "production_company": "Critical Role Productions"
+  },
+  {
+    "title": "Police Squad!",
+    "rating": 8.4,
+    "runtime": "24min",
+    "runtime_mins": 24,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [
+      "Jim Abrahams",
+      "David Zucker",
+      "Jerry Zucker"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Leslie Nielsen",
+      "Alan North",
+      "Rex Hamilton"
+    ],
+    "story_line": "Sight gags and non-sequiturs dominate this spoof of police dramas. The six episodes formed the basis for the very successful \"Naked Gun\" film franchise.",
+    "production_company": "Paramount Television"
+  },
+  {
+    "title": "Narcos: Mexico",
+    "rating": 8.4,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2018-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Carlo Bernard",
+      "Chris Brancato",
+      "Doug Miro"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Diego Luna",
+      "Scoot McNairy",
+      "Michael Peña"
+    ],
+    "story_line": "The rise of the Guadalajara Cartel as an American DEA agent learns the danger of targeting narcos in Mexico.",
+    "production_company": "Gaumont International Television"
+  },
+  {
+    "title": "After Life",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2019-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ricky Gervais",
+      "Tom Basden",
+      "Tony Way"
+    ],
+    "story_line": "After Tony's wife dies unexpectedly, his nice-guy persona is altered into an impulsive, devil-may-care attitude taking his old world by storm.",
+    "production_company": null
+  },
+  {
+    "title": "Utopia",
+    "rating": 8.4,
+    "runtime": "50min",
+    "runtime_mins": 50,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": "2014-01-01"
+    },
+    "creators": [
+      "Dennis Kelly"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Adeel Akhtar",
+      "Paul Higgins",
+      "Neil Maskell"
+    ],
+    "story_line": "After a group of people, who meet online, discover a bizarre graphic novel which seems to hold mysterious answers, they find themselves being tracked down by a merciless organization known merely as 'The Network'.",
+    "production_company": "Kudos Film and Television"
+  },
+  {
+    "title": "Suits",
+    "rating": 8.5,
+    "runtime": "44min",
+    "runtime_mins": 44,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2011-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Aaron Korsh"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Gabriel Macht",
+      "Patrick J. Adams",
+      "Meghan Markle"
+    ],
+    "story_line": "On the run from a drug deal gone bad, Mike Ross, a brilliant college dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.",
+    "production_company": "Hypnotic"
+  },
+  {
+    "title": "The Angry Video Game Nerd",
+    "rating": 8.4,
+    "runtime": "35min",
+    "runtime_mins": 35,
+    "genres": [
+      "Comedy",
+      "Talk-Show"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "James Rolfe"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "James Rolfe",
+      "Kyle Justin",
+      "Mike Matei"
+    ],
+    "story_line": "A foul-mouthed nerd reviews bad video games.",
+    "production_company": "GameTrailers"
+  },
+  {
+    "title": "The Bugs Bunny/Looney Tunes Comedy Hour",
+    "rating": 8.4,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "1985-01-01",
+      "end_year": "1986-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Mel Blanc",
+      "June Foray"
+    ],
+    "story_line": "A Saturday morning series, collecting of some of the most popular classic cartoons from the Looney Tunes catalogue.",
+    "production_company": "Warner Bros. Television"
+  },
+  {
+    "title": "Borgen",
+    "rating": 8.4,
+    "runtime": "58min",
+    "runtime_mins": 58,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2010-01-01",
+      "end_year": "2013-01-01"
+    },
+    "creators": [
+      "Adam Price"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Sidse Babett Knudsen",
+      "Birgitte Hjort Sørensen",
+      "Emil Poulsen"
+    ],
+    "story_line": "A political drama about a prime minister's rise to power, and how power changes a prime minister.",
+    "production_company": "DR Fiktion"
+  },
+  {
+    "title": "Inside No. 9",
+    "rating": 8.4,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "release_date": {
+      "start_year": "2014-01-01",
+      "end_year": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Reece Shearsmith",
+      "Steve Pemberton",
+      "Rosie Cavaliero"
+    ],
+    "story_line": "Anthology series which mixes dark humor with genres like crime, horror or drama. The show invites viewers into some very different No.9s, where the ordinary and mundane rub shoulders with the extraordinary and macabre.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Entourage",
+    "rating": 8.5,
+    "runtime": "28min",
+    "runtime_mins": 28,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2004-01-01",
+      "end_year": "2011-01-01"
+    },
+    "creators": [
+      "Doug Ellin"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Kevin Connolly",
+      "Adrian Grenier",
+      "Kevin Dillon"
+    ],
+    "story_line": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent.",
+    "production_company": "Home Box Office (HBO)"
+  },
+  {
+    "title": "Doctor Who",
+    "rating": 8.4,
+    "runtime": "45min",
+    "runtime_mins": 45,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "release_date": {
+      "start_year": "1963-01-01",
+      "end_year": "1989-01-01"
+    },
+    "creators": [
+      "Sydney Newman"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "William Hartnell",
+      "Patrick Troughton",
+      "Jon Pertwee"
+    ],
+    "story_line": "The adventures in time and space of the Doctor, a Time Lord who changes appearance and personality by regenerating when near death, and is joined by companions in battles against aliens and other megalomaniacs.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Inside Look: The People v. O.J. Simpson - American Crime Story",
+    "rating": 8.4,
+    "runtime": "5min",
+    "runtime_mins": 5,
+    "genres": [
+      "Documentary",
+      "Short"
+    ],
+    "release_date": {
+      "release_date": null
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Sarah Paulson",
+      "Brad Simpson",
+      "Sterling K. Brown"
+    ],
+    "story_line": "Inside the series of the same name.",
+    "production_company": "FX Network"
+  },
+  {
+    "title": "Pose",
+    "rating": 8.5,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Drama"
+    ],
+    "release_date": {
+      "start_year": "2018-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Steven Canals",
+      "Brad Falchuk",
+      "Ryan Murphy"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jason A. Rodriguez",
+      "Angelica Ross",
+      "Mj Rodriguez"
+    ],
+    "story_line": "Pose is set in the world of 1987 and \"looks at the juxtaposition of several segments of life and society in New York: the rise of the luxury universe, the downtown social and literary scene and the ball culture world.\"",
+    "production_company": "Color Force"
+  },
+  {
+    "title": "State of Play",
+    "rating": 8.4,
+    "runtime": "57min",
+    "runtime_mins": 57,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_date": {
+      "release_date": "2003-01-01"
+    },
+    "creators": [],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "John Simm",
+      "Kelly Macdonald",
+      "Bill Nighy"
+    ],
+    "story_line": "In London, a naive young politician becomes a suspect when his female assistant and mistress is killed in a suspicious accident. The politician's investigative journalist friend and his team uncover a government conspiracy.",
+    "production_company": "British Broadcasting Corporation (BBC)"
+  },
+  {
+    "title": "Modern Family",
+    "rating": 8.4,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "release_date": {
+      "start_year": "2009-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Steven Levitan",
+      "Christopher Lloyd"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Ed O'Neill",
+      "Sofía Vergara",
+      "Julie Bowen"
+    ],
+    "story_line": "Three different but related families face trials and tribulations in their own uniquely comedic ways.",
+    "production_company": "Levitan / Lloyd"
+  },
+  {
+    "title": "The Muppet Show",
+    "rating": 8.4,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "release_date": {
+      "start_year": "1976-01-01",
+      "end_year": "1981-01-01"
+    },
+    "creators": [
+      "Jim Henson",
+      "Jack Burns"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jim Henson",
+      "Frank Oz",
+      "Richard Hunt"
+    ],
+    "story_line": "Kermit the Frog and his fellow Muppets put on a vaudeville show at their theatre, bringing in a famous celebrity to help out for each episode.",
+    "production_company": "Associated Television (ATV)"
+  },
+  {
+    "title": "The Expanse",
+    "rating": 8.4,
+    "runtime": "1h",
+    "runtime_mins": 60,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "release_date": {
+      "start_year": "2015-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Mark Fergus",
+      "Hawk Ostby"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Steven Strait",
+      "Cas Anvar",
+      "Dominique Tipper"
+    ],
+    "story_line": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt.",
+    "production_company": "Alcon Entertainment"
+  },
+  {
+    "title": "Brooklyn Nine-Nine",
+    "rating": 8.4,
+    "runtime": "22min",
+    "runtime_mins": 22,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_date": {
+      "start_year": "2013-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Daniel J. Goor",
+      "Michael Schur"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Andy Samberg",
+      "Stephanie Beatriz",
+      "Terry Crews"
+    ],
+    "story_line": "Jake Peralta, an immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.",
+    "production_company": "Fremulon"
+  },
+  {
+    "title": "Letterkenny",
+    "rating": 8.5,
+    "runtime": "30min",
+    "runtime_mins": 30,
+    "genres": [
+      "Comedy"
+    ],
+    "release_date": {
+      "start_year": "2016-01-01",
+      "end_year": null
+    },
+    "creators": [
+      "Jared Keeso",
+      "Jacob Tierney"
+    ],
+    "directors": [],
+    "writers": [],
+    "stars": [
+      "Jared Keeso",
+      "Nathan Dales",
+      "Michelle Mylett"
+    ],
+    "story_line": "Quick-witted, fast-paced snappy comedy about rural folk getting by in a small town.",
+    "production_company": "New Metric Media"
   }
 ]

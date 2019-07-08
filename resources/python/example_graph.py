@@ -10,7 +10,10 @@ async def post(session, url, data):
 
 
 async def main():
-    with open('example_graph.json') as f:
+    """
+    Create a graph, with the top ~250 TV Shows and the top ~250 Movies
+    """
+    with open('example_graph.json', encoding='utf-8') as f:
         titles = json.load(f)
     async with aiohttp.ClientSession() as session:
         tasks = []
