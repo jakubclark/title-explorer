@@ -1,139 +1,142 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "title-explorer-schema",
-    "oneOf": [
-        {
-            "$ref": "#/definitions/title-object"
-        }
-    ],
-    "definitions": {
-        "title-object": {
-            "description": "A Title object represents a TV Show or Movie",
-            "type": "object",
-            "properties": {
-                "type": {
-                    "type": "string",
-                    "enum": [
-                        "TV-Show",
-                        "Movie"
-                    ]
-                },
-                "id": {
-                    "type": "string",
-                    "description": "Unique Identifier for the Title."
-                },
-                "title": {
-                    "type": "string",
-                    "description": "The name of the Title"
-                },
-                "rating": {
-                    "type": "number",
-                    "description": "Rating of the Title, out of 10"
-                },
-                "runtime": {
-                    "type": [
-                        "string",
-                        "null"
-                    ],
-                    "description": "Runtime of the Title"
-                },
-                "runtime_mins": {
-                    "type": [
-                        "number",
-                        "null"
-                    ],
-                    "description": "Runtime of the Title, in minutes"
-                },
-                "genres": {
-                    "type": "array",
-                    "description": "List of Genres of the Title",
-                    "items": {
-                        "type": "string",
-                        "description": "A single genre"
-                    }
-                },
-                "release_date": {
-                    "oneOf": [
-                        {
-                            "type": [
-                                "string",
-                                "null"
-                            ],
-                            "description": "Release Date of the Movie, in the form yyyy-mm-dd"
-                        },
-                        {
-                            "type": "object",
-                            "description": "A TV-Show, with a start_year and a possible end_year",
-                            "start_year": {
-                                "type": "string",
-                                "description": "Release Year of the Title, in the form yyyy-mm-dd. The month and day are redundant"
-                            },
-                            "end_year": {
-                                "type": [
-                                    "string",
-                                    "null"
-                                ],
-                                "description": "End Year of the Title, in the form yyyy-mm-dd. The month and day are redundant. A value of null indicates, the TV-Show is ongoing"
-                            }
-                        }
-                    ]
-                },
-                "creators": {
-                    "type": "array",
-                    "description": "List of creators of the Title",
-                    "items": {
-                        "type": "string",
-                        "description": "Name of a creator of the Title"
-                    },
-                    "minItems": 0
-                },
-                "directors": {
-                    "type": "array",
-                    "description": "List of directors of the Title",
-                    "items": {
-                        "type": "string",
-                        "description": "Name of a director of the Title"
-                    },
-                    "minItems": 0
-                },
-                "writers": {
-                    "type": "array",
-                    "description": "List of writers of the Title",
-                    "items": {
-                        "type": "string",
-                        "description": "Name of a writer of the Title"
-                    },
-                    "minItems": 0
-                },
-                "stars": {
-                    "type": "array",
-                    "description": "List of stars of the Title",
-                    "items": {
-                        "type": "string",
-                        "description": "Name of a star of the Title"
-                    },
-                    "minItems": 0
-                },
-                "story_line": {
-                    "type": "string",
-                    "description": "Brief plot description for the Title"
-                },
-                "production_company": {
-                    "type": ["string", "null"],
-                    "description": "Primary Production company, for the Title"
-                }
-            },
-            "required": [
-                "title",
-                "rating",
-                "genres",
-                "release_date",
-                "creators",
-                "writers",
-                "stars",
-                "story_line",
-                "production_company"
-            ]
-        }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "title-explorer-schema",
+  "oneOf": [
+    {
+      "$ref": "#/definitions/title-object"
     }
+  ],
+  "definitions": {
+    "title-object": {
+      "description": "A Title object represents a TV Show or Movie",
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "TV-Show",
+            "Movie"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "description": "Unique Identifier for the Title."
+        },
+        "title": {
+          "type": "string",
+          "description": "The name of the Title"
+        },
+        "rating": {
+          "type": "number",
+          "description": "Rating of the Title, out of 10"
+        },
+        "runtime": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Runtime of the Title"
+        },
+        "runtime_mins": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Runtime of the Title, in minutes"
+        },
+        "genres": {
+          "type": "array",
+          "description": "List of Genres of the Title",
+          "items": {
+            "type": "string",
+            "description": "A single genre"
+          }
+        },
+        "release_date": {
+          "oneOf": [
+            {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Release Date of the Movie, in the form yyyy-mm-dd"
+            },
+            {
+              "type": "object",
+              "description": "A TV-Show, with a start_year and a possible end_year",
+              "start_year": {
+                "type": "string",
+                "description": "Release Year of the Title, in the form yyyy-mm-dd. The month and day are redundant"
+              },
+              "end_year": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "description": "End Year of the Title, in the form yyyy-mm-dd. The month and day are redundant. A value of null indicates, the TV-Show is ongoing"
+              }
+            }
+          ]
+        },
+        "creators": {
+          "type": "array",
+          "description": "List of creators of the Title",
+          "items": {
+            "type": "string",
+            "description": "Name of a creator of the Title"
+          },
+          "minItems": 0
+        },
+        "directors": {
+          "type": "array",
+          "description": "List of directors of the Title",
+          "items": {
+            "type": "string",
+            "description": "Name of a director of the Title"
+          },
+          "minItems": 0
+        },
+        "writers": {
+          "type": "array",
+          "description": "List of writers of the Title",
+          "items": {
+            "type": "string",
+            "description": "Name of a writer of the Title"
+          },
+          "minItems": 0
+        },
+        "stars": {
+          "type": "array",
+          "description": "List of stars of the Title",
+          "items": {
+            "type": "string",
+            "description": "Name of a star of the Title"
+          },
+          "minItems": 0
+        },
+        "story_line": {
+          "type": "string",
+          "description": "Brief plot description for the Title"
+        },
+        "production_company": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Primary Production company, for the Title"
+        }
+      },
+      "required": [
+        "title",
+        "rating",
+        "genres",
+        "release_date",
+        "creators",
+        "writers",
+        "stars",
+        "story_line",
+        "production_company"
+      ]
+    }
+  }
 }
