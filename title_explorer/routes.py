@@ -9,6 +9,7 @@ from .graph import insert_to_db
 from .json_serializer import dumps
 from .logger import log
 from .validator import validate_title_object
+from .views import views
 
 routes = web.RouteTableDef()
 
@@ -20,6 +21,7 @@ def setup_routes(app: web.Application):
     except ImportError:
         log.info(f'Could not import the `scraper_routes` python moduels. Assuming, you don\'t have scraper endpoints')
     app.add_routes(routes)
+    app.add_routes(views)
 
 
 @routes.post('/api/title')

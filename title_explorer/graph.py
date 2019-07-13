@@ -1,4 +1,9 @@
+from typing import List
+
+from neo4j import Node
+
 from .logger import log
+from .utils import to_internal_id
 
 
 def check_exists(tx, label, id_field='name', id_value=''):
@@ -58,6 +63,7 @@ def create_title_node(tx, title_object):
     production_company = title_object['production_company']
     id = title_object['id']
     type = title_object['type']
+    image = title_object['image']
 
     log.debug(f'Creating Title="{title}"')
 
@@ -71,10 +77,11 @@ def create_title_node(tx, title_object):
            'story_line: $story_line, '
            'production_company: $production_company, '
            'id: $id, '
-           'type: $type})',
+           'type: $type, '
+           'image: $image})',
            title=title, rating=rating, runtime=runtime, runtime_mins=runtime_mins,
            genres=genres, release_date=release_date, story_line=story_line,
-           production_company=production_company, id=id, type=type)
+           production_company=production_company, id=id, type=type, image=image)
 
 
 def connect_person_to_title(tx, title_id, person_name, rel_type):
@@ -151,3 +158,22 @@ async def insert_to_db(app, result):
         make_connections(sess, result, 'directors', 'directed')
         make_connections(sess, result, 'writers', 'wrote')
         make_connections(sess, result, 'stars', 'starred_in')
+
+
+async def get_title(app, external_id: str) -> List[Node]:
+    """Try to search for a title with id=`id_`"""
+    internal_id = to_internal_id(external_id)
+
+    def _get_title(tx, title_id):
+        log.debug(f'Search for title with id="{title_id}"')
+        stmt = (f'MATCH(title:Title)<-[r]-(n1)\n'
+                f'WHERE title.id=\'{title_id}\'\n'
+                f'RETURN title, r, n1')
+        res = tx.run(stmt)
+        return [entry for entry in res]
+
+    driver = app['neo4j_driver']
+    with driver.session() as sess:
+        search_results = sess.read_transaction(_get_title, internal_id)
+
+    return search_results

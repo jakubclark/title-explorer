@@ -16,6 +16,7 @@ click = "==7.0"
 aiotask-context = "==0.6.0"
 neo4j = "==1.7.4"
 jsonschema = "==3.0.1"
+aiohttp-jinja2 = "==1.1.2"
 
 [requires]
 python_version = "3.6"
