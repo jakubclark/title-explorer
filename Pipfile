@@ -10,7 +10,7 @@ pytest = "*"
 isort = "*"
 
 [packages]
-aiohttp = "==3.5.4"
+aiohttp = "==3.7.4"
 beautifulsoup4 = "==4.7.1"
 click = "==7.0"
 aiotask-context = "==0.6.0"
